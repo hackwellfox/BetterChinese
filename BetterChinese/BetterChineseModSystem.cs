@@ -1,10 +1,4 @@
-﻿using HarmonyLib;
-using Vintagestory.API.Client;
-using Vintagestory.API.Server;
-using Vintagestory.API.Config;
-using Vintagestory.API.Common;
-using Vintagestory.Client;
-using Vintagestory.Common;
+﻿using Vintagestory.API.Common;
 
 namespace BetterChinese;
 

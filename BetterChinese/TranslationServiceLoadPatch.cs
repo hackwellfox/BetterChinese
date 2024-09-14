@@ -14,10 +14,13 @@ using Vintagestory.Client.NoObf;
 namespace BetterChinese;
 
 public static class TranslationServiceLoadPatch {
-	static private readonly AssetCategory GameLang = new AssetCategory("game/lang", false, EnumAppSide.Universal);
+	static private readonly AssetCategory GameLang = new("game/lang", false, EnumAppSide.Universal);
 
-	public static readonly MethodInfo TranslationServiceLoadEntries =
+	static private readonly MethodInfo TranslationServiceLoadEntries =
 		typeof(TranslationService).GetMethod("LoadEntries", BindingFlags.NonPublic | BindingFlags.Instance)!;
+
+	public static readonly MethodInfo OriginalMethod =
+		typeof(TranslationService).GetMethod(nameof(TranslationService.Load))!;
 
 	public static readonly MethodInfo PostfixMethod =
 		typeof(TranslationServiceLoadPatch).GetMethod("Postfix")!;
@@ -30,7 +33,7 @@ public static class TranslationServiceLoadPatch {
 		Dictionary<string, string> wildcardCache,
 		Dictionary<string, string> entries) {
 		try {
-			TranslationServiceLoadEntries?.Invoke(
+			TranslationServiceLoadEntries.Invoke(
 				translationService,
 				[
 					entries,
