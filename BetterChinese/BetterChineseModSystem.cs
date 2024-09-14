@@ -1,22 +1,34 @@
-﻿using Vintagestory.API.Client;
+﻿using HarmonyLib;
+using Vintagestory.API.Client;
 using Vintagestory.API.Server;
 using Vintagestory.API.Config;
 using Vintagestory.API.Common;
+using Vintagestory.Client;
+using Vintagestory.Common;
 
 namespace BetterChinese;
 
 public class BetterChineseModSystem : ModSystem {
+	public static ScreenManager? ScreenManager;
+	public static HarmonyPatch? HarmonyPatch;
 
-	// Called on server and client
-	// Useful for registering block/entity classes on both sides
-	public override void Start(ICoreAPI api) { api.Logger.Notification("Hello from template mod: " + api.Side); }
-
-	public override void StartServerSide(ICoreServerAPI api) {
-		api.Logger.Notification("Hello from template mod server side: " + Lang.Get("betterchinese:hello"));
+	public override void StartPre(ICoreAPI api) {
+		if (HarmonyPatch is not null) return;
+		HarmonyPatch = new(Mod.Info.ModID);
+		HarmonyPatch.Patch();
 	}
 
-	public override void StartClientSide(ICoreClientAPI api) {
-		api.Logger.Notification("Hello from template mod client side: " + Lang.Get("betterchinese:hello"));
+	public override void Dispose() {
+		base.Dispose();
+		HarmonyPatch?.UnPatch();
 	}
 
+	public static void EarlyLoad(ModContainer mod, ScreenManager screenManager) {
+		ScreenManager = screenManager;
+		if (HarmonyPatch is not null) return;
+		HarmonyPatch = new(mod.Info.ModID);
+		HarmonyPatch.Patch();
+	}
+
+	public static void EarlyUnload() { HarmonyPatch?.UnPatch(); }
 }
