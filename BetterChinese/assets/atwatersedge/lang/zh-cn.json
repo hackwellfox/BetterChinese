@@ -1,0 +1,13 @@
+{
+  "item-vegetable-cookedhalvedcattailroot": "煮熟的切半野生根茎",
+  "item-halvedcattailroot": "切半的香蒲根",
+  "item-halvedpapyrusroot": "切半的纸莎草根",
+  "item-halvedtuleroot": "切半的水三稜草根",
+  "block-tallplant-coopersreed-land-growing-free": "萌发中的香蒲",
+  "block-tallplant-coopersreed-ice-growing-free": "萌发中的香蒲",
+  "block-tallplant-papyrus-land-growing-free": "萌发中的纸莎草",
+  "block-tallplant-papyrus-ice-growing-free": "萌发中的纸莎草",
+  "block-tallplant-tule-land-growing-free": "萌发中的水三稜草",
+  "block-tallplant-tule-ice-growing-free": "萌发中的水三稜草",
+  "blockhelp-growing-reeds-harvest": "不能被收割"
+}
