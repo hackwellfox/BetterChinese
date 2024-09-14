@@ -9,7 +9,6 @@ using Vintagestory.Common;
 namespace BetterChinese;
 
 public class BetterChineseModSystem : ModSystem {
-	public static ScreenManager? ScreenManager;
 	public static HarmonyPatch? HarmonyPatch;
 
 	public override void StartPre(ICoreAPI api) {
@@ -22,13 +21,4 @@ public class BetterChineseModSystem : ModSystem {
 		base.Dispose();
 		HarmonyPatch?.UnPatch();
 	}
-
-	public static void EarlyLoad(ModContainer mod, ScreenManager screenManager) {
-		ScreenManager = screenManager;
-		if (HarmonyPatch is not null) return;
-		HarmonyPatch = new(mod.Info.ModID);
-		HarmonyPatch.Patch();
-	}
-
-	public static void EarlyUnload() { HarmonyPatch?.UnPatch(); }
 }
