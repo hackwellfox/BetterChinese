@@ -7,6 +7,7 @@ public class HarmonyPatch(string harmonyId) {
 	public Harmony HarmonyInstance => new(HarmonyId);
 
 	public void Patch() {
+		UnPatch();
 		HarmonyInstance.Patch(original: TranslationServiceLoadPatch.OriginalMethod,
 			postfix: TranslationServiceLoadPatch.PostfixMethod);
 	}
