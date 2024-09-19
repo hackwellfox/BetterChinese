@@ -1,0 +1,9 @@
+{
+    "Adds a blank new mod profile.": "添加一个新的空模组配置文件。",
+    "Deletes the current mod profile.": "删除当前的模组配置文件。",
+    "Renames the current mod profile.": "重命名当前的模组配置文件。",
+    "Update All": "全部更新",
+    "Browse...": "浏览",
+    "Could not check for mod updates, try again later": "无法检查模组更新，请稍后再试。",
+    "All mods are up to date!": "所有模组都是最新的！"
+}
