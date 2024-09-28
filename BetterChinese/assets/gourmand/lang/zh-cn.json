@@ -16,6 +16,7 @@
   "points-per-food": "每份食物的积分：{0}",
   "completion-bonus": "完成奖励：{0}",
   "missing": "丢失的：",
+  "available-points": "可获得的美食积分：{0}",
   "food-cat-name": "食物类型",
   "food-cat-desc": "每种食物，按其物品或方块代码分类。",
   "pie-category-cat-name": "馅饼",
