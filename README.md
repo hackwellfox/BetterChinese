@@ -11,3 +11,4 @@
 - `Early Mod Tool Kit` [3.1.0](https://mods.vintagestory.at/emtk)
 - `Wild Farming - Revival` [1.2.7](https://mods.vintagestory.at/wildfarmingrevival)
 - `Balanced Thirst` [0.0.42](https://mods.vintagestory.at/balancedthirst)
+- ``Kanahaku`s (Not Only) Spear Expansion`` [0.1.9](https://mods.vintagestory.at/show/mod/11264)
