@@ -20,6 +20,12 @@ jobs:
       uses: actions/setup-dotnet@v4
       with:
         dotnet-version: 7.0.x
+    - name: Download VS Client
+      run: |
+        curl -O https://cdn.vintagestory.at/gamefiles/stable/vs_client_linux-x64_1.19.8.tar.gz
+        tar -zxvf vs_client_linux-x64_1.19.8.tar.gz
+        rm -f vs_client_linux-x64_1.19.8.tar.gz
+        export $VINTAGE_STORY=./vintagestory
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
