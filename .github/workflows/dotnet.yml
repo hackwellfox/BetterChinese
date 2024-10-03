@@ -13,7 +13,8 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-
+    env:
+      VINTAGE_STORY: /home/runner/work/BetterChinese/vintagestory
     steps:
     - uses: actions/checkout@v4
     - name: Setup .NET
@@ -27,8 +28,8 @@ jobs:
         rm -f vs_client_linux-x64_1.19.8.tar.gz
     - name: Build
       run: |
-        ls ./
-        export VINTAGE_STORY="$@/vintagestory"
+        ls ./vintagestory
+        export VINTAGE_STORY=$PWD/vintagestory
         echo $VINTAGE_STORY
         dotnet run --project ./ZZCakeBuild/CakeBuild.csproj -- "$@"
   
