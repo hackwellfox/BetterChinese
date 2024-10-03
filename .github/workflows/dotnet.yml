@@ -28,7 +28,7 @@ jobs:
     - name: Build
       run: |
         ls ./
-        export VINTAGE_STORY=/home/runner/work/BetterChinese/vintagestory
+        export VINTAGE_STORY=$@/vintagestory
         echo $VINTAGE_STORY
         dotnet run --project ./ZZCakeBuild/CakeBuild.csproj -- "$@"
   
