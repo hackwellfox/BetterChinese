@@ -29,7 +29,7 @@ jobs:
     - name: Restore dependencies
       run: dotnet restore
     - name: Build
-      run: bash build.sh
+      run: export VINTAGE_STORY=./vintagestory bash build.sh
   
     - uses: actions/upload-artifact@v4
       with:
