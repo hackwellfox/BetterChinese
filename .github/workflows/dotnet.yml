@@ -25,12 +25,13 @@ jobs:
         curl -O https://cdn.vintagestory.at/gamefiles/stable/vs_client_linux-x64_1.19.8.tar.gz
         tar -zxvf vs_client_linux-x64_1.19.8.tar.gz
         rm -f vs_client_linux-x64_1.19.8.tar.gz
-    - name: Restore dependencies
-      run: dotnet restore
     - name: Build
       run: |
         ls ./
-        VINTAGE_STORY=./vintagestory bash build.sh
+        VINTAGE_STORY=./vintagestory
+        echo $VINTAGE_STORY
+        dotnet restore
+        bash build.sh
   
     - uses: actions/upload-artifact@v4
       with:
