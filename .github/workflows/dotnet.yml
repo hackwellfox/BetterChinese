@@ -30,8 +30,7 @@ jobs:
         ls ./
         export VINTAGE_STORY=/home/runner/work/BetterChinese/vintagestory
         echo $VINTAGE_STORY
-        dotnet restore
-        bash build.sh
+        dotnet run --project ./ZZCakeBuild/CakeBuild.csproj -- "$@"
   
     - uses: actions/upload-artifact@v4
       with:
