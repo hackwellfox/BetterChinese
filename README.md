@@ -14,3 +14,4 @@
 - ``Kanahaku`s (Not Only) Spear Expansion`` [0.1.9](https://mods.vintagestory.at/show/mod/11264)
 - `Improved Handbook Recipes` [1.0.0](https://mods.vintagestory.at/improvedhandbookrecipes)
 - `Extra Info` [1.8.1](https://mods.vintagestory.at/extrainfo)
+- `Level UP` [1.2.9](https://mods.vintagestory.at/levelup)
