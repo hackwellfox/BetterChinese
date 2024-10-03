@@ -28,7 +28,7 @@ jobs:
     - name: Build
       run: |
         ls ./
-        VINTAGE_STORY=./vintagestory
+        export VINTAGE_STORY=/home/runner/work/BetterChinese/vintagestory
         echo $VINTAGE_STORY
         dotnet restore
         bash build.sh
