@@ -17,3 +17,4 @@
 - `Level UP` [1.2.9](https://mods.vintagestory.at/levelup)
 - `VS Quest` [1.2.0](https://mods.vintagestory.at/vsquest)
 - `BetterRuins` [0.3.7](https://mods.vintagestory.at/betterruins)
+- `VS Village` [1.0.6](https://mods.vintagestory.at/vsvillage)

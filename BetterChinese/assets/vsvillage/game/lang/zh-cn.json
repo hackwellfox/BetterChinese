@@ -1,0 +1,9 @@
+{
+  "tradingwindow-humanoid-villager-male-trader": "乡村需求--{0}有用物品的供应者",
+  "tradingwindow-humanoid-villager-female-trader": "乡村需求--{0}有用物品的供应者",
+  "ingameerror-no-valid-villager": "尝试在{0}中生成，但没有注册此类实体。",
+  "ingameerror-not-enough-gears": "雇佣一个村民需要 5 个齿轮，你似乎不够。",
+  "ingameerror-not-enough-food": "村里没有足够的人提供食物，可以尝试雇用更多的牧羊人和农民。",
+  "ingameerror-not-enough-workstations": "这种村民没有免费的工作站。",
+  "ingameerror-not-enough-beds": "这位村民没有免费的床位。"
+}
