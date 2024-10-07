@@ -18,3 +18,4 @@
 - `VS Quest` [1.2.0](https://mods.vintagestory.at/vsquest)
 - `BetterRuins` [0.3.7](https://mods.vintagestory.at/betterruins)
 - `VS Village` [1.0.6](https://mods.vintagestory.at/vsvillage)
+- `Truth and Beauty: Detailed Animals` [0.1.1](https://mods.vintagestory.at/detailedanimals)
