@@ -10,7 +10,7 @@
 - `Gourmand` [1.2.3](https://mods.vintagestory.at/show/mod/14390)
 - `Early Mod Tool Kit` [3.1.0](https://mods.vintagestory.at/emtk)
 - `Wild Farming - Revival` [1.2.7](https://mods.vintagestory.at/wildfarmingrevival)
-- `Balanced Thirst` [0.0.42](https://mods.vintagestory.at/balancedthirst)
+- `Balanced Thirst` [0.0.43](https://mods.vintagestory.at/balancedthirst)
 - ``Kanahaku`s (Not Only) Spear Expansion`` [0.1.9](https://mods.vintagestory.at/show/mod/11264)
 - `Improved Handbook Recipes` [1.0.0](https://mods.vintagestory.at/improvedhandbookrecipes)
 - `Extra Info` [1.8.1](https://mods.vintagestory.at/extrainfo)
