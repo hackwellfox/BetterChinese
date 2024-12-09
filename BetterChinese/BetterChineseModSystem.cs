@@ -1,6 +1,9 @@
-﻿using Vintagestory.API.Client;
+﻿using System.IO;
+using Newtonsoft.Json;
+using Vintagestory.API.Client;
 using Vintagestory.API.Common;
 using Vintagestory.API.Config;
+using Vintagestory.API.Datastructures;
 using Vintagestory.API.Server;
 using Vintagestory.Client;
 using Vintagestory.Client.NoObf;
@@ -26,12 +29,12 @@ public class BetterChineseModSystem : ModSystem {
 
 	public static void LoadConfig(ICoreAPI api, string modId) {
 		try {
-			Config = api.LoadModConfig<Config?>("更好的汉化.json") ?? new();
+			Config = LoadModConfig<Config?>("更好的汉化.json") ?? new();
 		} catch {
 			Config = new();
 		}
 
-		api.StoreModConfig(Config, "更好的汉化.json");
+		StoreModConfig(Config, "更好的汉化.json");
 		HarmonyPatch ??= new(modId);
 		HarmonyPatch.Patch();
 	}
@@ -42,4 +45,15 @@ public class BetterChineseModSystem : ModSystem {
 	}
 
 	public static void EarlyUnload() { HarmonyPatch?.UnPatch(); }
+
+	public static T? LoadModConfig<T>(string filename) {
+		var path = Path.Combine(GamePaths.ModConfig, filename);
+		return File.Exists(path) ? JsonConvert.DeserializeObject<T>(File.ReadAllText(path)) : default;
+	}
+
+	public static void StoreModConfig<T>(T jsonSerializeableData, string filename) {
+		FileInfo fileInfo = new FileInfo(Path.Combine(GamePaths.ModConfig, filename));
+		GamePaths.EnsurePathExists(fileInfo.Directory?.FullName);
+		File.WriteAllText(fileInfo.FullName, JsonConvert.SerializeObject(jsonSerializeableData, Formatting.Indented));
+	}
 }
