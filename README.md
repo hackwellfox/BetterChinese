@@ -24,3 +24,4 @@
 - `Chest Organizer` [1.0.3](https://mods.vintagestory.at/chestorganizer)
 - `Mobs Radar` [2.1.2](https://mods.vintagestory.at/mobsradar)
 - `Unconscious` [1.8.3](https://mods.vintagestory.at/unconscious)
+- `Status Hud Continued` [3.2.2](https://mods.vintagestory.at/show/mod/9817)
