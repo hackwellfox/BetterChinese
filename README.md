@@ -19,3 +19,4 @@
 - `BetterRuins` [0.3.7](https://mods.vintagestory.at/betterruins)
 - `VS Village` [1.0.6](https://mods.vintagestory.at/vsvillage)
 - `Truth and Beauty: Detailed Animals` [0.1.1](https://mods.vintagestory.at/detailedanimals)
+- `Primitive Survival` [3.7.5](https://mods.vintagestory.at/primitivesurvival)
