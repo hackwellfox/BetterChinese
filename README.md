@@ -12,7 +12,7 @@
 - `Wild Farming - Revival` [1.2.7](https://mods.vintagestory.at/wildfarmingrevival)
 - `Balanced Thirst` [0.0.43](https://mods.vintagestory.at/balancedthirst)
 - ``Kanahaku`s (Not Only) Spear Expansion`` [0.1.9](https://mods.vintagestory.at/show/mod/11264)
-- `Improved Handbook Recipes` [1.0.0](https://mods.vintagestory.at/improvedhandbookrecipes)
+- `Improved Handbook Recipes` [1.1.2](https://mods.vintagestory.at/improvedhandbookrecipes)
 - `Extra Info` [1.8.1](https://mods.vintagestory.at/extrainfo)
 - `Level UP` [1.2.9](https://mods.vintagestory.at/levelup)
 - `VS Quest` [1.2.0](https://mods.vintagestory.at/vsquest)
