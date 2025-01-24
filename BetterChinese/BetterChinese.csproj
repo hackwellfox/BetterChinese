@@ -4,7 +4,7 @@
         <TargetFramework>net7.0</TargetFramework>
         <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
         <OutputPath>bin\$(Configuration)\Mods\mod</OutputPath>
-        <LangVersion>default</LangVersion>
+        <LangVersion>preview</LangVersion>
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
