@@ -1,0 +1,13 @@
+{
+  "blockhelp-pickup": "搬运",
+  "drop-notice": "你从{1}中丢下了{0}。",
+  "drop-notice-destroyed": "你从{1}中丢下了{0}，该物品已损毁。",
+  "drop-notice-destroyed-spill-contents": "你从{1}中丢下了{0}，物品损毁并散落出内容物。",
+  "drop-notice-spill-contents": "你从{1}中丢下了{0}，物品破裂后内容物散落。",
+  "slot-hands": "手部",
+  "slot-back": "背部",
+  "slot-shoulder": "肩部",
+  "pickup-hotkey": "CarryOn - 拿起/放下",
+  "swap-back-hotkey": "CarryOn - 切换至背部功能键",
+  "toggle-hotkey": "CarryOn - 启用/禁用互动功能"
+}
