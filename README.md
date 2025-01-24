@@ -22,3 +22,4 @@
 - `Primitive Survival` [3.7.5](https://mods.vintagestory.at/primitivesurvival)
 - `Cartographer` [2.0.10](https://mods.vintagestory.at/nbcartographer)
 - `Chest Organizer` [1.0.3](https://mods.vintagestory.at/chestorganizer)
+- `Mobs Radar` [2.1.2](https://mods.vintagestory.at/mobsradar)
