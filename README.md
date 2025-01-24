@@ -7,7 +7,7 @@
 - `Wool 🙵 More` [1.1.0](https://mods.vintagestory.at/wool)
 - `Foundry- large scale ingot casting` [1.0.0](https://mods.vintagestory.at/show/mod/1197)
 - `Ancient Armory` [1.0.0](https://mods.vintagestory.at/ancientarmory)
-- `Gourmand` [1.2.3](https://mods.vintagestory.at/show/mod/14390)
+- `Gourmand` [1.5.0](https://mods.vintagestory.at/show/mod/14390)
 - `Early Mod Tool Kit` [3.1.0](https://mods.vintagestory.at/emtk)
 - `Wild Farming - Revival` [1.2.7](https://mods.vintagestory.at/wildfarmingrevival)
 - `Balanced Thirst` [0.0.43](https://mods.vintagestory.at/balancedthirst)
