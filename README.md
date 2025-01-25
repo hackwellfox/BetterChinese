@@ -27,3 +27,4 @@
 - `Status Hud Continued` [3.2.2](https://mods.vintagestory.at/show/mod/9817)
 - `Natural Trail Mod CUPdated` [1.2.0](https://mods.vintagestory.at/trailmodcupdated)
 - `Carry On` [1.8.0](https://mods.vintagestory.at/carryon)
+- `Butchering` [1.7.8](https://mods.vintagestory.at/butchering)
