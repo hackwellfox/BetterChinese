@@ -62,8 +62,8 @@
     "Toggle.False": "{0} <font weight=\"bold\" color=\"#ff8484\">{1}</font>",
     "Color.Cyan": "<font color=\"#00FFF0\">{0}</font>",
 
-	  "sprout-in-days": "约需{0}～{p1}天发芽",
-	  "mature-in-days": "约需{0}～{p1}天成熟",
+	  "sprout-in-days": "约需{0}～{p1:# 天|# 天|# 天}发芽",
+	  "mature-in-days": "约需{0}～{p1:# 天|# 天|# 天}成熟",
 
     "Mechanics.Speed": "转速：{0:G4}",
     "Mechanics.TotalAvailableTorque": "可用扭矩：{0:G4}",
