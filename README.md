@@ -28,3 +28,4 @@
 - `Natural Trail Mod CUPdated` [1.2.0](https://mods.vintagestory.at/trailmodcupdated)
 - `Carry On` [1.8.0](https://mods.vintagestory.at/carryon)
 - `Butchering` [1.7.8](https://mods.vintagestory.at/butchering)
+- `Animal cages` [3.0.3](https://mods.vintagestory.at/animalcages)

@@ -1,0 +1,10 @@
+{
+    "block-smallanimalcage-opened": "小型动物笼（开启）",
+    "blockdesc-smallanimalcage-opened": "用此笼子攻击小动物以捕捉它。",
+    "block-smallanimalcage-closed": "小型动物笼（关闭）",
+    "blockdesc-smallanimalcage-closed": "内含被捕获的动物。破坏方块以释放。",
+    "block-mediumanimalcage-*-opened-*": "中型动物笼（开启）",
+    "blockdesc-mediumanimalcage-*-opened-*": "用此笼子攻击中型动物以捕捉它。动物需受伤或被驯服方可捕捉。",
+    "block-mediumanimalcage-*-closed-*": "中型动物笼（关闭）",
+    "blockdesc-mediumanimalcage-*-closed-*": "内含被捕获的动物。破坏方块以释放。"
+}
