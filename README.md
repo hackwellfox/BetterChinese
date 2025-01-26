@@ -29,3 +29,4 @@
 - `Carry On` [1.8.0](https://mods.vintagestory.at/carryon)
 - `Butchering` [1.7.8](https://mods.vintagestory.at/butchering)
 - `Animal cages` [3.0.3](https://mods.vintagestory.at/animalcages)
+- `Combat Overhaul` [0.1.15](https://mods.vintagestory.at/combatoverhaul)
