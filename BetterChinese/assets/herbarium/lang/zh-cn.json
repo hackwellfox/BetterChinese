@@ -1,0 +1,30 @@
+{
+    "blockhelp-berrybush-clip": "修剪枝条",
+
+    "game:berrybush-too-cold": "温度过低，无法开花或结果",
+    "game:berrybush-too-hot": "温度过高，无法开花或结果",
+
+    "game:clipping-too-cold": "温度过低，无法生长",
+    "game:clipping-too-hot": "温度过高，无法生长",
+
+    "game:berrybush-shed-xdays": "新鲜浆果可保存约{0}天",
+    "game:berrybush-shed-1day": "新鲜浆果保存不足一天",
+
+    "game:berrybush-sprouting-xdays": "{0}天后将萌发新芽",
+    "game:berrybush-sprouting-1day": "不足一天后将萌发新芽",
+
+    "game:berrybush-clipping-growth-xdays": "被修剪的枝条将在{0}天后重新生长",
+    "game:berrybush-clipping-growth-1day": "被修剪的枝条将在不足一天后重新生长",
+
+    "game:fruitingvine-sprouting-nosupport": "无适当支撑，藤蔓无法向上生长",
+
+    "game:placefailure-berrybushclipping": "剪枝必须种植在土壤中或嫁接到合适的砧木上",
+    "game:placefailure-berrybushclipping-vinemix": "无法将灌木剪枝嫁接到藤蔓上",
+    "game:placefailure-berrybushclipping-nottallbush": "此灌木不适合作为砧木",
+    "game:placefailure-berrybushclipping-tootall": "此灌木过高，无法嫁接",
+
+    "game:placefailure-fruitvineclipping": "藤蔓剪枝必须种植在土壤中或嫁接到合适的砧木上",
+    "game:placefailure-fruitvineclipping-bushmix": "无法将藤蔓剪枝嫁接到灌木上",
+    "game:placefailure-fruitvineclipping-nosupport": "无适当支撑，无法嫁接藤蔓剪枝",
+    "game:placefailure-fruitvineclipping-tootall": "此藤蔓过长，无法嫁接"
+}
