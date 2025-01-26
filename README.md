@@ -35,3 +35,4 @@
 - `Hydrate Or Diedrate` [1.7.3](https://mods.vintagestory.at/hydrateordiedrate)
 - `A Culinary Artillery` [1.2.3](https://mods.vintagestory.at/aculinaryartillery)
 - `Herbarium` [1.4.0](https://mods.vintagestory.at/herbarium)
+- `Wildcraft: Fruits and Nuts` [1.3.0](https://mods.vintagestory.at/wildcraftfruit)
