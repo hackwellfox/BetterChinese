@@ -33,3 +33,4 @@
 - `Combat Overhaul : Armory` [0.1.2](https://mods.vintagestory.at/armory)
 - `FireStarters` [1.4.0](https://mods.vintagestory.at/firestarters)
 - `Hydrate Or Diedrate` [1.7.3](https://mods.vintagestory.at/hydrateordiedrate)
+- `A Culinary Artillery` [1.2.3](https://mods.vintagestory.at/aculinaryartillery)
