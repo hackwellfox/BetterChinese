@@ -32,3 +32,4 @@
 - `Combat Overhaul` [0.1.15](https://mods.vintagestory.at/combatoverhaul)
 - `Combat Overhaul : Armory` [0.1.2](https://mods.vintagestory.at/armory)
 - `FireStarters` [1.4.0](https://mods.vintagestory.at/firestarters)
+- `Hydrate Or Diedrate` [1.7.3](https://mods.vintagestory.at/hydrateordiedrate)
