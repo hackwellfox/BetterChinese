@@ -1,0 +1,54 @@
+{
+  "game:tabname-firestarters": "环境描述",
+  "game:firestarters-environment-guide": "环境条件说明",
+  "game:firestarters-environment-guide-title": "环境条件说明",
+  "game:firestarters-environment-guide-text": "
+<font weight='bold' align='center'>环境条件说明</font><br>
+
+<font weight='bold'>天空可见度</font><br>
+启用此条件时，若方块没有直射阳光，则无法生火。这意味着你无法在室内或洞穴中生火。<font color='#FF0000'>此条件不可配置。</font><br><br>
+
+<font weight='bold'>时间段限制</font><br>
+<font color='#FFD700'>太阳位置至关重要！</font>启用此条件时，你只能在太阳高悬的时段生火：透明石英为上午9点至下午3点，望远镜为上午8点至下午4点。<font color='#008000'>此条件可完全自定义。</font><br><br>
+
+<font weight='bold'>温度要求</font><br>
+<font color='#FFA500'>环境需足够温暖！</font>这意味着在冰天雪地中无法生火。默认温度阈值为：<br>
+- 透明石英与原版生火工具：高于10°C<br>
+- 望远镜：高于7°C<br>
+- 火把与弓钻：高于5°C<br>
+<font color='#008000'>此条件可配置！</font>此限制仅适用于户外环境。<br><br>
+
+<font weight='bold'>降雨限制</font><br>
+顾名思义，下雨时无法生火。<font color='#FF0000'>你可以禁用此条件，但我会很伤心。</font>此限制仅适用于户外环境。<br><br>
+
+<font weight='bold'>云层密度</font><br>
+<font color='#4682B4'>若太阳被名为‘雨云’的厚重云层遮挡，阳光便毫无用处。</font>启用此条件时，需确保阳光能直射到目标位置！<font color='#008000'>此条件可禁用。</font><br><br>
+
+<font weight='bold'>风力影响</font><br>
+<font color='#00CED1'>试过在暴风雨中生火吗？</font>那根本不可能。<font color='#008000'>此条件可禁用。</font>此限制仅适用于户外环境。<br>
+  ",
+
+  "game:item-clearquartz": "透明石英",
+  "game:item-handbooktitle-clearquartz": "用途：",
+  "game:item-handbooktext-clearquartz": "作为天然放大镜用于生火。环境条件检查：天空可见度、时间段（上午9点至下午3点）、温度（+10°C）、降雨、云层密度、风力。详情请参阅<a href=\"handbook://firestarters-environment-guide\">环境描述</a>。",
+
+  "game:item-firestarter": "生火工具",
+  "game:item-handbooktitle-firestarter": "用途：",
+  "game:item-handbooktext-firestarter": "与<a href=\"handbook://item-bow-crude\">粗制弓</a>组合使用可提升生火效率。环境条件检查：降雨、温度（+10°C）、风力。详情请参阅<a href=\"handbook://firestarters-environment-guide\">环境描述</a>。",
+
+  "game:item-bow-crude": "粗制弓",
+  "game:item-handbooktitle-bow-crude": "用途：",
+  "game:item-handbooktext-bow-crude": "与<a href=\"handbook://item-firestarter\">生火工具</a>组合使用可提升生火效率。环境条件检查：降雨、温度（+5°C）、风力。详情请参阅<a href=\"handbook://firestarters-environment-guide\">环境描述</a>。",
+
+  "game:item-flint": "燧石",
+  "game:item-handbooktitle-flint": "用途：",
+  "game:item-handbooktext-flint": "与<a href=\"handbook://item-ingot-steel\">钢锭</a>组合用于生火。环境条件检查：降雨、风力。详情请参阅<a href=\"handbook://firestarters-environment-guide\">环境描述</a>。",
+
+  "game:item-ingot-steel": "钢锭",
+  "game:item-handbooktitle-ingot-steel": "用途：",
+  "game:item-handbooktext-ingot-steel": "与<a href=\"handbook://item-flint\">燧石</a>组合用于生火。环境条件检查：降雨、风力。详情请参阅<a href=\"handbook://firestarters-environment-guide\">环境描述</a>。",
+
+  "game:block-torch-basic-lit-up": "火把",
+  "game:block-handbooktitle-torch-basic-lit-up": "用途：",
+  "game:block-handbooktext-torch-basic-lit-up": "生火环境条件检查：降雨、温度（+5°C）、风力。详情请参阅<a href=\"handbook://firestarters-environment-guide\">环境描述</a>。火把在大风中会熄灭，若存放在背包中也会自动熄灭。"
+}
