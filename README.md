@@ -40,3 +40,4 @@
 - `XSkills` [0.8.11](https://mods.vintagestory.at/show/mod/247)
 - `XLib` [0.8.10](https://mods.vintagestory.at/show/mod/244)
 - `VanillaMoreMolds` [1.1.1](https://mods.vintagestory.at/vanillamoremolds)
+- `Sammiches` [1.2.7](https://mods.vintagestory.at/sammiches)
