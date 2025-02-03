@@ -98,5 +98,8 @@
   "hint-pie-meatnugget-smashed": "内含肉糜",
   "hint-pie-meatnugget-raw": "内含生肉块",
   "hint-pie-meatnugget-cured": "内含腌肉块",
-  "hint-pie-meat-cured": "内含腌肉"
+  "hint-pie-meat-cured": "内含腌肉",
+
+  "hint-meal-pastacold": "冷面沙拉",
+  "hint-meal-pastahot": "热煮意面"
 }
