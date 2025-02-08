@@ -42,3 +42,4 @@
 - `VanillaMoreMolds` [1.1.1](https://mods.vintagestory.at/vanillamoremolds)
 - `Sammiches` [1.2.7](https://mods.vintagestory.at/sammiches)
 - `Nat's Achievements` [1.2.0](https://mods.vintagestory.at/show/mod/9615)
+- `Scarecrow` [1.6.4](https://mods.vintagestory.at/scarecrow)

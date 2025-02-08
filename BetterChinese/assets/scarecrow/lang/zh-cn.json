@@ -1,0 +1,45 @@
+{
+	// 创造模式标签名称
+	"game:tabname-scarecrow": "稻草人",
+
+	// 稻草人描述
+	"scarecrow:item-scarecrow": "稻草人",
+	"scarecrow:itemdesc-scarecrow": "\n\n可驱赶你花园中的不速之客。野兔和浣熊会畏惧稻草人，并远离其16格范围内。（默认）\n\n<font color=\"#99c9f9\"><i>她看起来骇人，但南瓜头很美味。</i></font>\n\n",
+
+	"scarecrow:item-handbooktext-scarecrow": "放置在地面上的稻草人可通过<hk>Ctrl</hk> + <hk>右键</hk>点击并空手拾取。",
+
+	"scarecrow:item-creature-scarecrow": "稻草人",
+	"scarecrow:item-dead-creature-scarecrow": "被摧毁的稻草人",
+
+	// 小型稻草人描述
+	"scarecrow:item-little-scarecrow": "小型稻草人",
+	"scarecrow:itemdesc-little-scarecrow": "\n\n可驱赶你花园中的不速之客。野兔和浣熊会畏惧小型稻草人，并远离其8格范围内。（默认）\n\n",
+
+	"scarecrow:item-handbooktext-little-scarecrow": "放置在地面上的小型稻草人可通过<hk>Ctrl</hk> + <hk>右键</hk>点击并空手拾取。",
+
+	"scarecrow:item-creature-little-scarecrow": "小型稻草人",
+	"scarecrow:item-dead-creature-little-scarecrow": "被摧毁的小型稻草人",
+
+	// 稻草假人描述
+	"game:item-handbooktext-strawdummy": "放置在地面上的稻草假人可通过<hk>Ctrl</hk> + <hk>右键</hk>点击并空手拾取。",
+	"game:item-dead-creature-strawdummy": "被摧毁的稻草假人",
+
+	// 其他文本
+	"scarecrow:heldhelp-place-lsc": "将小型稻草人放置在地面上",
+	"scarecrow:heldhelp-place-sc": "将稻草人放置在地面上",
+	"scarecrow:heldhelp-place-sd": "将稻草假人放置在地面上",
+
+	"scarecrow:entityhelp-pickup": "拾取",
+
+	// Maltiez的配置文本
+	"ScarecrowBlockingSettings": "驱赶范围设置",
+	"BlockRadiusScarecrow": "稻草人的驱赶半径",
+	"BlockRadiusScarecrowComment": "设置稻草人驱赶野兔和浣熊的作用半径",
+	"BlockRadiusLittleScarecrow": "小型稻草人的驱赶半径",
+	"BlockRadiusLittleScarecrowComment": "设置小型稻草人驱赶野兔和浣熊的作用半径",
+	"BlockRadiusStrawdummy": "稻草假人的驱赶半径",
+	"BlockRadiusStrawdummyComment": "设置稻草假人驱赶野兔和浣熊的作用半径",
+	"ScarecrowDebugSettings": "调试设置",
+	"DebugOutput": "启用调试输出",
+	"DebugOutputComment": "开启或关闭调试信息显示"
+}
