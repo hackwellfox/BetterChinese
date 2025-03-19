@@ -32,7 +32,7 @@
 - `Combat Overhaul` [0.1.15](https://mods.vintagestory.at/combatoverhaul)
 - `Combat Overhaul : Armory` [0.1.2](https://mods.vintagestory.at/armory)
 - `FireStarters` [1.4.0](https://mods.vintagestory.at/firestarters)
-- `Hydrate Or Diedrate` [1.7.3](https://mods.vintagestory.at/hydrateordiedrate)
+- `Hydrate Or Diedrate` [2.0.13](https://mods.vintagestory.at/hydrateordiedrate)
 - `A Culinary Artillery` [1.2.3](https://mods.vintagestory.at/aculinaryartillery)
 - `Herbarium` [1.4.0](https://mods.vintagestory.at/herbarium)
 - `Wildcraft: Fruits and Nuts` [1.3.0](https://mods.vintagestory.at/wildcraftfruit)
