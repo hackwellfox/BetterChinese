@@ -37,7 +37,7 @@
 - `Herbarium / 植物标本库` [1.4.0](https://mods.vintagestory.at/herbarium)
 - `Wildcraft: Fruits and Nuts / 野生工艺：水果与坚果` [1.3.0](https://mods.vintagestory.at/wildcraftfruit)
 - `Expanded Foods / 扩展食物` [1.7.3](https://mods.vintagestory.at/expandedfoods)
-- `XSkills / X技能` [0.8.11](https://mods.vintagestory.at/show/mod/247)
+- `XSkills / X技能` [0.8.17](https://mods.vintagestory.at/show/mod/247)
 - `XLib / X库` [0.8.16](https://mods.vintagestory.at/show/mod/244)
 - `VanillaMoreMolds / 原版更多模具` [1.1.1](https://mods.vintagestory.at/vanillamoremolds)
 - `Sammiches / 三明治模组` [1.2.7](https://mods.vintagestory.at/sammiches)
