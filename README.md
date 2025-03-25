@@ -29,7 +29,7 @@
 - `Carry On / 随身携带` [1.8.0](https://mods.vintagestory.at/carryon)
 - `Butchering / 屠宰系统` [1.7.8](https://mods.vintagestory.at/butchering)
 - `Animal cages / 动物笼舍` [3.0.3](https://mods.vintagestory.at/animalcages)
-- `Combat Overhaul / 战斗大修` [0.1.15](https://mods.vintagestory.at/combatoverhaul)
+- `Combat Overhaul / 战斗大修` [0.2.5](https://mods.vintagestory.at/combatoverhaul)
 - `Combat Overhaul : Armory / 战斗大修：武器库` [0.1.2](https://mods.vintagestory.at/armory)
 - `FireStarters / 生火工具` [1.4.0](https://mods.vintagestory.at/firestarters)
 - `Hydrate Or Diedrate / 饮水求生` [2.0.13](https://mods.vintagestory.at/hydrateordiedrate)

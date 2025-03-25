@@ -127,6 +127,7 @@
   "damagelog-missed-block-zone": "玩家尝试格挡，但{0}未被格挡保护",
   "damagelog-missed-block-direction": "玩家尝试格挡，但攻击方向({0})未被格挡覆盖",
   "damagelog-missed-block-damageType": "玩家尝试格挡，但无法格挡{0}伤害",
+  "damagelog-missed-block-projectile": "无法用此武器/盾牌格挡投射物",
   "damagelog-success-block": "玩家成功格挡了{1}点伤害到{0}",
   "damagelog-partial-block": "玩家部分格挡了{1}点伤害到{0}",
   "damagelog-armor-damage-negation": "护甲抵消了{1}部位{3}伤害中的{0}点（{4}级），并损失了{2}耐久",
@@ -156,6 +157,8 @@
   "game:item-spearhead-iron": "铁矛头",
   "game:item-spearhead-meteoriciron": "陨铁矛头",
   "game:item-spearhead-steel": "钢矛头",
+  "game:item-arrow-obsidian": "黑曜石箭",
+  "game:item-arrowhead-obsidian": "黑曜石箭头",
 
   "prefixandcreature-arrow-*": "箭",
   "prefixandcreature-spear-*": "矛",
