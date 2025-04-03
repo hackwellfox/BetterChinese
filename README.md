@@ -19,7 +19,7 @@
 - `BetterRuins / 更好的遗迹` [0.3.7](https://mods.vintagestory.at/betterruins)
 - `VS Village / VS村庄` [1.0.6](https://mods.vintagestory.at/vsvillage)
 - `Truth and Beauty: Detailed Animals / 真实与美丽：细节动物` [0.3.10](https://mods.vintagestory.at/detailedanimals)
-- `Primitive Survival / 原始生存` [3.7.5](https://mods.vintagestory.at/primitivesurvival)
+- `Primitive Survival / 原始生存` [3.7.6](https://mods.vintagestory.at/primitivesurvival)
 - `Cartographer / 制图师` [2.0.10](https://mods.vintagestory.at/nbcartographer)
 - `Chest Organizer / 箱子整理` [1.0.3](https://mods.vintagestory.at/chestorganizer)
 - `Mobs Radar / 生物雷达` [2.1.2](https://mods.vintagestory.at/mobsradar)

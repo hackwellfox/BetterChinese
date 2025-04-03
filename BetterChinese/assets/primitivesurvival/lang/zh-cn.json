@@ -9,14 +9,19 @@
   "blockdesc-limbtrotlinelure-catch": "钩上有东西！",
   "blockdesc-limbtrotlinelure-catch-rotten": "可惜，闻起来有点臭了。",
   "blockdesc-limbtrotlinelure-hook-needed": "想捕鱼？先装个钩子吧。",
+
   "block-stake-*": "木桩",
   "blockdesc-stake-*": "可牢固插入泥土或砂砾的尖木桩，用于陷阱和捕鱼，也可作围栏。",
+  //"block-stakeinwater-*": "Stake",
+  //"blockdesc-stakeinwater-*": "A sharpened stick which can be securely pushed into dirt or gravel. A useful ingredient for trapping and fishing. Also makes a good fence.",
+
   "block-snare-*": "套索陷阱",
   "block-deadfall-*-andesite*": "安山岩落石陷阱",
   "block-deadfall-*-basalt*": "玄武岩落石陷阱",
   "block-deadfall-*-granite*": "花岗岩落石陷阱",
   "block-deadfall-*-obsidian*": "黑曜石落石陷阱",
   "block-deadfall-*-peridotite*": "橄榄岩落石陷阱",
+
   "item-fishinghook-flint": "鱼钩（燧石）",
   "item-fishinghook-granite": "鱼钩（花岗岩）",
   "item-fishinghook-andesite": "鱼钩（安山岩）",
@@ -24,17 +29,22 @@
   "item-fishinghook-obsidian": "鱼钩（黑曜石）",
   "item-fishinghook-peridotite": "鱼钩（橄榄岩）",
   "item-fishinghook-bone": "鱼钩（骨制）",
+
   "itemdesc-fishinghook-*": "安装在枝线或延绳钓上。",
+
   "block-fishbasket*": "鱼篓",
   "blockdesc-fishbasket*": "放入水中（周围需有空间）以捕鱼。",
   "blockdesc-fishbasket-catch": "篓中有货！",
   "blockdesc-fishbasket-catch-rotten": "篓内散发异味。",
+
   "block-weirtrap-*": "围堰陷阱",
   "blockdesc-weirtrap-*": "功能性围堰，可能捕获鱼类。",
   "blockdesc-weirtrap-catch": "陷阱中有东西！",
+
   "blockdesc-deadfall-bait-rotten": "诱饵已腐坏，请更换新鲜诱饵。",
   "blockdesc-deadfall-bait-ok": "已添加诱饵，捕获几率大增。",
   "blockdesc-deadfall-bait-needed": "添加食物作为诱饵以提高捕获几率。",
+
   "item-psfish-bass-raw": "小鲈鱼（生）",
   "item-psfish-trout-raw": "鳟鱼（生）",
   "item-psfish-perch-raw": "鲈鱼（生）",
@@ -57,15 +67,18 @@
   "item-psfish-bluegill-cooked": "蓝鳃鱼（熟）",
   "item-psfish-mutant-cooked": "变异鱼（熟）",
   "itemdesc-psfish-*-cooked": "开饭时间到！",
+
   "item-fishfillet-raw": "鱼片（生）",
   "itemdesc-fishfillet-raw": "烹饪后是美味的蛋白质来源。",
   "item-fishfillet-cooked": "鱼片（熟）",
   "item-fishfillet-partbaked": "鱼片（半熟）",
   "item-fishfillet-cured": "鱼片（风干）",
-  "item-fishfillet-charred": "鱼片（烤焦）",
+  "item-fishfillet-charred": "鱼片（烧焦）",
+
   "item-jerky-fish-raw": "鱼肉干（生）",
   "item-jerky-fish-cured": "鱼肉干（风干）",
   "item-jerky-fish-cooked": "鱼肉干（熟）",
+
   "item-jerky-redmeat-raw": "红肉干（生）",
   "item-jerky-redmeat-cured": "红肉干（风干）",
   "item-jerky-redmeat-cooked": "红肉干（熟）",
@@ -75,6 +88,7 @@
   "itemdesc-jerky-*-raw": "可自然风干，心急也可直接烹饪。",
   "itemdesc-jerky-*-cured": "开饭时间到！",
   "itemdesc-jerky-*-cooked": "开饭时间到！",
+
   "block-temporalbase*": "时空遗物基座",
   "block-temporalcube*": "时空立方体（遗物）",
   "block-temporallectern*": "时空讲坛（遗物）",
@@ -84,64 +98,74 @@
   "block-necronomicon*": "死灵之书",
   "blockdesc-temporalbase-complete": "似乎已完整。",
   "blockdesc-temporalbase-incomplete": "似乎缺少部件。",
+
   "item-psgear-astral": "星界齿轮",
   "itemdesc-psgear-astral": "此物能否解开宇宙之谜？",
   "item-psgear-ethereal": "以太齿轮",
   "itemdesc-psgear-ethereal": "重如磐石，形若虚无。",
+
   "block-pslargemold-raw-fishinglure": "生鱼饵模具",
   "block-pslargemold-burned-fishinglure": "鱼饵模具",
   "blockcraftdesc-pslargemold-raw-fishinglure": "用于铸造金属假饵，安装在鱼钩上。",
+
   "block-pslargemold-raw-metalfishinghook": "生金属鱼钩模具",
   "block-pslargemold-burned-metalfishinghook": "金属鱼钩模具",
   "blockcraftdesc-pslargemold-raw-metalfishinghook": "用于铸造金属鱼钩，安装在枝线或延绳钓上。",
+
   "block-pslargemold-raw-spikeplate": "生钉床模具",
   "block-pslargemold-burned-spikeplate": "钉床模具",
   "blockcraftdesc-pslargemold-raw-spikeplate": "带刺金属板，用于坑洞陷阱。",
+
   "item-fishinglure-bismuth": "假饵（铋）",
-  "item-fishinglure-bismuthbronze": "假饵（铋青铜）",
-  "item-fishinglure-blackbronze": "假饵（黑青铜）",
+  "item-fishinglure-bismuthbronze": "假饵（铋铜）",
+  "item-fishinglure-blackbronze": "假饵（黑铜）",
   "item-fishinglure-brass": "假饵（黄铜）",
   "item-fishinglure-copper": "假饵（铜）",
   "item-fishinglure-gold": "假饵（金）",
   "item-fishinglure-lead": "假饵（铅）",
   "item-fishinglure-silver": "假饵（银）",
   "item-fishinglure-tin": "假饵（锡）",
-  "item-fishinglure-tinbronze": "假饵（锡青铜）",
+  "item-fishinglure-tinbronze": "假饵（锡铜）",
   "item-fishinglure-zinc": "假饵（锌）",
   "item-fishinglure-molybdochalkos": "假饵（钼铜）",
   "itemdesc-fishinglure-*": "添加到鱼钩上可提高捕获几率。",
+
   "item-metalfishinghook-bismuth": "鱼钩（铋）",
-  "item-metalfishinghook-bismuthbronze": "鱼钩（铋青铜）",
-  "item-metalfishinghook-blackbronze": "鱼钩（黑青铜）",
+  "item-metalfishinghook-bismuthbronze": "鱼钩（铋铜）",
+  "item-metalfishinghook-blackbronze": "鱼钩（黑铜）",
   "item-metalfishinghook-brass": "鱼钩（黄铜）",
   "item-metalfishinghook-copper": "鱼钩（铜）",
   "item-metalfishinghook-gold": "鱼钩（金）",
   "item-metalfishinghook-lead": "鱼钩（铅）",
   "item-metalfishinghook-silver": "鱼钩（银）",
   "item-metalfishinghook-tin": "鱼钩（锡）",
-  "item-metalfishinghook-tinbronze": "鱼钩（锡青铜）",
+  "item-metalfishinghook-tinbronze": "鱼钩（锡铜）",
   "item-metalfishinghook-zinc": "鱼钩（锌）",
   "item-metalfishinghook-molybdochalkos": "鱼钩（钼铜）",
   "itemdesc-metalfishinghook-*": "安装在枝线或延绳钓上。",
+
   "block-spikeplate-bismuth": "钉床（铋）",
-  "block-spikeplate-bismuthbronze": "钉床（铋青铜）",
-  "block-spikeplate-blackbronze": "钉床（黑青铜）",
+  "block-spikeplate-bismuthbronze": "钉床（铋铜）",
+  "block-spikeplate-blackbronze": "钉床（黑铜）",
   "block-spikeplate-brass": "钉床（黄铜）",
   "block-spikeplate-copper": "钉床（铜）",
   "block-spikeplate-gold": "钉床（金）",
   "block-spikeplate-lead": "钉床（铅）",
   "block-spikeplate-silver": "钉床（银）",
   "block-spikeplate-tin": "钉床（锡）",
-  "block-spikeplate-tinbronze": "钉床（锡青铜）",
+  "block-spikeplate-tinbronze": "钉床（锡铜）",
   "block-spikeplate-zinc": "钉床（锌）",
   "block-spikeplate-molybdochalkos": "钉床（钼铜）",
   "blockdesc-spikeplate-*": "对踩踏或坠落的实体造成巨额伤害。",
+
   "block-woodspikes": "木刺",
   "blockdesc-woodspikes": "对踩踏或坠落的实体造成伤害。",
   "block-woodsupportspikes-*": "伪装坑洞",
   "blockdesc-woodsupportspikes": "用植物或干草覆盖。",
+
   "item-woodspikebundle": "木刺捆",
   "itemdesc-woodspikebundle-*": "垂直插入地面作陷阱，或水平放置作伪装。",
+
   "game:recipeingredient-item-psfish-trout-raw": "鳟鱼",
   "game:recipeingredient-item-psfish-trout-raw-insturmentalcase": "鳟鱼",
   "recipeingredient-item-psfish-trout-raw": "鳟鱼",
@@ -150,6 +174,7 @@
   "game:meal-ingredient-soup-secondary-psfish-trout-raw": "鳟鱼",
   "game:meal-ingredient-stew-primary-psfish-trout-raw": "鳟鱼",
   "game:meal-ingredient-stew-secondary-psfish-trout-raw": "鳟鱼",
+
   "game:recipeingredient-item-psfish-perch-raw": "鲈鱼",
   "game:recipeingredient-item-psfish-perch-raw-insturmentalcase": "鲈鱼",
   "recipeingredient-item-psfish-perch-raw": "鲈鱼",
@@ -158,6 +183,7 @@
   "game:meal-ingredient-soup-secondary-psfish-perch-raw": "鲈鱼",
   "game:meal-ingredient-stew-primary-psfish-perch-raw": "鲈鱼",
   "game:meal-ingredient-stew-secondary-psfish-perch-raw": "鲈鱼",
+
   "game:recipeingredient-item-psfish-salmon-raw": "三文鱼",
   "game:recipeingredient-item-psfish-salmon-raw-insturmentalcase": "三文鱼",
   "recipeingredient-item-psfish-salmon-raw": "三文鱼",
@@ -166,6 +192,7 @@
   "game:meal-ingredient-soup-secondary-psfish-salmon-raw": "三文鱼",
   "game:meal-ingredient-stew-primary-psfish-salmon-raw": "三文鱼",
   "game:meal-ingredient-stew-secondary-psfish-salmon-raw": "三文鱼",
+
   "game:recipeingredient-item-psfish-carp-raw": "鲤鱼",
   "game:recipeingredient-item-psfish-carp-raw-insturmentalcase": "鲤鱼",
   "recipeingredient-item-psfish-carp-raw": "鲤鱼",
@@ -174,6 +201,7 @@
   "game:meal-ingredient-soup-secondary-psfish-carp-raw": "鲤鱼",
   "game:meal-ingredient-stew-primary-psfish-carp-raw": "鲤鱼",
   "game:meal-ingredient-stew-secondary-psfish-carp-raw": "鲤鱼",
+
   "game:recipeingredient-item-psfish-bass-raw": "鲈鱼",
   "game:recipeingredient-item-psfish-bass-raw-insturmentalcase": "鲈鱼",
   "recipeingredient-item-psfish-bass-raw": "鲈鱼",
@@ -182,6 +210,7 @@
   "game:meal-ingredient-soup-secondary-psfish-bass-raw": "鲈鱼",
   "game:meal-ingredient-stew-primary-psfish-bass-raw": "鲈鱼",
   "game:meal-ingredient-stew-secondary-psfish-bass-raw": "鲈鱼",
+
   "game:recipeingredient-item-psfish-pike-raw": "梭鱼",
   "game:recipeingredient-item-psfish-pike-raw-insturmentalcase": "梭鱼",
   "recipeingredient-item-psfish-pike-raw": "梭鱼",
@@ -190,6 +219,7 @@
   "game:meal-ingredient-soup-secondary-psfish-pike-raw": "梭鱼",
   "game:meal-ingredient-stew-primary-psfish-pike-raw": "梭鱼",
   "game:meal-ingredient-stew-secondary-psfish-pike-raw": "梭鱼",
+
   "game:recipeingredient-item-psfish-arcticchar-raw": "北极红点鲑",
   "game:recipeingredient-item-psfish-arcticchar-raw-insturmentalcase": "北极红点鲑",
   "recipeingredient-item-psfish-arcticchar-raw": "北极红点鲑",
@@ -198,6 +228,7 @@
   "game:meal-ingredient-soup-secondary-psfish-arcticchar-raw": "北极红点鲑",
   "game:meal-ingredient-stew-primary-psfish-arcticchar-raw": "北极红点鲑",
   "game:meal-ingredient-stew-secondary-psfish-arcticchar-raw": "北极红点鲑",
+
   "game:recipeingredient-item-psfish-catfish-raw": "鲶鱼",
   "game:recipeingredient-item-psfish-catfish-raw-insturmentalcase": "鲶鱼",
   "recipeingredient-item-psfish-catfish-raw": "鲶鱼",
@@ -206,6 +237,7 @@
   "game:meal-ingredient-soup-secondary-psfish-catfish-raw": "鲶鱼",
   "game:meal-ingredient-stew-primary-psfish-catfish-raw": "鲶鱼",
   "game:meal-ingredient-stew-secondary-psfish-catfish-raw": "鲶鱼",
+
   "game:recipeingredient-item-psfish-bluegill-raw": "蓝鳃鱼",
   "game:recipeingredient-item-psfish-bluegill-raw-insturmentalcase": "蓝鳃鱼",
   "recipeingredient-item-psfish-bluegill-raw": "蓝鳃鱼",
@@ -214,6 +246,7 @@
   "game:meal-ingredient-soup-secondary-psfish-bluegill-raw": "蓝鳃鱼",
   "game:meal-ingredient-stew-primary-psfish-bluegill-raw": "蓝鳃鱼",
   "game:meal-ingredient-stew-secondary-psfish-bluegill-raw": "蓝鳃鱼",
+
   "game:recipeingredient-item-psfish-mutant-raw": "变异鱼",
   "game:recipeingredient-item-psfish-mutant-raw-insturmentalcase": "变异鱼",
   "recipeingredient-item-psfish-mutant-raw": "变异鱼",
@@ -222,6 +255,7 @@
   "game:meal-ingredient-soup-secondary-psfish-mutant-raw": "变异鱼",
   "game:meal-ingredient-stew-primary-psfish-mutant-raw": "变异鱼",
   "game:meal-ingredient-stew-secondary-psfish-mutant-raw": "变异鱼",
+
   "game:recipeingredient-item-fishfillet-raw": "鱼",
   "game:recipeingredient-item-fishfillet-raw-insturmentalcase": "鱼",
   "recipeingredient-item-fishfillet-raw": "鱼",
@@ -230,47 +264,60 @@
   "game:meal-ingredient-soup-secondary-fishfillet-raw": "鱼",
   "game:meal-ingredient-stew-primary-fishfillet-raw": "鱼",
   "game:meal-ingredient-stew-secondary-fishfillet-raw": "鱼",
+
   "block-steatitealcove-temporal*": "时空壁龛",
   "block-steatitealcove-astral*": "星界壁龛",
   "block-steatitealcove-ethereal*": "以太壁龛",
+
   "block-steatitewindow-temporal*": "时空窗（带栏杆）",
   "block-steatitewindow-astral*": "星界窗（带栏杆）",
   "block-steatitewindow-ethereal*": "以太窗（带栏杆）",
+
   "block-steatite-plain-temporal": "时空方块（素面）",
   "block-steatite-plain-astral": "星界方块（素面）",
   "block-steatite-plain-ethereal": "以太方块（素面）",
+
   "block-steatite-ornate-temporal": "时空方块（雕纹）",
   "block-steatite-ornate-astral": "星界方块（雕纹）",
   "block-steatite-ornate-ethereal": "以太方块（雕纹）",
+
   "block-steatiteslab-temporal*": "时空台阶",
   "block-steatiteslab-astral*": "星界台阶",
   "block-steatiteslab-ethereal*": "以太台阶",
+
   "block-steatitestairs-temporal*": "时空楼梯",
   "block-steatitestairs-astral*": "星界楼梯",
   "block-steatitestairs-ethereal*": "以太楼梯",
+
   "block-steatitepillar-temporal*": "时空柱",
   "block-steatitepillar-astral*": "星界柱",
   "block-steatitepillar-ethereal*": "以太柱",
+
   "block-steatiterail-temporal*": "时空栏杆",
   "block-steatiterail-astral*": "星界栏杆",
   "block-steatiterail-ethereal*": "以太栏杆",
+
   "item-monkeybridge": "猴桥",
   "block-monkeybridge*": "猴桥",
+
   "block-metalbucket-empty-*": "金属桶",
   "block-metalbucket-filled-*": "金属桶",
+
   "item-buckethandle-copper": "桶柄（铜）",
-  "item-buckethandle-tinbronze": "桶柄（锡青铜）",
-  "item-buckethandle-bismuthbronze": "桶柄（铋青铜）",
-  "item-buckethandle-blackbronze": "桶柄（黑青铜）",
+  "item-buckethandle-tinbronze": "桶柄（锡铜）",
+  "item-buckethandle-bismuthbronze": "桶柄（铋铜）",
+  "item-buckethandle-blackbronze": "桶柄（黑铜）",
   "item-buckethandle-gold": "桶柄（金）",
   "item-buckethandle-silver": "桶柄（银）",
   "item-buckethandle-iron": "桶柄（铁）",
   "item-buckethandle-meteoriciron": "桶柄（陨铁）",
   "item-buckethandle-steel": "桶柄（钢）",
+
   "block-foxhide-red-female*": "森林狐皮（雌）",
   "block-foxhide-red-male*": "森林狐皮（雄）",
   "block-foxhide-arctic-female*": "北极狐皮（雌）",
   "block-foxhide-arctic-male*": "北极狐皮（雄）",
+
   "block-harehide-arctic-female*": "北极兔皮（雌）",
   "block-harehide-arctic-male*": "北极兔皮（雄）",
   "block-harehide-ashgrey-female*": "灰兔皮（雌）",
@@ -291,24 +338,31 @@
   "block-harehide-silver-male*": "银兔皮（雄）",
   "block-harehide-smokegrey-female*": "烟灰兔皮（雌）",
   "block-harehide-smokegrey-male*": "烟灰兔皮（雄）",
+
   "block-raccoonhide-raccoon-female*": "浣熊皮（雌）",
   "block-raccoonhide-raccoon-male*": "浣熊皮（雄）",
+
   "block-wolfhide-grey-female*": "灰狼皮（雌）",
   "block-wolfhide-grey-male*": "灰狼皮（雄）",
   "block-wolfhide-steppe-female*": "草原狼皮（雌）",
   "block-wolfhide-steppe-male*": "草原狼皮（雄）",
   "block-wolfhide-tundra-female*": "苔原狼皮（雌）",
   "block-wolfhide-tundra-male*": "苔原狼皮（雄）",
+
   "block-hyenahide-hyena-female*": "鬣狗皮（雌）",
   "block-hyenahide-hyena-male*": "鬣狗皮（雄）",
+
   "block-pighide-wild-female*": "野猪皮（雌）",
   "block-pighide-wild-male*": "野猪皮（雄）",
+
   "block-sheephide-bighorn-female*": "大角羊皮（雌）",
   "block-sheephide-bighorn-male*": "大角羊皮（雄）",
+
   "block-foxhead-red-female*": "森林狐首（雌）",
   "block-foxhead-red-male*": "森林狐首（雄）",
   "block-foxhead-arctic-female*": "北极狐首（雌）",
   "block-foxhead-arctic-male*": "北极狐首（雄）",
+
   "block-harehead-arctic-female*": "北极兔首（雌）",
   "block-harehead-arctic-male*": "北极兔首（雄）",
   "block-harehead-ashgrey-female*": "灰兔首（雌）",
@@ -329,25 +383,32 @@
   "block-harehead-silver-male*": "银兔首（雄）",
   "block-harehead-smokegrey-female*": "烟灰兔首（雌）",
   "block-harehead-smokegrey-male*": "烟灰兔首（雄）",
+
   "block-raccoonhead-raccoon-female*": "浣熊首（雌）",
   "block-raccoonhead-raccoon-male*": "浣熊首（雄）",
+
   "block-wolfhead-grey-female*": "灰狼首（雌）",
   "block-wolfhead-grey-male*": "灰狼首（雄）",
   "block-wolfhead-steppe-female*": "草原狼首（雌）",
   "block-wolfhead-steppe-male*": "草原狼首（雄）",
   "block-wolfhead-tundra-female*": "苔原狼首（雌）",
   "block-wolfhead-tundra-male*": "苔原狼首（雄）",
+
   "block-hyenahead-hyena-female*": "鬣狗首（雌）",
   "block-hyenahead-hyena-male*": "鬣狗首（雄）",
+
   "block-pighead-wild-female*": "野猪首（雌）",
   "block-pighead-wild-male*": "野猪首（雄）",
+
   "block-sheephead-bighorn-female*": "大角羊首（雌）",
   "block-sheephead-bighorn-male*": "大角羊首（雄）",
+
   "item-earthworm": "蚯蚓",
   "item-creature-earthworm": "蚯蚓",
   "item-dead-creature-earthworm": "蚯蚓（死）",
   "item-earthwormcastings": "蚯蚓粪",
   "block-earthwormcastings": "蚯蚓粪",
+
   "blockdesc-snare-suitable-ground-needed": "需要更合适的地面放置陷阱",
   "blockdesc-firework-suitable-ground-needed": "需要更合适的地面放置木桩",
   "blockdesc-alcove-unlit": "右键使用火把或蜡烛点亮。",
@@ -373,6 +434,7 @@
   "blockdesc-woodsuppportspikes-concealment-size-2": "大量",
   "blockdesc-woodsuppportspikes-concealment-plants": "干草或植物材料以伪装坑洞",
   "blockdesc-woodsuppportspikes-concealment-dirt": "添加泥土或沙子以伪装坑洞",
+
   "game:recipeingredient-item-jerky-fish-raw": "鱼肉干",
   "game:recipeingredient-item-jerky-fish-raw-insturmentalcase": "鱼肉干",
   "recipeingredient-item-jerky-fish-raw": "鱼肉干",
@@ -381,6 +443,7 @@
   "game:meal-ingredient-soup-secondary-jerky-fish-raw": "鱼肉干",
   "game:meal-ingredient-stew-primary-jerky-fish-raw": "鱼肉干",
   "game:meal-ingredient-stew-secondary-jerky-fish-raw": "鱼肉干",
+
   "game:recipeingredient-item-jerky-redmeat-raw": "红肉干",
   "game:recipeingredient-item-jerky-redmeat-raw-insturmentalcase": "红肉干",
   "recipeingredient-item-jerky-redmeat-raw": "红肉干",
@@ -389,6 +452,7 @@
   "game:meal-ingredient-soup-secondary-jerky-redmeat-raw": "红肉干",
   "game:meal-ingredient-stew-primary-jerky-redmeat-raw": "红肉干",
   "game:meal-ingredient-stew-secondary-jerky-redmeat-raw": "红肉干",
+
   "game:recipeingredient-item-jerky-bushmeat-raw": "野味干",
   "game:recipeingredient-item-jerky-bushmeat-raw-insturmentalcase": "野味干",
   "recipeingredient-item-jerky-bushmeat-raw": "野味干",
@@ -397,6 +461,7 @@
   "game:meal-ingredient-soup-secondary-jerky-bushmeat-raw": "野味干",
   "game:meal-ingredient-stew-primary-jerky-bushmeat-raw": "野味干",
   "game:meal-ingredient-stew-secondary-jerky-bushmeat-raw": "野味干",
+
   "block-woodlantern-acacia-*": "木灯笼（金合欢木）",
   "block-woodlantern-aged-*": "木灯笼（老化木）",
   "block-woodlantern-birch*": "木灯笼（桦木）",
@@ -404,18 +469,22 @@
   "block-woodlantern-maple*": "木灯笼（枫木）",
   "block-woodlantern-oak*": "木灯笼（橡木）",
   "block-woodlantern-pine*": "木灯笼（松木）",
+
   "block-raft*": "木筏",
   "itemdesc-lavaportion": "岩浆",
   "incontainer-block-lava-still-7": "岩浆",
   "incontainer-item-lavaportion": "岩浆",
+
   "item-lavaportion": "岩浆（1升）",
   "block-blood-still-7": "血",
+
   "block-woodlantern-baldcypress-*": "木灯笼（落羽杉）",
   "block-woodlantern-larch-*": "木灯笼（落叶松）",
   "block-woodlantern-redwood-*": "木灯笼（红杉）",
   "block-woodlantern-ebony-*": "木灯笼（乌木）",
   "block-woodlantern-walnut-*": "木灯笼（胡桃木）",
   "block-woodlantern-purpleheart-*": "木灯笼（紫心木）",
+
   "item-fisheggs-raw-normal": "鱼卵（生）",
   "itemdesc-fisheggs-raw-normal": "可烹饪或风干",
   "item-fisheggs-raw-ovulated": "鱼卵（排卵）",
@@ -423,47 +492,57 @@
   "item-fisheggscooked": "鱼卵（熟）",
   "item-caviar-curing": "鱼卵（腌制中）",
   "item-caviar-cured": "鱼子酱",
+
   "game:block-blood-still-7": "静止血泊",
   "game:incontainer-block-blood-still-7": "血",
   "game:item-bloodportion": "血液（1升）",
   "game:itemdesc-bloodportion": "血液",
   "game:incontainer-item-bloodportion": "血液",
+
   "item-snake-blackrat": "黑鼠蛇",
   "item-creature-blackrat": "黑鼠蛇",
   "item-dead-creature-blackrat": "黑鼠蛇（死）",
   "game:prefixandcreature-blackrat": "黑鼠蛇",
+
   "item-snake-coachwhip": "鞭蛇",
   "item-creature-coachwhip": "鞭蛇",
   "item-dead-creature-coachwhip": "鞭蛇（死）",
   "game:prefixandcreature-coachwhip": "鞭蛇",
+
   "item-snake-pitviper": "蝮蛇",
   "item-creature-pitviper": "蝮蛇",
   "item-dead-creature-pitviper": "蝮蛇（死）",
   "game:prefixandcreature-pitviper": "蝮蛇",
+
   "item-snake-chainviper": "链蛇",
   "item-creature-chainviper": "链蛇",
   "item-dead-creature-chainviper": "链蛇（死）",
   "game:prefixandcreature-chainviper": "链蛇",
+
   "item-snakemeat-raw": "蛇肉（生）",
   "itemdesc-snakemeat-raw": "烹饪后是美味的蛋白质来源。",
   "item-snakemeat-cooked": "蛇肉（熟）",
   "item-snakemeat-partbaked": "蛇肉（半熟）",
   "item-snakemeat-cured": "蛇肉（风干）",
-  "item-snakemeat-charred": "蛇肉（烤焦）",
+  "item-snakemeat-charred": "蛇肉（烧焦）",
+
   "item-crab-landcrab*": "陆蟹",
   "item-creature-landcrab*": "陆蟹",
   "item-dead-creature-landcrab*": "陆蟹（死）",
   "game:prefixandcreature-landcrab*": "陆蟹",
+
   "item-crab-bairdicrab*": "贝氏蟹",
   "item-creature-bairdicrab*": "贝氏蟹",
   "item-dead-creature-bairdicrab*": "贝氏蟹（死）",
   "game:prefixandcreature-bairdicrab*": "贝氏蟹",
+
   "item-crabmeat-raw": "蟹肉（生）",
   "itemdesc-crabmeat-raw": "烹饪后是美味的蛋白质来源。",
   "item-crabmeat-cooked": "蟹肉（熟）",
   "item-crabmeat-partbaked": "蟹肉（半熟）",
   "item-crabmeat-cured": "蟹肉（风干）",
-  "item-crabmeat-charred": "蟹肉（烤焦）",
+  "item-crabmeat-charred": "蟹肉（烧焦）",
+
   "game:recipeingredient-item-snakemeat-raw": "蛇肉",
   "game:recipeingredient-item-snakemeat-raw-insturmentalcase": "蛇肉",
   "recipeingredient-item-snakemeat-raw": "蛇肉",
@@ -472,6 +551,7 @@
   "game:meal-ingredient-soup-secondary-snakemeat-raw": "蛇肉",
   "game:meal-ingredient-stew-primary-snakemeat-raw": "蛇肉",
   "game:meal-ingredient-stew-secondary-snakemeat-raw": "蛇肉",
+
   "game:recipeingredient-item-crabmeat-raw": "蟹肉",
   "game:recipeingredient-item-crabmeat-raw-insturmentalcase": "蟹肉",
   "recipeingredient-item-crabmeat-raw": "蟹肉",
@@ -480,6 +560,7 @@
   "game:meal-ingredient-soup-secondary-crabmeat-raw": "蟹肉",
   "game:meal-ingredient-stew-primary-crabmeat-raw": "蟹肉",
   "game:meal-ingredient-stew-secondary-crabmeat-raw": "蟹肉",
+
   "block-fireflies-empty*": "萤火虫罐（空）",
   "blockdesc-fireflies-empty*": "用水果诱捕萤火虫。",
   "block-fireflies-baited*": "萤火虫罐（已诱饵）",
@@ -491,6 +572,7 @@
   "block-fireflies-fairyring*": "萤火虫（仙环）",
   "block-fireflies-candle*": "萤火虫（烛光）",
   "block-fireflies-marshimp*": "萤火虫（沼泽精灵）",
+
   "item-creature-fireflies-treetop*": "树冠萤火虫",
   "item-creature-fireflies-mysticlantern*": "神秘灯笼萤火虫",
   "item-creature-fireflies-blueghost*": "蓝幽灵萤火虫",
@@ -499,8 +581,10 @@
   "item-creature-fireflies-candle*": "烛光萤火虫",
   "item-creature-fireflies-marshimp*": "沼泽精灵萤火虫",
   "creature-carryable": "右键拾取",
+
   "block-woodjarholder-north": "木罐架",
   "blockdesc-woodjarholder-north": "适合将萤火虫罐挂在墙上",
+
   "item-linktool": "粒子链接工具",
   "itemdesc-linktool": "用于将方块位置链接至粒子生成器",
   "heldhelp-linktool-link": "链接",
@@ -511,17 +595,20 @@
   "place-beside": "放置在主生成器旁边。",
   "particle-name": "名称",
   "particle-type": "粒子类型",
-  "Primary": "主粒子",
-  "Death": "消亡粒子",
-  "Secondary": "次粒子",
+  "主粒子": "Primary",
+  "消亡粒子": "Death",
+  "次粒子": "Secondary",
   "linked-toself": "已链接至自身。",
   "linked-to": "链接至",
+
   "particulator-guititle": "粒子生成器配置",
   "particulator-guide": "<br><strong>粒子生成器</strong><br><br>只需一个<a href=\"handbook://block-particulate:particulator-north\">粒子生成器</a>即可开始设计粒子效果——这是一个带有配置界面的方块。<br><br>若要理解各项参数，建议从预设的<font color=\"#FFC690\">静止立方体</font>开始，逐步调整设置。<br><br>可直接使用预设效果，或基于相似效果进行修改。<br><br><br><strong>粒子链接工具</strong><br><br><a href=\"handbook://item-particulate:linktool\">粒子链接工具</a>可轻松迁移或组合粒子效果。先选择目标方块，再选择粒子生成器。双击生成器可收回效果。<br><br>将多个生成器链接至同一方块可叠加效果。若目标为空气或水，可先放置临时方块再链接。<br><br><br><strong>界面操作</strong><br><br>部分参数敏感。悬停后使用<font color=\"#FFC690\">滚轮</font>增减数值。<br><br>按住<font color=\"#FFC690\">左Shift</font>+滚轮微调（0.1），<font color=\"#FFC690\">左Ctrl</font>+滚轮精调（0.01）。<br><br>选中界面后无需点击即可操作。<br><br><br><strong>移动/复制生成器</strong><br><br>生存或创造模式下均可破坏并移动生成器，其设置（除链接位置和颜色设置）将保留。创造模式下可无限复制。<br><br><br><strong>粒子类型</strong><br><br>多数效果为<font color=\"#FFC690\">主粒子</font>。在生成器旁放置次级或消亡类型生成器可创建复杂效果。参考<font color=\"#FFC690\">烟花</font>预设。<br><br><font color=\"#FFC690\">次粒子</font>在主粒子飞行时发射。<br><font color=\"#FFC690\">消亡粒子</font>在主粒子消失时触发。<br><br><strong>注意：</strong>组合主次粒子时建议使用<em>相反</em>的模型类型（如立方体+平面），避免显示异常。<br><br><strong>注意：</strong>控制数量和生命周期，避免超出粒子上限。<br><br>一个主生成器只能链接一个次级和一个消亡生成器，但多个主生成器可共享次级/消亡生成器。<br><br><br><strong>性能优化</strong><br><br>默认异步生成粒子以提升性能。勾选<font color=\"#FFC690\">主线程运行</font>可关闭此选项（适合单次效果）。<br><br>通过修改<font color=\"#FFC690\">clientsettings.json</font>调整粒子上限：<br><br><font color=\"#FFC690\">\"maxQuadParticles\": 8000<br>\"maxCubeParticles\": 4000<br>\"maxAsyncQuadParticles\": 80000<br>\"maxAsyncCubeParticles\": 80000</font><br><br>或游戏内使用命令：<br><br><font color=\"#FFC690\">.clientconfig maxQuadParticles #<br>.clientconfig maxCubeParticles #<br>.clientconfig maxAsyncQuadParticles #<br>.clientconfig maxAsyncCubeParticles #</font><br><br><br><strong>支持文档</strong><br><br>参考维基：<br><br><a href=\"https://wiki.vintagestory.at/index.php?title=Modding:Simple_Particles\">简单粒子</a><br><a href=\"https://wiki.vintagestory.at/index.php?title=NatFloat\">数值分布模式</a><br><br>开发者可查阅Github仓库中与<font color=\"#FFC690\">particle</font>相关的代码，重点关注以下C#类：<br><br><font color=\"#FFC690\">SimpleParticleProperties<br>AdvancedParticleProperties<br>asyncParticleSpawn<br>IAsyncParticleManager</font><br><br><br><strong>分享作品</strong><br><br>若创造出惊艳效果，请通过<font color=\"#FFC690\">代码-粒子-复制代码</font>将代码私信Discord用户<font color=\"#FFC690\">SpearAndFang#6757</font>，或将加入后续模组！",
+
   "block-betterbrickstairs-blue-*": "优质蓝砖楼梯",
   "block-betterbrickstairs-brown-*": "优质棕砖楼梯",
   "block-betterbrickstairs-fire-*": "优质火砖楼梯",
   "block-betterbrickstairs-red-*": "优质红砖楼梯",
+
   "block-bettercobblestonestairs-andesite-*": "优质安山岩圆石楼梯",
   "block-bettercobblestonestairs-bauxite-*": "优质铝土矿圆石楼梯",
   "block-bettercobblestonestairs-chalk-*": "优质白垩圆石楼梯",
@@ -536,11 +623,13 @@
   "block-bettercobblestonestairs-peridotite-*": "优质橄榄岩圆石楼梯",
   "block-bettercobblestonestairs-phyllite-*": "优质千枚岩圆石楼梯",
   "block-bettercobblestonestairs-slate-*": "优质板岩圆石楼梯",
+
   "block-bettercobblestonestairs-kimberlite-*": "优质金伯利岩圆石楼梯",
   "block-bettercobblestonestairs-suevite-*": "优质冲击岩圆石楼梯",
   "block-bettercobblestonestairs-whitemarble-*": "优质白大理石圆石楼梯",
   "block-bettercobblestonestairs-redmarble-*": "优质红大理石圆石楼梯",
   "block-bettercobblestonestairs-greenmarble-*": "优质绿大理石圆石楼梯",
+
   "block-betterplankstairs-birch-*": "优质桦木板楼梯",
   "block-betterplankstairs-oak-*": "优质橡木板楼梯",
   "block-betterplankstairs-maple-*": "优质枫木板楼梯",
@@ -548,10 +637,12 @@
   "block-betterplankstairs-acacia-*": "优质金合欢木板楼梯",
   "block-betterplankstairs-kapok-*": "优质木棉木板楼梯",
   "block-betterplankstairs-aged-*": "优质老化木板楼梯",
+
   "block-betterclayshinglestairs-blue-*": "优质蓝瓦楼梯",
   "block-betterclayshinglestairs-brown-*": "优质棕瓦楼梯",
   "block-betterclayshinglestairs-fire-*": "优质火黏土瓦楼梯",
   "block-betterclayshinglestairs-red-*": "优质红瓦楼梯",
+
   "block-betterstonebrickstairs-basalt-*": "优质玄武岩石砖楼梯",
   "block-betterstonebrickstairs-andesite-*": "优质安山岩石砖楼梯",
   "block-betterstonebrickstairs-chalk-*": "优质白垩石砖楼梯",
@@ -567,6 +658,7 @@
   "block-betterstonebrickstairs-phyllite-*": "优质千枚岩砖楼梯",
   "block-betterstonebrickstairs-slate-*": "优质板岩砖楼梯",
   "block-betterstonepathstairs-*": "优质石径楼梯",
+
   "block-betterplankstairs-baldcypress-*": "优质落羽杉木板楼梯",
   "block-betterplankstairs-larch-*": "优质落叶松木板楼梯",
   "block-betterplankstairs-redwood-*": "优质红杉木板楼梯",
@@ -574,10 +666,12 @@
   "block-betterplankstairs-walnut-*": "优质胡桃木板楼梯",
   "block-betterplankstairs-purpleheart-*": "优质紫心木板楼梯",
   "block-betterquartzstairs-*": "优质远古石英楼梯",
+
   "block-firework-missile": "烟花（导弹）",
   "block-firework-fountain": "烟花（喷泉）",
   "block-firework-beehive": "烟花（蜂巢）",
   "blockhelp-firework-ignite": "点燃",
+
   "blockdesc-earthwormcastings": "破坏此方块获取蚯蚓粪，用作耕地肥料。",
   "blockdesc-better*": "将普通楼梯放回工作台可转换为动态楼梯，反之亦然。",
   "blockdesc-raft*": "手持时进出水域自动使用，无需按键。",
@@ -618,6 +712,7 @@
   "itemdesc-monkeybridge": "连接两处双层方块或树木，跨越鸿沟。",
   "itemdesc-snake-*": "若其温顺或未反杀你，便是佳肴。",
   "itemdesc-woodspikebundle": "垂直插入地面作陷阱，或水平放置伪装坑洞。",
+
   "block-*treehollow*-acacia-*": "金合欢树洞",
   "block-*treehollow*-birch-*": "桦树洞",
   "block-*treehollow*-kapok-*": "木棉树洞",
@@ -627,18 +722,22 @@
   "block-*treehollow*-pine-*": "松树洞",
   "block-*treehollow*-walnut-*": "胡桃树洞",
   "treehollowcontents": "树洞内容物",
+
   "pie-single-primitivesurvival:fishfillet-raw-raw": "鱼派（生）",
   "pie-single-primitivesurvival:fishfillet-raw-partbaked": "鱼派（半熟）",
   "pie-single-primitivesurvival:fishfillet-raw-perfect": "鱼派",
-  "pie-single-primitivesurvival:fishfillet-raw-charred": "鱼派（焦）",
+  "pie-single-primitivesurvival:fishfillet-raw-charred": "鱼派（烧焦）",
+
   "pie-single-primitivesurvival:crabmeat-raw-raw": "蟹肉派（生）",
   "pie-single-primitivesurvival:crabmeat-raw-partbaked": "蟹肉派（半熟）",
   "pie-single-primitivesurvival:crabmeat-raw-perfect": "蟹肉派",
-  "pie-single-primitivesurvival:crabmeat-raw-charred": "蟹肉派（焦）",
+  "pie-single-primitivesurvival:crabmeat-raw-charred": "蟹肉派（烧焦）",
+
   "pie-single-primitivesurvival:snakemeat-raw-raw": "蛇肉派（生）",
   "pie-single-primitivesurvival:snakemeat-raw-partbaked": "蛇肉派（半熟）",
   "pie-single-primitivesurvival:snakemeat-raw-perfect": "蛇肉派",
-  "pie-single-primitivesurvival:snakemeat-raw-charred": "蛇肉派（焦）",
+  "pie-single-primitivesurvival:snakemeat-raw-charred": "蛇肉派（烧焦）",
+
   "block-bearhead-polar1-female*": "北极熊首（雌）",
   "block-bearhead-polar1-male*": "北极熊首（雄）",
   "block-bearhead-brown*-female*": "棕熊首（雌）",
@@ -649,6 +748,7 @@
   "block-bearhead-sun*-male*": "马来熊首（雄）",
   "block-bearhead-panda*-female*": "熊猫首（雌）",
   "block-bearhead-panda*-male*": "熊猫首（雄）",
+
   "block-bearhide-polar1-female*": "北极熊皮（雌）",
   "block-bearhide-polar1-male*": "北极熊皮（雄）",
   "block-bearhide-brown*-female*": "棕熊皮（雌）",
@@ -659,61 +759,80 @@
   "block-bearhide-sun*-male*": "马来熊皮（雄）",
   "block-bearhide-panda*-female*": "熊猫皮（雌）",
   "block-bearhide-panda*-male*": "熊猫皮（雄）",
+
   "blockdesc-bearhead*": "将毛皮挂在墙上装饰房间。",
   "blockdesc-bearhide*": "将毛皮铺在地上装饰房间。",
+
   "block-firework-boomer": "烟花（回旋镖）",
+
   "itemcraftdesc-buckethandle-*": "用于制作金属桶",
   "block-nephrenka-statue*": "内弗伦-卡雕像（遗物）",
   "blockdesc-nephrenka-statue*": "此奇异遗物似乎需安装在某物之上...",
+
   "item-livingdead*": "活死人",
   "item-creature-livingdead*": "活死人",
+
   "item-dead-creature-livingdead*": "活死人（死）",
   "game:prefixandcreature-livingdeadnormal": "活死人",
+
   "block-skullofthedead*": "亡者颅骨（带脊椎）",
   "blockdesc-skullofthedead**": "置于软地缓慢吸取周围生物生命",
   "item-creature-skullofthedead*": "亡者颅骨（带脊椎）",
   "itemdesc--creature-skullofthedead**": "驱散附近生物",
   "item-dead-creature-skullofthedead*": "亡者颅骨（带脊椎）",
   "game:prefixandcreature-skullofthedeadnormal": "亡者颅骨（带脊椎）",
+
   "block-handofthedead-*": "亡者之手",
   "blockdesc-handofthedead-empty*": "添加蜡烛制成非凡光源",
   "blockdesc-handofthedead-candle*": "非凡光源",
+
   "item-bioluminescent*": "发光海洋生物",
   "item-creature-bioluminescent*": "发光海洋生物",
   "item-dead-creature-bioluminescent*": "发光海洋生物（死）",
   "game:prefixandcreature-bioluminescent*": "发光海洋生物",
+
   "item-willowisp*": "鬼火",
   "item-creature-willowisp*": "鬼火",
   "item-dead-creature-willowisp*": "鬼火（死）",
   "game:prefixandcreature-willowisp*": "鬼火",
+
   "blockdesc-metalbucket-filled-*": "10升岩浆",
   "blockdesc-metalbucket-empty-*": "可安全运输岩浆的金属桶",
+
   "blockdesc-temporalbase-gateway-open-failure": "若再大些，或能释放宇宙恐怖！",
+
   "item-fuse-blackmatch": "引信（黑火药）",
   "itemdesc-fuse-*": "放置于爆炸物旁以连接。",
   "block-bfuse-blackmatch*": "引信（黑火药）",
   "blockdesc-bfuse-*": "连接爆炸物，用火把点燃。",
+
   "item-grunter": "蚯蚓诱捕器",
   "itemdesc-grunter": "副手持握，主手持棍点击地面诱捕蚯蚓。",
   "heldhelp-grunter-grunt": "诱捕蚯蚓",
+
   "block-firework-bamboobarrage": "烟花（竹箭齐发）",
+
   "block-irrigationvessel-*": "灌溉容器",
   "blockdesc-irrigationvessel-*": "替代水方块，优化耕地灌溉。",
   "fill-irrigationvessel": "注水保持邻近耕地湿润。",
   "working-irrigationvessel": "此灌溉容器运作正常。",
   "wrongliquid-irrigationvessel": "仅水能保持耕地湿润。",
   "bury-irrigationvessel": "手持泥土右键掩埋灌溉容器。",
+
   "game:block--storagevessel-burned": "储物罐",
+
   "block-smoker-open-*": "熏肉架（开启）",
   "block-smoker-closed-*": "熏肉架",
   "block-smoker-lit-*": "熏肉架（点燃）",
   "blockdesc-smoker-*": "添加4份柴火和最多4份生肉捆，用火把点燃开始熏制。",
   "blockhelp-smoker-rightclick": "开启/装载/卸载/关闭",
   "blockhelp-smoker-complete": "完成",
+
   "item-smokedmeat-redmeat-raw": "熏红肉（生）",
   "item-smokedmeat-bushmeat-raw": "熏野味（生）",
   "item-smokedmeat-poultry-raw": "熏禽肉（生）",
   "item-smokedmeat-fish-raw": "熏鱼（生）",
+
   "item-trussedmeat-redmeat-raw": "红肉捆（生）",
   "item-trussedmeat-bushmeat-raw": "野味捆（生）",
   "item-trussedmeat-poultry-raw": "禽肉捆（生）",
@@ -724,22 +843,24 @@
   "item-trussedmeat-fish-smoked": "鱼捆（熏制）",
   "itemhelp-trussedmeat-*": "用于或产自熏肉架",
   "item-trussedrot": "腐肉捆",
+
   "pie-single-primitivesurvival:smokedmeat-redmeat-raw-raw": "熏红肉派（生）",
   "pie-single-primitivesurvival:smokedmeat-redmeat-raw-partbaked": "熏红肉派（半熟）",
   "pie-single-primitivesurvival:smokedmeat-redmeat-raw-perfect": "熏红肉派",
-  "pie-single-primitivesurvival:smokedmeat-redmeat-raw-charred": "熏红肉派（焦）",
+  "pie-single-primitivesurvival:smokedmeat-redmeat-raw-charred": "熏红肉派（烧焦）",
   "pie-single-primitivesurvival:smokedmeat-poultry-raw-raw": "熏禽肉派（生）",
   "pie-single-primitivesurvival:smokedmeat-poultry-raw-partbaked": "熏禽肉派（半熟）",
   "pie-single-primitivesurvival:smokedmeat-poultry-raw-perfect": "熏禽肉派",
-  "pie-single-primitivesurvival:smokedmeat-poultry-raw-charred": "熏禽肉派（焦）",
+  "pie-single-primitivesurvival:smokedmeat-poultry-raw-charred": "熏禽肉派（烧焦）",
   "pie-single-primitivesurvival:smokedmeat-fish-raw-raw": "熏鱼派（生）",
   "pie-single-primitivesurvival:smokedmeat-fish-raw-partbaked": "熏鱼派（半熟）",
   "pie-single-primitivesurvival:smokedmeat-fish-raw-perfect": "熏鱼派",
-  "pie-single-primitivesurvival:smokedmeat-fish-raw-charred": "熏鱼派（焦）",
+  "pie-single-primitivesurvival:smokedmeat-fish-raw-charred": "熏鱼派（烧焦）",
   "pie-single-primitivesurvival:smokedmeat-bushmeat-raw-raw": "熏野味派（生）",
   "pie-single-primitivesurvival:smokedmeat-bushmeat-raw-partbaked": "熏野味派（半熟）",
   "pie-single-primitivesurvival:smokedmeat-bushmeat-raw-perfect": "熏野味派",
-  "pie-single-primitivesurvival:smokedmeat-bushmeat-raw-charred": "熏野味派（焦）",
+  "pie-single-primitivesurvival:smokedmeat-bushmeat-raw-charred": "熏野味派（烧焦）",
+
   "game:recipeingredient-item-smokedmeat-redmeat-raw": "熏红肉",
   "game:recipeingredient-item-smokedmeat-redmeat-raw-insturmentalcase": "熏红肉",
   "recipeingredient-item-smokedmeat-redmeat-raw": "熏红肉",
@@ -748,6 +869,7 @@
   "game:meal-ingredient-soup-secondary-smokedmeat-redmeat-raw": "熏红肉",
   "game:meal-ingredient-stew-primary-smokedmeat-redmeat-raw": "熏红肉",
   "game:meal-ingredient-stew-secondary-smokedmeat-redmeat-raw": "熏红肉",
+
   "game:recipeingredient-item-smokedmeat-bushmeat-raw": "熏野味",
   "game:recipeingredient-item-smokedmeat-bushmeat-raw-insturmentalcase": "熏野味",
   "recipeingredient-item-smokedmeat-bushmeat-raw": "熏野味",
@@ -756,6 +878,7 @@
   "game:meal-ingredient-soup-secondary-smokedmeat-bushmeat-raw": "熏野味",
   "game:meal-ingredient-stew-primary-smokedmeat-bushmeat-raw": "熏野味",
   "game:meal-ingredient-stew-secondary-smokedmeat-bushmeat-raw": "熏野味",
+
   "game:recipeingredient-item-smokedmeat-poultry-raw": "熏禽肉",
   "game:recipeingredient-item-smokedmeat-poultry-raw-insturmentalcase": "熏禽肉",
   "recipeingredient-item-smokedmeat-poultry-raw": "熏禽肉",
@@ -764,6 +887,7 @@
   "game:meal-ingredient-soup-secondary-smokedmeat-poultry-raw": "熏禽肉",
   "game:meal-ingredient-stew-primary-smokedmeat-poultry-raw": "熏禽肉",
   "game:meal-ingredient-stew-secondary-smokedmeat-poultry-raw": "熏禽肉",
+
   "game:recipeingredient-item-smokedmeat-fish-raw": "熏鱼",
   "game:recipeingredient-item-smokedmeat-fish-raw-insturmentalcase": "熏鱼",
   "recipeingredient-item-smokedmeat-fish-raw": "熏鱼",
@@ -772,12 +896,15 @@
   "game:meal-ingredient-soup-secondary-smokedmeat-fish-raw": "熏鱼",
   "game:meal-ingredient-stew-primary-smokedmeat-fish-raw": "熏鱼",
   "game:meal-ingredient-stew-secondary-smokedmeat-fish-raw": "熏鱼",
+
   "block-firework-cherrybomb": "烟花（樱桃炸弹）",
+
   "game:handhelp-trench": "犁沟",
   "block-furrowedland-*": "犁沟耕地",
   "item-blockage": "杂物阻塞灌溉。",
   "ingameerror-debris": "请先清理杂物！",
   "blockhelp-furrowedland-removedebris": "清除杂物",
+
   "block-fishmount-bass-*": "小鲈鱼（标本）",
   "block-fishmount-trout-*": "鳟鱼（标本）",
   "block-fishmount-perch-*": "鲈鱼（标本）",
@@ -788,6 +915,7 @@
   "block-fishmount-catfish-*": "鲶鱼（标本）",
   "block-fishmount-bluegill-*": "蓝鳃鱼（标本）",
   "block-fishmount-mutant-*": "变异鱼（标本）",
+
   "block-betterplankstairs-douglasfir-*": "优质道格拉斯冷杉木板楼梯",
   "block-betterplankstairs-willow-*": "优质柳木楼梯",
   "block-betterplankstairs-honeylocust-*": "优质皂荚木楼梯",
@@ -804,6 +932,7 @@
   "block-betterplankstairs-beech-*": "优质山毛榉木楼梯",
   "block-betterplankstairs-eucalyptus-*": "优质桉树木楼梯",
   "block-betterplankstairs-cedar-*": "优质雪松木楼梯",
+
   "block-woodlantern-douglasfir-*": "木灯笼（道格拉斯冷杉）",
   "block-woodlantern-willow-*": "木灯笼（柳木）",
   "block-woodlantern-honeylocust-*": "木灯笼（皂荚木）",
@@ -820,38 +949,44 @@
   "block-woodlantern-beech-*": "木灯笼（山毛榉木）",
   "block-woodlantern-eucalyptus-*": "木灯笼（桉树木）",
   "block-woodlantern-cedar-*": "木灯笼（雪松木）",
+
   "item-curedsmokedmeat-redmeat-raw": "腌熏红肉（生）",
   "item-curedsmokedmeat-bushmeat-raw": "腌熏野味（生）",
   "item-curedsmokedmeat-poultry-raw": "腌熏禽肉（生）",
   "item-curedsmokedmeat-fish-raw": "腌熏鱼（生）",
+
   "item-curedsmokedmeat-redmeat-partbaked": "腌熏红肉（半熟）",
   "item-curedsmokedmeat-bushmeat-partbaked": "腌熏野味（半熟）",
   "item-curedsmokedmeat-poultry-partbaked": "腌熏禽肉（半熟）",
   "item-curedsmokedmeat-fish-partbaked": "腌熏鱼（半熟）",
+
   "item-curedsmokedmeat-redmeat-cooked": "腌熏红肉（熟）",
   "item-curedsmokedmeat-bushmeat-cooked": "腌熏野味（熟）",
   "item-curedsmokedmeat-poultry-cooked": "腌熏禽肉（熟）",
   "item-curedsmokedmeat-fish-cooked": "腌熏鱼（熟）",
-  "item-curedsmokedmeat-redmeat-charred": "腌熏红肉（焦）",
-  "item-curedsmokedmeat-bushmeat-charred": "腌熏野味（焦）",
-  "item-curedsmokedmeat-poultry-charred": "腌熏禽肉（焦）",
-  "item-curedsmokedmeat-fish-charred": "腌熏鱼（焦）",
+
+  "item-curedsmokedmeat-redmeat-charred": "腌熏红肉（烧焦）",
+  "item-curedsmokedmeat-bushmeat-charred": "腌熏野味（烧焦）",
+  "item-curedsmokedmeat-poultry-charred": "腌熏禽肉（烧焦）",
+  "item-curedsmokedmeat-fish-charred": "腌熏鱼（烧焦）",
+
   "pie-single-primitivesurvival:curedsmokedmeat-redmeat-raw-raw": "腌熏红肉派（生）",
   "pie-single-primitivesurvival:curedsmokedmeat-redmeat-raw-partbaked": "腌熏红肉派（半熟）",
   "pie-single-primitivesurvival:curedsmokedmeat-redmeat-raw-perfect": "腌熏红肉派",
-  "pie-single-primitivesurvival:curedsmokedmeat-redmeat-raw-charred": "腌熏红肉派（焦）",
+  "pie-single-primitivesurvival:curedsmokedmeat-redmeat-raw-charred": "腌熏红肉派（烧焦）",
   "pie-single-primitivesurvival:curedsmokedmeat-poultry-raw-raw": "腌熏禽肉派（生）",
   "pie-single-primitivesurvival:curedsmokedmeat-poultry-raw-partbaked": "腌熏禽肉派（半熟）",
   "pie-single-primitivesurvival:curedsmokedmeat-poultry-raw-perfect": "腌熏禽肉派",
-  "pie-single-primitivesurvival:curedsmokedmeat-poultry-raw-charred": "腌熏禽肉派（焦）",
+  "pie-single-primitivesurvival:curedsmokedmeat-poultry-raw-charred": "腌熏禽肉派（烧焦）",
   "pie-single-primitivesurvival:curedsmokedmeat-fish-raw-raw": "腌熏鱼派（生）",
   "pie-single-primitivesurvival:curedsmokedmeat-fish-raw-partbaked": "腌熏鱼派（半熟）",
   "pie-single-primitivesurvival:curedsmokedmeat-fish-raw-perfect": "腌熏鱼派",
-  "pie-single-primitivesurvival:curedsmokedmeat-fish-raw-charred": "腌熏鱼派（焦）",
+  "pie-single-primitivesurvival:curedsmokedmeat-fish-raw-charred": "腌熏鱼派（烧焦）",
   "pie-single-primitivesurvival:curedsmokedmeat-bushmeat-raw-raw": "腌熏野味派（生）",
   "pie-single-primitivesurvival:curedsmokedmeat-bushmeat-raw-partbaked": "腌熏野味派（半熟）",
   "pie-single-primitivesurvival:curedsmokedmeat-bushmeat-raw-perfect": "腌熏野味派",
-  "pie-single-primitivesurvival:curedsmokedmeat-bushmeat-raw-charred": "腌熏野味派（焦）",
+  "pie-single-primitivesurvival:curedsmokedmeat-bushmeat-raw-charred": "腌熏野味派（烧焦）",
+
   "game:recipeingredient-item-curedsmokedmeat-redmeat-raw": "腌熏红肉",
   "game:recipeingredient-item-curedsmokedmeat-redmeat-raw-insturmentalcase": "腌熏红肉",
   "recipeingredient-item-curedsmokedmeat-redmeat-raw": "腌熏红肉",
@@ -860,6 +995,7 @@
   "game:meal-ingredient-soup-secondary-curedsmokedmeat-redmeat-raw": "腌熏红肉",
   "game:meal-ingredient-stew-primary-curedsmokedmeat-redmeat-raw": "腌熏红肉",
   "game:meal-ingredient-stew-secondary-curedsmokedmeat-redmeat-raw": "腌熏红肉",
+
   "game:recipeingredient-item-curedsmokedmeat-bushmeat-raw": "腌熏野味",
   "game:recipeingredient-item-curedsmokedmeat-bushmeat-raw-insturmentalcase": "腌熏野味",
   "recipeingredient-item-curedsmokedmeat-bushmeat-raw": "腌熏野味",
@@ -1185,7 +1321,7 @@
   "support-rightclick-add-pipe": "右键点击为此支架添加管道",
   "pipe-rightclick-add-pipe": "右键点击管道末端以延伸管道",
 
-  // 以下为1.20版本内容
+  //1.20 below
 
   "block-betterfoureightbrickstairs-four-red-*": "改良红陶大砖阶梯",
   "block-betterfoureightbrickstairs-four-brown-*": "改良棕陶大砖阶梯",
