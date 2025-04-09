@@ -44,3 +44,4 @@
 - `Nat's Achievements / Nat的成就系统` [1.2.0](https://mods.vintagestory.at/show/mod/9615)
 - `Scarecrow / 稻草人` [1.6.4](https://mods.vintagestory.at/scarecrow)
 - `NaturesCall / 自然呼唤` [1.1.0](https://mods.vintagestory.at/naturescall)
+- `Toolsmith / 工具匠` [1.0.13](https://mods.vintagestory.at/toolsmith)
