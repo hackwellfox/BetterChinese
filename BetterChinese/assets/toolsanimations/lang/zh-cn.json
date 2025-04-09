@@ -1,0 +1,10 @@
+{
+  "setting-axe_animation": "新斧头动画（如需与其他模组兼容可关闭）",
+  "setting-pickaxe_animation": "新镐动画",
+  "setting-shovel_animation": "新铲子动画",
+  "setting-tool_rendering_offset": "工具穿模问题",
+  "setting-axe_can_split_logs": "斧头可劈开原木（如需与其他模组兼容可关闭）",
+  "setting-tool_whoosh_sound": "工具挥动时的呼啸声音量",
+  "setting-tool_animation_speed_bonus": "镐的动画速度加成",
+  "setting-comment-tool_animation_speed_bonus": "镐的挖掘速度加成带来的动画速度提升。使高级镐挥动更快。值为0.3表示钢镐动画速度增加30%。"
+}
