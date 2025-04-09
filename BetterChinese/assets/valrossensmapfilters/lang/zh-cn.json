@@ -1,0 +1,8 @@
+
+{
+    "game:waypoint-icons-info": "切换所有带图标的",
+    "game:waypoint-icons-sort-option-name": "名称",
+    "game:waypoint-icons-sort-option-icon": "图标",
+    "game:waypoint-icons-sort-option-disabled": "已禁用",
+    "game:waypoint-icons-search-placeholder": "搜索路径点"
+}

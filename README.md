@@ -45,3 +45,4 @@
 - `Scarecrow / 稻草人` [1.6.4](https://mods.vintagestory.at/scarecrow)
 - `NaturesCall / 自然呼唤` [1.1.0](https://mods.vintagestory.at/naturescall)
 - `Toolsmith / 工具匠` [1.0.13](https://mods.vintagestory.at/toolsmith)
+- `Valrossens Waypoint Legend/Filter / Valrossens航点图例/过滤器` [1.0.4](https://mods.vintagestory.at/show/mod/22391)
