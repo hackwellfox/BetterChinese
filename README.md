@@ -47,3 +47,4 @@
 - `Toolsmith / 工具匠` [1.0.13](https://mods.vintagestory.at/toolsmith)
 - `Valrossens Waypoint Legend/Filter / Valrossens航点图例/过滤器` [1.0.4](https://mods.vintagestory.at/show/mod/22391)
 - `Valley of Ashes / 灰烬之谷` [1.1.0](https://mods.vintagestory.at/valleyofashes)
+- `Expanded Matter / 扩展物质` [3.2.1](https://mods.vintagestory.at/em)
