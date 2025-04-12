@@ -1,0 +1,7 @@
+{
+	"heldhelp-chop": "劈开木材作为柴火",
+	"blockinteract-chop": "劈柴",
+	"handbook-chopping-craftinfo": "将一根原木放在地上，同时手持斧头，长按 <hk>rightmouse</hk> 。",
+	"ingameerror-notchoppable-claimedland": "我不能劈开它，我没这个能力",
+	"ingameerror-notchoppable-reinforced": "这根木头劈不开，上面有东西"
+}
