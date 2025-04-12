@@ -40,7 +40,7 @@
 - `XSkills / X技能` [0.8.17](https://mods.vintagestory.at/show/mod/247)
 - `XLib / X库` [0.8.16](https://mods.vintagestory.at/show/mod/244)
 - `VanillaMoreMolds / 原版更多模具` [1.1.1](https://mods.vintagestory.at/vanillamoremolds)
-- `Sammiches / 三明治模组` [1.2.7](https://mods.vintagestory.at/sammiches)
+- `Sammiches / 三明治模组` [1.2.8](https://mods.vintagestory.at/sammiches)
 - `Nat's Achievements / Nat的成就系统` [1.2.0](https://mods.vintagestory.at/show/mod/9615)
 - `Scarecrow / 稻草人` [1.6.4](https://mods.vintagestory.at/scarecrow)
 - `NaturesCall / 自然呼唤` [1.2.0](https://mods.vintagestory.at/naturescall)
