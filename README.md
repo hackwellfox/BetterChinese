@@ -50,3 +50,4 @@
 - `Expanded Matter / 扩展物质` [3.2.1](https://mods.vintagestory.at/em)
 - `Tools Animations / 工具动画` [1.0.1](https://mods.vintagestory.at/toolsanimations)
 - `MakeTea / 喝茶` [0.3.1](https://mods.vintagestory.at/maketea)
+- `ExtremeFirestarters / 极端生火工具` [0.4.0](https://mods.vintagestory.at/extremefirestarters)

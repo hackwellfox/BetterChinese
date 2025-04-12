@@ -1,0 +1,11 @@
+{
+  "item-firestarter": "起火为犁",
+  "gamemechanicinfo-firestarting-title": "游戏机制：生火",
+  "gamemechanicinfo-firestarting-text": "<strong>生火</strong><br>起初，生火是极其困难的。你甚至可能在这个过程中伤害到自己。但随着时间的推移，您将获得更好的工具，并且能够更轻松地完成任务。<br/><br /><strong>开始工具</strong><br />有两个开始选项- <a href=\"handbook://item-firestarter\">Fire Plough Firestarter</a>和<a href=\"handbook://item-extremefirestarters:flintandflint\">Flint和Flint Firestarter</a>。两者都可以用容易找到的材料制成，但需要大量的能量来工作。<br /><br /><strong>耐久性</strong><br />不是每次生火的尝试都能成功——有时你的引火器在起火之前就坏了！<br /><br /><strong>弓钻</strong><br />下一层是“弓钻”。他们用弓来帮助旋转棍子——使它更安全、更快。<br/>你的第一个选择是<a href=\"handbook://item-extremefirestarters:bowdrill-crude\">粗弓钻</a>，由粗弓制成。即使你不知道如何制作一个用于战斗的道具，每个职业都可以使用实用配方制作这个道具。一旦你得到一些绳子，做一个<a href=\"handbook://item-extremefirestarters:bowdrill\">Bow Drill</a>。<br /><br /><strong>修理</strong><br />许多firestarters有<i>机会</i>返回关键部件时，他们坏了-但你可以使用修复配方，以确保你不需要更换重要的部件。关注物品的耐用性，在它坏掉之前把它修好，可以节省你的资源。<br /><br /><strong>游戏后期</strong><br />< a href=\"handbook://item-extremefirestarters:flintandsteel\">燧石和钢铁Firestarter</a>有很多用途，一旦你有了钢铁，你唯一需要的就是燧石和木炭。<br />防水<a href=“手册：//项目-极端的firestarters：火柴”>火柴</a>将需要找到一些爆破粉，连同胶水和蜂蜡。它们是最快的，但需要一些材料来制作。<br /> <a href=\"handbook://item-extremefirestarters: Lighter - Crude \">Crude Lighter</a>使用浸泡在酒精中的绳子来快速启动火灾，并且在需要重新填充之前可以得到相当数量的使用。",
+  "item-handbooktitle-lighter-body-crude": "合成提示：",
+  "item-handbooktext-lighter-body-crude": "金属板和钉子可以用不同的金属，但凿子必须是钢。凿子是作为零件而不是工具。",
+  "trait-pyromaniac": "<font color=\"#84ff84\">• 火之高兴 </font>",
+  "charattribute-firestartingSpeed-1": "+100% 生火速度",
+  "charattribute-firestartingSuccess-1": "+100% 生火机会",
+  "charattribute-firestartingDurability-1": "+100% 火犁耐久"
+}
