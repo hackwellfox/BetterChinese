@@ -55,3 +55,4 @@
 - `Floating Fish / 浮鱼` [1.0.1](https://mods.vintagestory.at/show/mod/19909)
 - `Tailor's Delight / 裁缝之乐` [1.9.5](https://mods.vintagestory.at/show/mod/tailorsdelight)
 - `Dressmakers / 裁缝` [1.5.2](https://mods.vintagestory.at/dressmakers)
+- `ShearLib / 剪切库` [1.1.2](https://mods.vintagestory.at/shearlib)

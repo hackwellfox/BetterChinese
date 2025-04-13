@@ -1,0 +1,21 @@
+{
+	"shearlib:shearable":				"<font color=\"tan\">可剪毛，将产出 {0} 单位羊毛。</font>",
+	"shearlib:shearablefull":			"<font color=\"lightgreen\">可剪毛，将产出 {0} 单位羊毛。</font>",
+	"shearlib:insufficientgen":			"<font color=\"tomato\">过于野生，无法剪毛，至少需要第 {0} 代。</font>",
+
+	"shearlib:hoursuntilshearable":			"<font color=\"orange\">羊毛过短，还需 {0} 小时方可剪毛。</font>",
+	"shearlib:daysuntilshearable":			"<font color=\"orange\">羊毛过短，还需 {0} 天方可剪毛。</font>",
+
+	"shearlib:daysmaxwool":				"需要 {0} 天完全长满 {1} 单位羊毛。",
+	"shearlib:hoursmaxwool":			"需要 {0} 小时完全长满 {1} 单位羊毛。",
+
+	"shearlib:dayswaitmaxwool":			"再等待 {0} 天可收获完整的 {1} 单位羊毛。",
+	"shearlib:hourswaitmaxwool":			"再等待 {0} 小时可收获完整的 {1} 单位羊毛。",
+
+	"shearlib:shearsbonus":				"使用剪刀而非小刀可获得<font color=\"yellow\">+{0} 额外羊毛</font>。",
+
+	"shearlib:animaltoowildshearclient":		"动物过于野生，不允许剪毛，需培育至第 {0} 代方可剪毛。",
+	"shearlib:animalinsufficientwoolclient":	"动物羊毛尚未长足，目前至少需要 {0} 单位才可剪毛。",
+	"shearlib:dropnotfound":			"ShearLib: 剪毛时未找到可掉落的物品 '{0}'。",
+	"shearlib:dropsecondnotfound":			"ShearLib: 剪毛时未找到可掉落的次要物品 '{0}'。"
+}
