@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Text.RegularExpressions;
@@ -27,24 +28,33 @@ public static class TranslationServiceLoadPatch {
 
 	static private void LoadEntries(
 		TranslationService translationService,
-		IAsset asset,
+		string folderPath,
+		string domain,
 		ILogger logger,
 		Dictionary<string, KeyValuePair<Regex, string>> regexCache,
 		Dictionary<string, string> wildcardCache,
 		Dictionary<string, string> entries) {
-		try {
-			TranslationServiceLoadEntries.Invoke(
-				translationService,
-				[
-					entries,
-					regexCache,
-					wildcardCache,
-					JsonConvert.DeserializeObject<Dictionary<string, string>>(asset.ToText()),
-					"game"
-				]);
-		} catch (Exception ex) {
-			logger.Error("Failed to load language file: " + asset.Name);
-			logger.Error(ex);
+		var currentPath = Path.Combine(folderPath, domain, AssetCategory.lang.Code);
+		if (!Directory.Exists(currentPath)) {
+			return;
+		}
+
+		foreach (var file in Directory.GetFiles(currentPath)) {
+			if (!file.EndsWith($"{ClientSettings.Language}.json")) continue;
+			try {
+				TranslationServiceLoadEntries.Invoke(
+					translationService,
+					[
+						entries,
+						regexCache,
+						wildcardCache,
+						JsonConvert.DeserializeObject<Dictionary<string, string>>(File.ReadAllText(file)),
+						domain
+					]);
+			} catch (Exception ex) {
+				logger.Error("Failed to load language file: " + file);
+				logger.Error(ex);
+			}
 		}
 	}
 
@@ -59,16 +69,11 @@ public static class TranslationServiceLoadPatch {
 		var regexCache = ___regexCache;
 		var wildcardCache = ___wildcardCache;
 		var logger = ___logger;
-		___assetManager.Origins.Foreach(list => {
-			foreach (var asset in list.GetAssets(GameLang)
-				.Where(a => a.Name.Equals($"{ClientSettings.Language}.json"))) {
-				LoadEntries(__instance, asset, logger, regexCache, wildcardCache, entryCache);
-			}
-		});
-		___assetManager.Origins.Foreach(list => {
-			foreach (var asset in list.GetAssets(AssetCategory.lang)
-				.Where(a => a.Name.Equals($"game-{ClientSettings.Language}.json"))) {
-				LoadEntries(__instance, asset, logger, regexCache, wildcardCache, entryCache);
+		___assetManager.Origins.Foreach(assetOrigin => {
+			foreach (var directory in Directory.GetDirectories(assetOrigin.OriginPath)) {
+				foreach (var domain in Directory.GetDirectories(directory)) {
+					LoadEntries(__instance, directory, Path.GetFileName(domain), logger, regexCache, wildcardCache, entryCache);
+				}
 			}
 		});
 	}
