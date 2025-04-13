@@ -1,0 +1,16 @@
+{
+	"dressmakers:handbook-description":			"描述",
+
+	"dressmakers:setting_enable_common_clothing":		"普通服装",
+	"dressmakers:setting_enable_class_clothing":		"职业专属服装",
+	"dressmakers:setting_enable_nadiyan_clothing":		"纳迪安服装",
+	"dressmakers:setting_enable_wool":			"羊毛及其他",
+
+	"dressmakers:setting_enable_common_clothing_comment":	"启用普通VS原版服装的合成配方",
+	"dressmakers:setting_enable_class_clothing_comment":	"启用职业专属VS原版服装的合成配方",
+	"dressmakers:setting_enable_nadiyan_clothing_comment":	"启用VS纳迪安服装的合成配方",
+	"dressmakers:setting_enable_wool_comment":		"添加使用羊毛的替代合成配方",
+
+	"dressmakers:settings_title_clothing_recipes":		"VS原版服装的裁缝配方",
+	"dressmakers:settings_title_mod_recipes":		"与其他模组的兼容性"
+}
