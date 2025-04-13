@@ -53,3 +53,4 @@
 - `ExtremeFirestarters / 极端生火工具` [0.4.0](https://mods.vintagestory.at/extremefirestarters)
 - `Immersive Wood Chopping / 沉浸式伐木` [0.7.5](https://mods.vintagestory.at/immersivewoodchopping)
 - `Floating Fish / 浮鱼` [1.0.1](https://mods.vintagestory.at/show/mod/19909)
+- `Tailor's Delight / 裁缝之乐` [1.9.5](https://mods.vintagestory.at/show/mod/tailorsdelight)
