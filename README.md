@@ -4,7 +4,7 @@
 
 已有汉化内容：
 - `At Waters Edge / 水域边缘` [1.5.0](https://mods.vintagestory.at/atwatersedge)
-- `Wool 🙵 More / 羊毛与更多` [1.1.0](https://mods.vintagestory.at/wool)
+- `Wool 🙵 More / 羊毛与更多` [1.6.2](https://mods.vintagestory.at/wool)
 - `Foundry- large scale ingot casting / 铸造厂：大规模铸锭` [1.0.0](https://mods.vintagestory.at/show/mod/1197)
 - `Ancient Armory / 古代军械库` [1.0.0](https://mods.vintagestory.at/ancientarmory)
 - `Gourmand / 美食家` [1.6.2](https://mods.vintagestory.at/show/mod/14390)
