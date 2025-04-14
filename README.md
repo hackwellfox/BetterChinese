@@ -56,3 +56,4 @@
 - `Tailor's Delight / 裁缝之乐` [1.9.5](https://mods.vintagestory.at/show/mod/tailorsdelight)
 - `Dressmakers / 裁缝` [1.5.2](https://mods.vintagestory.at/dressmakers)
 - `ShearLib / 剪切库` [1.1.2](https://mods.vintagestory.at/shearlib)
+- `Overhaul Library / 大修库` [0.2.4](https://mods.vintagestory.at/overhaullib)
