@@ -57,3 +57,4 @@
 - `Dressmakers / 裁缝` [1.5.2](https://mods.vintagestory.at/dressmakers)
 - `ShearLib / 剪切库` [1.1.2](https://mods.vintagestory.at/shearlib)
 - `Overhaul Library / 大修库` [0.2.4](https://mods.vintagestory.at/overhaullib)
+- `Dana Can Cook / Dana会烹饪` [0.2.5](https://mods.vintagestory.at/danacancook)

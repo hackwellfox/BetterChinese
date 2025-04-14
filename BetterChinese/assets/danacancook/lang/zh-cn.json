@@ -1,0 +1,20 @@
+{
+    "game:tabname-danacancook": "Dana会烹饪",
+
+    "item-sandwich": "三明治",
+    "block-cuttingboard*": "砧板",
+
+    "item-slicedbread-spelt-perfect": "斯佩尔特切片面包",
+    "item-slicedbread-rye-perfect": "黑麦切片面包",
+    "item-slicedbread-flax-perfect": "亚麻籽切片面包",
+    "item-slicedbread-rice-perfect": "大米切片面包",
+    "item-slicedbread-cassava-perfect": "木薯切片面包",
+    "item-slicedbread-amaranth-perfect": "苋菜切片面包",
+    "item-slicedbread-sunflower-perfect": "向日葵切片面包",
+
+    "contents-sandwich": "三明治内容物：",
+    "when-eaten": "食用效果：",
+
+    "category-and-saturation-and-hp": "{0}，{1}饱食度，{2}生命值",
+    "category-and-saturation": "{0}，{1}饱食度"
+}
