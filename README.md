@@ -58,3 +58,4 @@
 - `ShearLib / 剪切库` [1.1.2](https://mods.vintagestory.at/shearlib)
 - `Overhaul Library / 大修库` [0.2.4](https://mods.vintagestory.at/overhaullib)
 - `Dana Can Cook / Dana会烹饪` [0.2.5](https://mods.vintagestory.at/danacancook)
+- `SqueezeHoneyCombIntoBarrel / 将蜂蜜挤入桶中` [1.0.0](https://mods.vintagestory.at/22112)
