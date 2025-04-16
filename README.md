@@ -63,3 +63,4 @@
 - `Simple Scored Logs / 简单计分原木` [0.0.6](https://mods.vintagestory.at/show/mod/22113)
 - `Custom Flowerpots / 自定义花盆` [1.2.3](https://mods.vintagestory.at/customflowerpots)
 - `Clayworks / 黏土工坊` [0.3.9](https://mods.vintagestory.at/clayworks)
+- `CAN Market / CAN市场` [0.4.16](https://mods.vintagestory.at/canmarket)
