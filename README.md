@@ -64,3 +64,4 @@
 - `Custom Flowerpots / 自定义花盆` [1.2.3](https://mods.vintagestory.at/customflowerpots)
 - `Clayworks / 黏土工坊` [0.3.9](https://mods.vintagestory.at/clayworks)
 - `CAN Market / CAN市场` [0.4.16](https://mods.vintagestory.at/canmarket)
+- `Rust & Railroads Reborn / 铁锈与铁路重生` [2.0.8](https://mods.vintagestory.at/rustandrailroads)
