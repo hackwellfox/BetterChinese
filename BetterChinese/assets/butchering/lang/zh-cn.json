@@ -104,6 +104,7 @@
   "game:meal-ingredient-stew-primary-smoked-*-redmeat": "熏制红肉",
   "game:meal-ingredient-stew-secondary-smoked-*-redmeat": "熏制红肉",
   "game:meal-ingredient-stew-primary-smoked-*-fish": "熏制鱼肉",
+  "game:meal-ingredient-stew-primary-smoked-none-primemeat": "熏制原味上等肉",
   "game:meal-ingredient-stew-secondary-smoked-*-fish": "熏制鱼肉",
 
   "game:meal-ingredient-soup-secondary-primemeat-raw": "生上等肉",
@@ -111,6 +112,12 @@
   "game:meal-ingredient-soup-secondary-smoked-*-fish": "熏制鱼肉",
   "game:meal-ingredient-soup-primary-bloodportion": "血液",
 
+  "pie-single-butchering:offal-clean-raw": "生内脏馅饼/杂碎派",
+  "pie-single-butchering:offal-clean-perfect": "内脏馅饼/杂碎派",
+  "pie-single-butchering:offal-clean-partbaked": "内脏馅饼/杂碎派（半熟）",
+  "pie-single-butchering:offal-clean-charred": "内脏馅饼/杂碎派（焦黑）",
+
+  "item-sinew-ground": "研磨肌腱",
   "item-toolhead-arrow-bone": "骨质箭头",
   "item-toolhead-pick-bone": "骨质镐头",
 
@@ -127,6 +134,13 @@
   "item-butcherybag-primitive": "原始屠宰袋",
   "item-butcherybag-standard": "屠宰袋",
   "itemdesc-butcherybag-*": "用于更高效运输待屠宰动物的袋子",
+
+  "item-glueportion-sinew-cold": "肌腱胶",
+  "item-glueportion-hide-cold": "冷皮胶",
+  "item-glueportion-hide-hot": "热皮胶",
+  "itemdesc-glueportion-sinew-cold": "粘稠的肌腱液体，可用于修复杂物块。修复25%耐久",
+  "itemdesc-glueportion-hide-cold": "已硬化的皮胶，需重新加热使用",
+  "itemdesc-glueportion-hide-hot": "可用于修复杂物块的热皮胶。修复33%耐久",
 
   "item-sinew-dry": "干燥肌腱",
   "item-sinew-wet": "湿润肌腱",
@@ -153,6 +167,7 @@
   "item-blooddough-amaranth": "苋菜血面团",
 
   "item-bloodbread-spelt-perfect": "斯佩耳特血面包",
+  "item-bloodbread-sunflower-perfect": "向日葵血面包",
   "item-bloodbread-rye-perfect": "黑麦血面包",
   "item-bloodbread-flax-perfect": "亚麻血面包",
   "item-bloodbread-rice-perfect": "稻米血面包",
@@ -160,6 +175,7 @@
   "item-bloodbread-amaranth-perfect": "苋菜血面包",
   "item-bloodbread-spelt-partbaked": "斯佩耳特血面包（半熟）",
   "item-bloodbread-rye-partbaked": "黑麦血面包（半熟）",
+  "item-bloodbread-sunflower-partbaked": "向日葵血面包（半熟）",
   "item-bloodbread-flax-partbaked": "亚麻血面包（半熟）",
   "item-bloodbread-rice-partbaked": "稻米血面包（半熟）",
   "item-bloodbread-cassava-partbaked": "木薯血面包（半熟）",
@@ -167,6 +183,7 @@
   "item-bloodbread-spelt-charred": "斯佩耳特血面包（焦黑）",
   "item-bloodbread-rye-charred": "黑麦血面包（焦黑）",
   "item-bloodbread-flax-charred": "亚麻血面包（焦黑）",
+  "item-bloodbread-sunflower-charred": "向日葵血面包（焦黑）",
   "item-bloodbread-rice-charred": "稻米血面包（焦黑）",
   "item-bloodbread-cassava-charred": "木薯血面包（焦黑）",
   "item-bloodbread-amaranth-charred": "苋菜血面包（焦黑）",
@@ -236,6 +253,10 @@
   "temporalbutcherbox-out-of-power": "时空动力耗尽",
   "temporalbutcherbox-add-temporal-gear": "添加时空齿轮以充能",
   "temporalbutcherbox-title": "屠宰箱",
+
+  "game:butcheringguide-title": "屠宰：指南",
+  "game:butcheringinfo-title": "屠宰：信息",
+  "game:butcheringinfo-text": "<font size=24 weight=bold align=center>屠宰信息</font>\n\n        <strong>掉落物与用途：</strong>\n\n - <a href=handbook://item-butchering:sinew-wet>肌腱</a>（来自野味生物，需晾干后使用）\n   <strong>用途：</strong>\n    <a href=\"handbooksearch://弓\">弓</a>\n    <a href=handbook://item-sewingkit>缝纫工具包</a>\n    <a href=handbook://item-butchering:glueportion-sinew-cold>肌腱胶</a>\n\n - <a href=handbook://item-butchering:primemeat-raw>上等肉</a>（来自红肉生物，提供高饱食度和生命值）\n   <strong>用途：</strong>\n    食物\n    <a href=handbook://item-butchering:primemeat-healing>预备疗愈上等肉</a>\n    <a href=handbook://item-fat>脂肪提炼</a>\n\n - <a href=handbook://item-butchering:offal-bloody>内脏</a>（需在木桶中清洗后用于食物配方）\n   <strong>用途：</strong>\n    <a href=handbook://item-butchering:sausage-bloodsausage-raw>血肠</a>与<a href=handbook://item-butchering:sausage-blackpudding-raw>黑布丁</a>\n\n - <a href=handbook://item-butchering:bloodportion>血液</a>（可在皮肤钩下方2-4格处用桶收集）\n   <strong>用途：</strong>\n    <a href=\"handbooksearch://血面团\">血面团</a>（用于制作面包和馅饼）\n    血汤（替代汤食谱中的水）\n\n - 生皮\n   <strong>用途：</strong>\n    <a href=handbook://item-butchering:glueportion-hide-hot>皮胶</a>\n\n - 骨头\n   <strong>用途：</strong>\n    <a href=handbook://item-bone>骨制工艺</a>（可制作箭头和针）\n\n        <strong>模组机制：</strong>\n\n - 熏制（在<a href=handbooksearch://熏制架>熏制架</a>下放置火坑可延长食物保质期）\n\n - 血液收集（在放血动物下方2-4格放置桶可收集血液）\n\n - 动物重量（尸体现在会减慢你的移动速度）\n\n\n        <strong>注意事项：</strong>\n\n - 小型生物（如鸡、野兔）可直接放入任意背包槽位。\n - 在屠宰桌上使用切肉刀比刀具更节省耐久。\n - 尸体在皮肤钩或屠宰桌上过久会腐烂。放入合成栏可分解。\n - 建议在地窖环境中进行屠宰和熏制。\n - 屠宰袋可提供额外携带空间。\n - 屠宰桌占用背包槽位，类似蜂箱放置方式，占地3格宽。\n",
 
   "game:tabname-butchering": "屠宰",
   "game:butchering-title": "屠宰系统",

@@ -27,7 +27,7 @@
 - `Status Hud Continued / 状态HUD延续版` [3.2.2](https://mods.vintagestory.at/show/mod/9817)
 - `Natural Trail Mod CUPdated / 自然小径模组C更新版` [1.2.0](https://mods.vintagestory.at/trailmodcupdated)
 - `Carry On / 随身携带` [1.8.0](https://mods.vintagestory.at/carryon)
-- `Butchering / 屠宰系统` [1.7.8](https://mods.vintagestory.at/butchering)
+- `Butchering / 屠宰系统` [1.8.2](https://mods.vintagestory.at/butchering)
 - `Animal cages / 动物笼舍` [3.0.3](https://mods.vintagestory.at/animalcages)
 - `Combat Overhaul / 战斗大修` [0.3.6](https://mods.vintagestory.at/combatoverhaul)
 - `Combat Overhaul : Armory / 战斗大修：武器库` [0.1.2](https://mods.vintagestory.at/armory)
