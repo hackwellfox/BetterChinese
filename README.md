@@ -69,3 +69,4 @@
 - `Wildgrass / 野草` [1.2.1](https://mods.vintagestory.at/wildgrass)
 - `Core of Arts / 艺术核心` [0.2.3](https://mods.vintagestory.at/coreofarts)
 - `Art of Growing / 种植艺术` [1.1.0](https://mods.vintagestory.at/artofgrowing)
+- `Art of Growing: Breeding Addon / 种植艺术：繁殖插件` [1.1.0](https://mods.vintagestory.at/aogbreedingaddon)
