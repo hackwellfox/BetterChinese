@@ -70,3 +70,4 @@
 - `Core of Arts / 艺术核心` [0.2.3](https://mods.vintagestory.at/coreofarts)
 - `Art of Growing / 种植艺术` [1.1.0](https://mods.vintagestory.at/artofgrowing)
 - `Art of Growing: Breeding Addon / 种植艺术：繁殖插件` [1.1.0](https://mods.vintagestory.at/aogbreedingaddon)
+- `Art of Cooking / 烹饪艺术` [0.2.4](https://mods.vintagestory.at/artofcooking)
