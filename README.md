@@ -66,3 +66,4 @@
 - `CAN Market / CAN市场` [0.4.16](https://mods.vintagestory.at/canmarket)
 - `Rust & Railroads Reborn / 铁锈与铁路重生` [2.0.8](https://mods.vintagestory.at/rustandrailroads)
 - `Food Shelves / 食品架子` [1.6.0](https://mods.vintagestory.at/foodshelves)
+- `Wildgrass / 野草` [1.2.1](https://mods.vintagestory.at/wildgrass)

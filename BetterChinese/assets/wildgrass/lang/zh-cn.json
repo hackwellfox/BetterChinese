@@ -1,0 +1,51 @@
+{
+    "block-switchgrass-0-*": "柳枝稷（已割）",
+    "block-switchgrass-1-*": "柳枝稷（矮）",
+    "block-switchgrass-2-*": "柳枝稷（中）",
+    "block-switchgrass-3-*": "柳枝稷（高）",
+    "block-switchgrass-4-*": "柳枝稷（成熟）",
+    "block-switchgrass-5-*": "柳枝稷（开花）",
+    "item-seeds-switchgrass": "柳枝稷种子",
+
+    "block-rush-common-0-*": "普通灯心草（已割）",
+    "block-rush-common-1-*": "普通灯心草（矮）",
+    "block-rush-common-2-*": "普通灯心草（中）",
+    "block-rush-common-3-*": "普通灯心草（高）",
+    "block-rush-common-4-*": "普通灯心草（开花）",
+    "item-seeds-rush-common": "普通灯心草种子",
+
+    "block-bushgrass-0-*": "丛生草（已割）",
+    "block-bushgrass-1-*": "丛生草（矮）",
+    "block-bushgrass-2-*": "丛生草（中）",
+    "block-bushgrass-3-*": "丛生草（高）",
+    "block-bushgrass-4-*": "丛生草（开花）",
+    "item-seeds-bushgrass": "丛生草种子",
+
+    "block-bluegrass-0-*": "蓝草（已割）",
+    "block-bluegrass-1-*": "蓝草（矮）",
+    "block-bluegrass-2-*": "蓝草（中）",
+    "block-bluegrass-3-*": "蓝草（高）",
+    "block-bluegrass-4-*": "蓝草（开花）",
+    "item-seeds-bluegrass": "蓝草种子",
+
+    "block-buttongrass-0-*": "钮扣草（已割）",
+    "block-buttongrass-1-*": "钮扣草（矮）",
+    "block-buttongrass-2-*": "钮扣草（中）",
+    "block-buttongrass-3-*": "钮扣草（高）",
+    "block-buttongrass-4-*": "钮扣草（开花）",
+    "item-seeds-buttongrass": "钮扣草种子",
+
+    "block-ryegrass-perennial-0-*": "多年生黑麦草（已割）",
+    "block-ryegrass-perennial-1-*": "多年生黑麦草（矮）",
+    "block-ryegrass-perennial-2-*": "多年生黑麦草（中）",
+    "block-ryegrass-perennial-3-*": "多年生黑麦草（高）",
+    "block-ryegrass-perennial-4-*": "多年生黑麦草（开花）",
+    "item-seeds-ryegrass-perennial": "多年生黑麦草种子",
+
+    "block-fescue-meadow-0-*": "草地羊茅（已割）",
+    "block-fescue-meadow-1-*": "草地羊茅（矮）",
+    "block-fescue-meadow-2-*": "草地羊茅（中）",
+    "block-fescue-meadow-3-*": "草地羊茅（高）",
+    "block-fescue-meadow-4-*": "草地羊茅（开花）",
+    "item-seeds-fescue-meadow": "草地羊茅种子"
+}
