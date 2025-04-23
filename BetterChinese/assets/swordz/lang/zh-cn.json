@@ -1,0 +1,1080 @@
+{
+  "game:tabname-swordz": "剑刃",
+
+  "game:swordz-handbook-title": "剑刃手册",
+  "game:swordz-handbook-text":"
+<font size=24 align=middle><strong>剑刃手册</strong></font><br>
+本手册仍在开发中，将用作常见问题解答并提供一些基本信息。
+
+剑刃（Swordz）模组旨在添加一系列新的武器（其中一些在原版游戏中仅以废弃变体的形式存在），这些武器经过平衡设计并具有额外的功能。剑刃试图在现实主义和游戏性之间找到一个良好的平衡点，例如，需要使用磨刀石来打磨<a href=\"handbook://item-swordz:whetstone-granite\">刀刃</a>，但又不会过于硬核以至于需要花费数分钟来打磨。
+
+<strong>柄</strong> - <a href=\"handbooksearch://haft\">点击此处查看！</a>
+柄，把手！您可以使用不同的金属（或木棍）为您的武器和工具提供不同的价值/美观。
+
+<strong>磨刀石</strong> - <a href=\"handbooksearch://whetstone\">点击此处查看！</a>
+使用磨刀石来制作更好、更锋利的刀刃！
+* <a href=\"handbook://item-swordz:whetstone-granite\">花岗岩</a>, <a href=\"handbook://item-swordz:whetstone-sandstone\">砂岩</a>, <a href=\"handbook://item-swordz:whetstone-suevite\">冲击玻璃角砾岩</a>
+* 仍需为 1.1.2 版本之前的所有物品添加刀刃变体。
+
+<strong>不锈钢</strong> - <a href=\"handbooksearch://stainless\">点击此处查看！</a>
+想要比钢更好的东西吗？那么您需要将旧钢与<a href=\"handbooksearch://crushed chromite\">铬铁矿粉</a>和<a href=\"handbooksearch://manganese powder\">锰粉</a>在渗碳炉中结合起来制造不锈钢。
+
+<strong><a href=\"handbooksearch://titanium\">钛</a></strong> -
+想要比不锈钢更好的东西吗？试试钛。要精炼钛铁矿，您需要锰粉、石灰、20 个钛铁矿块和一个铸锭模具，这将制成预处理钛锭，然后可以放入渗碳炉中。
+
+<strong>反馈</strong>
+如果您有任何反馈、建议或投诉，请前往模组页面发表评论：<a href=\"https://mods.vintagestory.at/show/mod/9099\">此处</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+更深层次的是矮人的秘密。
+
+Lazh-zirak（秘银）、Sabumuk（精金）和 Gazob（山铜），传说中的三种矮人金属。
+
+一种蓝色，一种绿色，最后一种红色，据说这三种金属在强度和韧性方面无与伦比……要是你能找到一些就好了，但即使找到了……你又该如何精炼它们呢？
+
+还有关于另一种金属的传说，古老的矮人传说提到了一种天空金属，一种极其稀有但又极其坚固轻便的金属，让山铜和秘银都相形见绌，他们称之为 Aithril（苍穹秘银），但没人知道它是否存在。
+
+
+
+",
+
+  "item-swordzshortblade-copper": "铜短剑刃",
+  "item-swordzshort-copper": "铜短剑",
+  "item-swordzshortblade-tinbronze": "锡铜短剑刃",
+  "item-swordzshort-tinbronze": "锡铜短剑",
+  "item-swordzshortblade-bismuthbronze": "铋铜短剑刃",
+  "item-swordzshort-bismuthbronze": "铋铜短剑",
+  "item-swordzshortblade-iron": "铁短剑刃",
+  "item-swordzshort-iron": "铁短剑",
+  "item-swordzshortblade-meteoriciron": "陨铁短剑刃",
+  "item-swordzshort-meteoriciron": "陨铁短剑",
+  "item-swordzshortblade-steel": "钢短剑刃",
+  "item-swordzshort-steel": "钢短剑",
+
+  "itemdesc-swordzshortblade-*": "急需一个剑柄的剑刃。",
+  "itemcraftdesc-swordzshortblade-*": "短剑的剑刃。",
+  "itemdesc-swordzshort-*": "一把相当小巧且多功能的剑。",
+
+  "item-seaxblade-copper": "铜萨克斯刀刃",
+  "item-seax-copper": "铜萨克斯刀",
+  "item-seaxblade-tinbronze": "锡铜萨克斯刀刃",
+  "item-seax-tinbronze": "锡铜萨克斯刀",
+  "item-seaxblade-bismuthbronze": "铋铜萨克斯刀刃",
+  "item-seax-bismuthbronze": "铋铜萨克斯刀",
+  "item-seaxblade-iron": "铁萨克斯刀刃",
+  "item-seax-iron": "铁萨克斯刀",
+  "item-seaxblade-meteoriciron": "陨铁萨克斯刀刃",
+  "item-seax-meteoriciron": "陨铁萨克斯刀",
+  "item-seaxblade-steel": "钢萨克斯刀刃",
+  "item-seax-steel": "钢萨克斯刀",
+
+  "itemdesc-seaxblade-*": "急需一个刀柄的萨克斯刀刃。",
+  "itemcraftdesc-seaxblade-*": "萨克斯刀的刀刃。",
+  "itemdesc-seax-*": "一把相当实用的大型刀具。",
+
+  "item-whetstone-suevite": "冲击玻璃角砾岩磨刀石",
+  "item-whetstone-sandstone": "砂岩磨刀石",
+  "item-whetstone-granite": "花岗岩磨刀石",
+  "itemdesc-whetstone-*": "用于打磨刀刃的磨刀石。",
+
+  "item-haft-copper": "铜柄",
+  "item-haft-tinbronze": "锡铜柄",
+  "item-haft-bismuthbronze": "铋铜柄",
+  "item-haft-blackbronze": "黑铜柄",
+  "item-haft-iron": "铁柄",
+  "item-haft-meteoriciron": "陨铁柄",
+  "item-haft-steel": "钢柄",
+  "item-haft-stainlesssteel": "不锈钢柄",
+  "item-haft-titanium": "钛柄",
+  "item-haft-mithril": "秘银柄",
+  "item-haft-adamant": "精金柄",
+  "item-haft-orichalcum": "山铜柄",
+  "item-haft-aithril": "苍穹秘银柄",
+
+  "itemdesc-haft-*": "需要安装头部的金属柄。",
+  "itemcraftdesc-haft-*": "金属柄。",
+
+  "item-zweihanderblade-iron-blunt": "钝的铁双手巨剑刃",
+  "item-zweihanderblade-iron-dull": "未开刃的铁双手巨剑刃",
+  "item-zweihanderblade-iron-sharp": "锋利的铁双手巨剑刃",
+  "item-zweihanderblade-iron-honed": "精磨的铁双手巨剑刃",
+  "item-zweihandercrossguard-iron": "铁双手巨剑格挡",
+
+  "item-zweihander-iron-iron-blunt": "钝的铁双手巨剑",
+  "item-zweihander-iron-iron-dull": "未开刃的铁双手巨剑",
+  "item-zweihander-iron-iron-sharp": "锋利的铁双手巨剑",
+  "item-zweihander-iron-iron-honed": "精磨的铁双手巨剑",
+  "item-zweihander-iron-silver-sharp": "锋利的铁双手巨剑（银饰）",
+  "item-zweihander-iron-silver-honed": "精磨的铁双手巨剑（银饰）",
+  "item-zweihander-iron-gold-sharp": "锋利的铁双手巨剑（金饰）",
+  "item-zweihander-iron-gold-honed": "精磨的铁双手巨剑（金饰）",
+
+  "item-zweihanderblade-meteoriciron-blunt": "钝的陨铁双手巨剑刃",
+  "item-zweihanderblade-meteoriciron-dull": "未开刃的陨铁双手巨剑刃",
+  "item-zweihanderblade-meteoriciron-sharp": "锋利的陨铁双手巨剑刃",
+  "item-zweihanderblade-meteoriciron-honed": "精磨的陨铁双手巨剑刃",
+  "item-zweihandercrossguard-meteoriciron": "陨铁双手巨剑格挡",
+
+  "item-zweihander-meteoriciron-meteoriciron-blunt": "钝的陨铁双手巨剑",
+  "item-zweihander-meteoriciron-meteoriciron-dull": "未开刃的陨铁双手巨剑",
+  "item-zweihander-meteoriciron-meteoriciron-sharp": "锋利的陨铁双手巨剑",
+  "item-zweihander-meteoriciron-meteoriciron-honed": "精磨的陨铁双手巨剑",
+  "item-zweihander-meteoriciron-silver-sharp": "锋利的陨铁双手巨剑（银饰）",
+  "item-zweihander-meteoriciron-silver-honed": "精磨的陨铁双手巨剑（银饰）",
+  "item-zweihander-meteoriciron-gold-sharp": "锋利的陨铁双手巨剑（金饰）",
+  "item-zweihander-meteoriciron-gold-honed": "精磨的陨铁双手巨剑（金饰）",
+
+  "item-zweihanderblade-steel-blunt": "钝的钢双手巨剑刃",
+  "item-zweihanderblade-steel-dull": "未开刃的钢双手巨剑刃",
+  "item-zweihanderblade-steel-sharp": "锋利的钢双手巨剑刃",
+  "item-zweihanderblade-steel-honed": "精磨的钢双手巨剑刃",
+  "item-zweihandercrossguard-steel": "钢双手巨剑格挡",
+
+  "item-zweihander-steel-steel-blunt": "钝的钢双手巨剑",
+  "item-zweihander-steel-steel-dull": "未开刃的钢双手巨剑",
+  "item-zweihander-steel-steel-sharp": "锋利的钢双手巨剑",
+  "item-zweihander-steel-steel-honed": "精磨的钢双手巨剑",
+  "item-zweihander-steel-silver-sharp": "锋利的钢双手巨剑（银饰）",
+  "item-zweihander-steel-silver-honed": "精磨的钢双手巨剑（银饰）",
+  "item-zweihander-steel-gold-sharp": "锋利的钢双手巨剑（金饰）",
+  "item-zweihander-steel-gold-honed": "精磨的钢双手巨剑（金饰）",
+
+  "item-zweihandercrossguard-silver": "银双手巨剑格挡",
+  "item-zweihandercrossguard-gold": "金双手巨剑格挡",
+
+  "itemdesc-zweihander-*": "一把巨大而可怕的剑，但维护起来很麻烦。",
+  "itemdesc-zweihanderblade-*": "用于巨大而昂贵的剑的巨大而昂贵的剑刃。",
+  "itemcraftdesc-zweihanderblade-*": "用于巨大而昂贵的剑的巨大而昂贵的剑刃。",
+  "itemdesc-zweihandercrossguard-*": "双手巨剑的格挡。",
+  "itemcraftdesc-zweihandercrossguard-*": "双手巨剑的格挡。",
+
+  "item-sordblade-tinbronze-blunt": "钝的锡铜武装剑刃",
+  "item-sordblade-tinbronze-dull": "未开刃的锡铜武装剑刃",
+  "item-sordblade-tinbronze-sharp": "锋利的锡铜武装剑刃",
+  "item-sordblade-tinbronze-honed": "精磨的锡铜武装剑刃",
+  "item-sord-tinbronze-blunt": "钝的锡铜武装剑",
+  "item-sord-tinbronze-dull": "未开刃的锡铜武装剑",
+  "item-sord-tinbronze-sharp": "锋利的锡铜武装剑",
+  "item-sord-tinbronze-honed": "精磨的锡铜武装剑",
+  "item-sordblade-iron-blunt": "钝的铁武装剑刃",
+  "item-sordblade-iron-dull": "未开刃的铁武装剑刃",
+  "item-sordblade-iron-sharp": "锋利的铁武装剑刃",
+  "item-sordblade-iron-honed": "精磨的铁武装剑刃",
+  "item-sord-iron-blunt": "钝的铁武装剑",
+  "item-sord-iron-dull": "未开刃的铁武装剑",
+  "item-sord-iron-sharp": "锋利的铁武装剑",
+  "item-sord-iron-honed": "精磨的铁武装剑",
+  "item-sordblade-meteoriciron-blunt": "钝的陨铁武装剑刃",
+  "item-sordblade-meteoriciron-dull": "未开刃的陨铁武装剑刃",
+  "item-sordblade-meteoriciron-sharp": "锋利的陨铁武装剑刃",
+  "item-sordblade-meteoriciron-honed": "精磨的陨铁武装剑刃",
+  "item-sord-meteoriciron-blunt": "钝的陨铁武装剑",
+  "item-sord-meteoriciron-dull": "未开刃的陨铁武装剑",
+  "item-sord-meteoriciron-sharp": "锋利的陨铁武装剑",
+  "item-sord-meteoriciron-honed": "精磨的陨铁武装剑",
+  "item-sordblade-steel-blunt": "钝的钢武装剑刃",
+  "item-sordblade-steel-dull": "未开刃的钢武装剑刃",
+  "item-sordblade-steel-sharp": "锋利的钢武装剑刃",
+  "item-sordblade-steel-honed": "精磨的钢武装剑刃",
+  "item-sord-steel-blunt": "钝的钢武装剑",
+  "item-sord-steel-dull": "未开刃的钢武装剑",
+  "item-sord-steel-sharp": "锋利的钢武装剑",
+  "item-sord-steel-honed": "精磨的钢武装剑",
+
+  "itemdesc-sord-*": "更文明时代的优雅武器。",
+  "itemdesc-sordblade-*": "骑士剑的剑刃。",
+  "itemcraftdesc-sordblade-*": "骑士剑的剑刃。",
+
+  "item-bearded-tinbronze": "锡铜髯斧",
+  "item-bearded-bismuthbronze": "铋铜髯斧",
+  "item-bearded-iron": "铁髯斧",
+  "item-bearded-meteoriciron": "陨铁髯斧",
+  "item-bearded-steel": "钢髯斧",
+  "item-beardedhead-tinbronze": "锡铜髯斧头",
+  "item-beardedhead-bismuthbronze": "铋铜髯斧头",
+  "item-beardedhead-iron": "铁髯斧头",
+  "item-beardedhead-meteoriciron": "陨铁髯斧头",
+  "item-beardedhead-steel": "钢髯斧头",
+
+  "itemdesc-bearded-*": "既可用作工具又可用作武器的斧头。",
+  "itemdesc-beardedhead-*": "髯斧的斧头。",
+  "itemcraftdesc-beardedhead-*": "髯斧的斧头。",
+
+  "item-nadziak-tinbronze": "锡铜鸦喙锤",
+  "item-nadziak-bismuthbronze": "铋铜鸦喙锤",
+  "item-nadziak-blackbronze": "黑铜鸦喙锤",
+  "item-nadziak-iron": "铁鸦喙锤",
+  "item-nadziak-meteoriciron": "陨铁鸦喙锤",
+  "item-nadziak-steel": "钢鸦喙锤",
+  "item-nadziakhead-tinbronze": "锡铜鸦喙锤头",
+  "item-nadziakhead-bismuthbronze": "铋铜鸦喙锤头",
+  "item-nadziakhead-blackbronze": "黑铜鸦喙锤头",
+  "item-nadziakhead-iron": "铁鸦喙锤头",
+  "item-nadziakhead-meteoriciron": "陨铁鸦喙锤头",
+  "item-nadziakhead-steel": "钢鸦喙锤头",
+
+  "itemdesc-nadziak-*": "纳齐亚克锤，一种带有向下尖刺的战锤。",
+  "itemdesc-nadziakhead-*": "可怕战镐的头部。",
+  "itemcraftdesc-nadziakhead-*": "可怕战镐的头部。",
+
+  "item-pernach-lead-*": "铅权杖锤",
+  "item-pernach-copper-*": "铜权杖锤",
+  "item-pernach-tinbronze-*": "锡铜权杖锤",
+  "item-pernach-bismuthbronze-*": "铋铜权杖锤",
+  "item-pernach-blackbronze-*": "黑铜权杖锤",
+  "item-pernach-iron-*": "铁权杖锤",
+  "item-pernach-meteoriciron-*": "陨铁权杖锤",
+  "item-pernach-steel-*": "钢权杖锤",
+  "item-pernachhead-lead": "铅权杖锤头",
+  "item-pernachhead-copper": "铜权杖锤头",
+  "item-pernachhead-tinbronze": "锡铜权杖锤头",
+  "item-pernachhead-bismuthbronze": "铋铜权杖锤头",
+  "item-pernachhead-blackbronze": "黑铜权杖锤头",
+  "item-pernachhead-iron": "铁权杖锤头",
+  "item-pernachhead-meteoriciron": "陨铁权杖锤头",
+  "item-pernachhead-steel": "钢权杖锤头",
+
+  "itemdesc-pernach-*": "权杖锤，这种带凸缘的钉头锤非常耐用，对付盔甲很有效。",
+  "itemdesc-pernachhead-*": "钉头锤的头部。",
+  "itemcraftdesc-pernachhead-*": "钉头锤的头部。",
+
+  "item-becdecorbinhead-iron": "铁鸦喙战锤头",
+  "item-becdecorbin-iron": "铁鸦喙战锤",
+  "item-becdecorbinhead-meteoriciron": "陨铁鸦喙战锤头",
+  "item-becdecorbin-meteoriciron": "陨铁鸦喙战锤",
+  "item-becdecorbinhead-steel": "钢鸦喙战锤头",
+  "item-becdecorbin-steel": "钢鸦喙战锤",
+
+  "itemdesc-becdecorbin-*": "鸦喙战锤，一种长柄武器。",
+  "itemdesc-becdecorbinhead-*": "长柄武器的头部。",
+  "itemcraftdesc-becdecorbinhead-*": "长柄武器的头部。",
+
+  "item-warscythe-copper": "铜战镰",
+  "item-warscythe-tinbronze": "锡铜战镰",
+  "item-warscythe-bismuthbronze": "铋铜战镰",
+  "item-warscythe-blackbronze": "黑铜战镰",
+  "item-warscythe-iron": "铁战镰",
+  "item-warscythe-meteoriciron": "陨铁战镰",
+  "item-warscythe-steel": "钢战镰",
+
+  "itemdesc-warscythe-*": "一种相当粗糙但无疑有效的长柄武器。",
+
+  "item-stiletto-copper": "铜细剑",
+  "item-stiletto-bismuthbronze": "铋铜细剑",
+  "item-stiletto-tinbronze": "锡铜细剑",
+  "item-stiletto-blackbronze": "黑铜细剑",
+  "item-stiletto-iron": "铁细剑",
+  "item-stiletto-meteoriciron": "陨铁细剑",
+  "item-stiletto-steel": "钢细剑",
+
+  "item-stilettoblade-copper": "铜细剑刃",
+  "item-stilettoblade-bismuthbronze": "铋铜细剑刃",
+  "item-stilettoblade-tinbronze": "锡铜细剑刃",
+  "item-stilettoblade-blackbronze": "黑铜细剑刃",
+  "item-stilettoblade-iron": "铁细剑刃",
+  "item-stilettoblade-meteoriciron": "陨铁细剑刃",
+  "item-stilettoblade-steel": "钢细剑刃",
+
+  "itemdesc-stiletto-*": "一种脆弱但具有欺骗性危险的武器。",
+  "itemcraftdesc-stilettoblade-*": "用于小型但危险武器的刀刃。",
+
+  "item-spatha-steel-blunt": "钝的钢斯帕塔剑",
+  "item-spatha-steel-dull": "未开刃的钢斯帕塔剑",
+  "item-spatha-steel-sharp": "锋利的钢斯帕塔剑",
+  "item-spatha-steel-honed": "精磨的钢斯帕塔剑",
+  "item-spathablade-steel-blunt": "钝的钢斯帕塔剑刃",
+  "item-spathablade-steel-dull": "未开刃的钢斯帕塔剑刃",
+  "item-spathablade-steel-sharp": "锋利的钢斯帕塔剑刃",
+  "item-spathablade-steel-honed": "精磨的钢斯帕塔剑刃",
+
+  "itemdesc-spatha-*": "斯帕塔剑，一种古老而有效的剑设计。",
+  "itemdesc-spathablade-*": "斯帕塔剑的剑刃。",
+  "itemcraftdesc-spathablade-*": "钢斯帕塔剑的剑刃。",
+
+  "item-gladius-iron-blunt": "钝的铁短剑",
+  "item-gladius-iron-dull": "未开刃的铁短剑",
+  "item-gladius-iron-sharp": "锋利的铁短剑",
+  "item-gladius-iron-honed": "精磨的铁短剑",
+  "item-gladiusblade-iron-blunt": "钝的铁短剑刃",
+  "item-gladiusblade-iron-dull": "未开刃的铁短剑刃",
+  "item-gladiusblade-iron-sharp": "锋利的铁短剑刃",
+  "item-gladiusblade-iron-honed": "精磨的铁短剑刃",
+
+  "itemdesc-gladius-*": "短剑，一种既擅长刺击又擅长劈砍的小型剑。",
+  "itemdesc-gladiusblade-*": "短剑的剑刃。",
+  "itemcraftdesc-gladiusblade-*": "铁短剑的剑刃。",
+
+  "item-ranseur-iron": "铁朗瑟枪",
+  "item-ranseur-meteoriciron": "陨铁朗瑟枪",
+  "item-ranseur-steel": "钢朗瑟枪",
+  "item-ranseurhead-iron": "铁朗瑟枪头",
+  "item-ranseurhead-meteoriciron": "陨铁朗瑟枪头",
+  "item-ranseurhead-steel": "钢朗瑟枪头",
+
+  "itemdesc-ranseur-*": "朗瑟枪，也称为龙科内枪，是一种非常有效的长柄武器，无论对付骑兵还是步兵。",
+  "Itemdesc-ranseurhead-*": "朗瑟枪的枪头。",
+  "itemcraftdesc-ranseurhead-*": "朗瑟枪的枪头。",
+
+  "item-padded": "软垫棍棒",
+  "itemdesc-padded": "软垫棍棒，当你真的需要猛击某物而不杀死它时使用。",
+
+  "item-sabre-iron-blunt": "钝的铁马刀",
+  "item-sabre-iron-dull": "未开刃的铁马刀",
+  "item-sabre-iron-sharp": "锋利的铁马刀",
+  "item-sabre-iron-honed": "精磨的铁马刀",
+
+  "item-sabre-meteoriciron-blunt": "钝的陨铁马刀",
+  "item-sabre-meteoriciron-dull": "未开刃的陨铁马刀",
+  "item-sabre-meteoriciron-sharp": "锋利的陨铁马刀",
+  "item-sabre-meteoriciron-honed": "精磨的陨铁马刀",
+
+  "item-sabre-steel-blunt": "钝的钢马刀",
+  "item-sabre-steel-dull": "未开刃的钢马刀",
+  "item-sabre-steel-sharp": "锋利的钢马刀",
+  "item-sabre-steel-honed": "精磨的钢马刀",
+
+  "itemdesc-sabre-*": "一种擅长劈砍的弯刀，尽管与直刃刀相比往往有点脆弱。",
+
+  "item-sabreblade-iron-blunt": "钝的铁马刀刃",
+  "item-sabreblade-iron-dull": "未开刃的铁马刀刃",
+  "item-sabreblade-iron-sharp": "锋利的铁马刀刃",
+  "item-sabreblade-iron-honed": "精磨的铁马刀刃",
+
+  "item-sabreblade-meteoriciron-blunt": "钝的陨铁马刀刃",
+  "item-sabreblade-meteoriciron-dull": "未开刃的陨铁马刀刃",
+  "item-sabreblade-meteoriciron-sharp": "锋利的陨铁马刀刃",
+  "item-sabreblade-meteoriciron-honed": "精磨的陨铁马刀刃",
+
+  "item-sabreblade-steel-blunt": "钝的钢马刀刃",
+  "item-sabreblade-steel-dull": "未开刃的钢马刀刃",
+  "item-sabreblade-steel-sharp": "锋利的钢马刀刃",
+  "item-sabreblade-steel-honed": "精磨的钢马刀刃",
+
+  "itemdesc-sabreblade-*": "需要合适刀柄的弯曲刀刃。",
+  "itemcraftdesc-sabreblade-*": "马刀的刀刃。",
+
+  "item-kilij-iron-blunt": "钝的铁基利弯刀",
+  "item-kilij-iron-dull": "未开刃的铁基利弯刀",
+  "item-kilij-iron-sharp": "锋利的铁基利弯刀",
+  "item-kilij-iron-honed": "精磨的铁基利弯刀",
+
+  "item-kilij-meteoriciron-blunt": "钝的陨铁基利弯刀",
+  "item-kilij-meteoriciron-dull": "未开刃的陨铁基利弯刀",
+  "item-kilij-meteoriciron-sharp": "锋利的陨铁基利弯刀",
+  "item-kilij-meteoriciron-honed": "精磨的陨铁基利弯刀",
+
+  "item-kilij-steel-blunt": "钝的钢基利弯刀",
+  "item-kilij-steel-dull": "未开刃的钢基利弯刀",
+  "item-kilij-steel-sharp": "锋利的钢基利弯刀",
+  "item-kilij-steel-honed": "精磨的钢基利弯刀",
+
+  "itemdesc-kilij-*": "一种擅长劈砍的弯刀，尽管与直刃刀相比往往有点脆弱。",
+
+  "item-kilijblade-iron-blunt": "钝的铁基利弯刀刃",
+  "item-kilijblade-iron-dull": "未开刃的铁基利弯刀刃",
+  "item-kilijblade-iron-sharp": "锋利的铁基利弯刀刃",
+  "item-kilijblade-iron-honed": "精磨的铁基利弯刀刃",
+
+  "item-kilijblade-meteoriciron-blunt": "钝的陨铁基利弯刀刃",
+  "item-kilijblade-meteoriciron-dull": "未开刃的陨铁基利弯刀刃",
+  "item-kilijblade-meteoriciron-sharp": "锋利的陨铁基利弯刀刃",
+  "item-kilijblade-meteoriciron-honed": "精磨的陨铁基利弯刀刃",
+
+  "item-kilijblade-steel-blunt": "钝的钢基利弯刀刃",
+  "item-kilijblade-steel-dull": "未开刃的钢基利弯刀刃",
+  "item-kilijblade-steel-sharp": "锋利的钢基利弯刀刃",
+  "item-kilijblade-steel-honed": "精磨的钢基利弯刀刃",
+
+  "itemdesc-kilijblade-*": "需要合适刀柄的弯曲刀刃。",
+  "itemcraftdesc-kilijblade-*": "基利弯刀的刀刃。",
+
+  "item-boarspear-iron": "铁野猪矛",
+  "item-boarspear-meteoriciron": "陨铁野猪矛",
+  "item-boarspear-steel": "钢野猪矛",
+
+  "itemdesc-boarspear-*": "一种设计用于狩猎野猪等危险生物的长矛，矛头插口处有一对翼状物，有助于防止使用者受伤。",
+
+  "item-boarspearhead-iron": "铁野猪矛头",
+  "item-boarspearhead-meteoriciron": "陨铁野猪矛头",
+  "item-boarspearhead-steel": "钢野猪矛头",
+
+  "itemcraftdesc-boarspearhead-*": "野猪矛的矛头。",
+
+  "item-voulge-iron": "铁沃格戟",
+  "item-voulge-meteoriciron": "陨铁沃格戟",
+  "item-voulge-steel": "钢沃格戟",
+
+  "itemdesc-voulge-*": "一种古老但仍然有效的武器设计。",
+
+  "item-voulgehead-iron": "铁沃格戟头",
+  "item-voulgehead-meteoriciron": "陨铁沃格戟头",
+  "item-voulgehead-steel": "钢沃格戟头",
+
+  "itemcraftdesc-voulgehead-*": "沃格戟的戟头。",
+
+  "item-daneaxe-iron": "铁丹麦斧",
+  "item-daneaxe-meteoriciron": "陨铁丹麦斧",
+  "item-daneaxe-steel": "钢丹麦斧",
+
+  "itemdesc-daneaxe-*": "一种双手斧，据说能够将人劈成两半。",
+
+  "item-atgeir-iron": "铁维京戟",
+  "item-atgeir-meteoriciron": "陨铁维京戟",
+  "item-atgeir-steel": "钢维京戟",
+
+  "itemdesc-atgeir-*": "一种古老的维京长柄武器，也称为破甲戟。",
+
+  "item-atgeirhead-iron": "铁维京戟头",
+  "item-atgeirhead-meteoriciron": "陨铁维京戟头",
+  "item-atgeirhead-steel": "钢维京戟头",
+
+  "itemcraftdesc-atgeirhead-*": "维京戟的戟头。",
+
+  "item-longsword-iron-blunt": "钝的铁长剑",
+  "item-longsword-iron-dull": "未开刃的铁长剑",
+  "item-longsword-iron-sharp": "锋利的铁长剑",
+  "item-longsword-iron-honed": "精磨的铁长剑",
+
+  "item-longsword-meteoriciron-blunt": "钝的陨铁长剑",
+  "item-longsword-meteoriciron-dull": "未开刃的陨铁长剑",
+  "item-longsword-meteoriciron-sharp": "锋利的陨铁长剑",
+  "item-longsword-meteoriciron-honed": "精磨的陨铁长剑",
+
+  "item-longsword-steel-blunt": "钝的钢长剑",
+  "item-longsword-steel-dull": "未开刃的钢长剑",
+  "item-longsword-steel-sharp": "锋利的钢长剑",
+  "item-longsword-steel-honed": "精磨的钢长剑",
+
+  "itemdesc-longsword-*": "长剑，也称为手半剑，可以用单手或双手使用。",
+
+  "item-longswordblade-iron-blunt": "钝的铁长剑刃",
+  "item-longswordblade-iron-dull": "未开刃的铁长剑刃",
+  "item-longswordblade-iron-sharp": "锋利的铁长剑刃",
+  "item-longswordblade-iron-honed": "精磨的铁长剑刃",
+
+  "item-longswordblade-meteoriciron-blunt": "钝的陨铁长剑刃",
+  "item-longswordblade-meteoriciron-dull": "未开刃的陨铁长剑刃",
+  "item-longswordblade-meteoriciron-sharp": "锋利的陨铁长剑刃",
+  "item-longswordblade-meteoriciron-honed": "精磨的陨铁长剑刃",
+
+  "item-longswordblade-steel-blunt": "钝的钢长剑刃",
+  "item-longswordblade-steel-dull": "未开刃的钢长剑刃",
+  "item-longswordblade-steel-sharp": "锋利的钢长剑刃",
+  "item-longswordblade-steel-honed": "精磨的钢长剑刃",
+
+  "itemdesc-longswordblade-*": "需要合适剑柄的剑刃。",
+  "itemcraftdesc-longswordblade-*": "长剑的剑刃。",
+
+  "item-warhammer-tinbronze": "锡铜战锤",
+  "item-warhammer-bismuthbronze": "铋铜战锤",
+  "item-warhammer-blackbronze": "黑铜战锤",
+  "item-warhammer-iron": "铁战锤",
+  "item-warhammer-meteoriciron": "陨铁战锤",
+  "item-warhammer-steel": "钢战锤",
+  "item-warhammerhead-tinbronze": "锡铜战锤头",
+  "item-warhammerhead-bismuthbronze": "铋铜战锤头",
+  "item-warhammerhead-blackbronze": "黑铜战锤头",
+  "item-warhammerhead-iron": "铁战锤头",
+  "item-warhammerhead-meteoriciron": "陨铁战锤头",
+  "item-warhammerhead-steel": "钢战锤头",
+
+  "itemdesc-warhammer-*": "战锤，一种对付肉体和盔甲都有效的武器。",
+  "itemdesc-warhammerhead-*": "可怕战锤的头部。",
+  "itemcraftdesc-warhammerhead-*": "可怕战锤的头部。",
+
+  "item-khopesh-copper-blunt": "钝的铜镰状剑",
+  "item-khopesh-copper-dull": "未开刃的铜镰状剑",
+  "item-khopesh-copper-sharp": "锋利的铜镰状剑",
+  "item-khopesh-copper-honed": "精磨的铜镰状剑",
+  "item-khopeshblade-copper-blunt": "钝的铜镰状剑刃",
+  "item-khopeshblade-copper-dull": "未开刃的铜镰状剑刃",
+  "item-khopeshblade-copper-sharp": "锋利的铜镰状剑刃",
+  "item-khopeshblade-copper-honed": "精磨的铜镰状剑刃",
+
+  "item-khopesh-tinbronze-blunt": "钝的锡铜镰状剑",
+  "item-khopesh-tinbronze-dull": "未开刃的锡铜镰状剑",
+  "item-khopesh-tinbronze-sharp": "锋利的锡铜镰状剑",
+  "item-khopesh-tinbronze-honed": "精磨的锡铜镰状剑",
+  "item-khopeshblade-tinbronze-blunt": "钝的锡铜镰状剑刃",
+  "item-khopeshblade-tinbronze-dull": "未开刃的锡铜镰状剑刃",
+  "item-khopeshblade-tinbronze-sharp": "锋利的锡铜镰状剑刃",
+  "item-khopeshblade-tinbronze-honed": "精磨的锡铜镰状剑刃",
+
+  "item-khopesh-bismuthbronze-blunt": "钝的铋铜镰状剑",
+  "item-khopesh-bismuthbronze-dull": "未开刃的铋铜镰状剑",
+  "item-khopesh-bismuthbronze-sharp": "锋利的铋铜镰状剑",
+  "item-khopesh-bismuthbronze-honed": "精磨的铋铜镰状剑",
+  "item-khopeshblade-bismuthbronze-blunt": "钝的铋铜镰状剑刃",
+  "item-khopeshblade-bismuthbronze-dull": "未开刃的铋铜镰状剑刃",
+  "item-khopeshblade-bismuthbronze-sharp": "锋利的铋铜镰状剑刃",
+  "item-khopeshblade-bismuthbronze-honed": "精磨的铋铜镰状剑刃",
+
+  "item-khopesh-blackbronze-blunt": "钝的黑铜镰状剑",
+  "item-khopesh-blackbronze-dull": "未开刃的黑铜镰状剑",
+  "item-khopesh-blackbronze-sharp": "锋利的黑铜镰状剑",
+  "item-khopesh-blackbronze-honed": "精磨的黑铜镰状剑",
+  "item-khopeshblade-blackbronze-blunt": "钝的黑铜镰状剑刃",
+  "item-khopeshblade-blackbronze-dull": "未开刃的黑铜镰状剑刃",
+  "item-khopeshblade-blackbronze-sharp": "锋利的黑铜镰状剑刃",
+  "item-khopeshblade-blackbronze-honed": "精磨的黑铜镰状剑刃",
+
+  "block-toolmold-raw-arrowhead": "未烧制的箭头模具",
+  "block-toolmold-burned-arrowhead": "箭头模具",
+  "block-toolmold-raw-largearrowhead": "未烧制的大箭头模具",
+  "block-toolmold-burned-largearrowhead": "大箭头模具",
+  "block-toolmold-raw-khopeshblade": "未烧制的镰状剑刃模具",
+  "block-toolmold-burned-khopeshblade": "镰状剑刃模具",
+
+  "item-pollaxehead-iron": "铁斧枪头",
+  "item-pollaxe-iron": "铁斧枪",
+  "item-pollaxehead-meteoriciron": "陨铁斧枪头",
+  "item-pollaxe-meteoriciron": "陨铁斧枪",
+  "item-pollaxehead-steel": "钢斧枪头",
+  "item-pollaxe-steel": "钢斧枪",
+
+  "itemdesc-pollaxe-*": "一种相当普遍的长柄武器设计。",
+  "itemdesc-pollaxehead-*": "长柄武器的头部。",
+  "itemcraftdesc-pollaxehead-*": "长柄武器的头部。",
+
+  "item-halberdhead-iron": "铁戟头",
+  "item-halberd-iron": "铁戟",
+  "item-halberdhead-meteoriciron": "陨铁戟头",
+  "item-halberd-meteoriciron": "陨铁戟",
+  "item-halberdhead-steel": "钢戟头",
+  "item-halberd-steel": "钢戟",
+
+  "itemdesc-halberd-*": "一种相当多功能的的长柄武器。",
+  "itemdesc-halberdhead-*": "长柄武器的头部。",
+  "itemcraftdesc-halberdhead-*": "长柄武器的头部。",
+
+  "item-naginatahead-iron": "铁薙刀头",
+  "item-naginata-iron": "铁薙刀",
+  "item-naginatahead-meteoriciron": "陨铁薙刀头",
+  "item-naginata-meteoriciron": "陨铁薙刀",
+  "item-naginatahead-steel": "钢薙刀头",
+  "item-naginata-steel": "钢薙刀",
+
+  "itemdesc-naginata-*": "薙刀，一种来自遥远国度的武器设计。",
+  "itemdesc-naginatahead-*": "长柄武器的头部。",
+  "itemcraftdesc-naginatahead-*": "长柄武器的头部。",
+
+  "item-manganesepowder": "锰粉",
+  "itemdesc-manganesepowder": "由粉碎的菱锰矿制成的粉末。",
+
+  "item-ingot-preparedstainless": "预处理不锈钢锭",
+  "itemdesc-ingot-preparedstainless": "已用铬铁矿和锰粉处理过的钢锭，准备用于制造不锈钢。",
+  "item-ingot-preparedtitanium": "预处理钛锭",
+  "itemdesc-ingot-preparedtitanium": "这种预处理钛锭已准备好放入渗碳炉中，以转化为可用材料。",
+  "item-ingot-preparedmithril": "预处理秘银锭",
+  "itemdesc-ingot-preparedmithril": "这种预处理秘银锭已准备好放入渗碳炉中，以转化为可用材料。",
+  "item-ingot-preparedadamant": "预处理精金锭",
+  "itemdesc-ingot-preparedadamant": "这种预处理精金锭已准备好放入渗碳炉中，以转化为可用材料。",
+  "item-ingot-preparedorichalcum": "预处理山铜锭",
+  "itemdesc-ingot-preparedorichalcum": "这种预处理山铜锭已准备好放入渗碳炉中，以转化为可用材料。",
+  "item-ingot-preparedaithril": "预处理苍穹秘银锭",
+  "itemdesc-ingot-preparedaithril": "这种预处理苍穹秘银锭已准备好放入渗碳炉中，以转化为可用材料。",
+
+  "item-pickaxe-stainlesssteel": "不锈钢镐",
+  "item-pickaxe-titanium": "钛镐",
+  "item-pickaxe-mithril": "秘银镐",
+  "item-pickaxe-adamant": "精金镐",
+  "item-pickaxe-orichalcum": "山铜镐",
+  "item-pickaxe-aithril": "苍穹秘银镐",
+
+  "game:item-knife-generic-stainlesssteel": "不锈钢刀",
+  "game:item-knife-generic-titanium": "钛刀",
+  "game:item-knife-generic-mithril": "秘银刀",
+  "game:item-knife-generic-adamant": "精金刀",
+  "game:item-knife-generic-orichalcum": "山铜刀",
+  "game:item-knife-generic-aithril": "苍穹秘银刀",
+
+  "game:item-cleaver-stainlesssteel": "不锈钢切肉刀",
+  "game:item-cleaver-titanium": "钛切肉刀",
+  "game:item-cleaver-mithril": "秘银切肉刀",
+  "game:item-cleaver-adamant": "精金切肉刀",
+  "game:item-cleaver-orichalcum": "山铜切肉刀",
+  "game:item-cleaver-aithril": "苍穹秘银切肉刀",
+
+  "item-prospectingpick-stainlesssteel": "不锈钢探矿镐",
+  "item-prospectingpick-titanium": "钛探矿镐",
+  "item-prospectingpick-mithril": "秘银探矿镐",
+  "item-prospectingpick-adamant": "精金探矿镐",
+  "item-prospectingpick-orichalcum": "山铜探矿镐",
+  "item-prospectingpick-aithril": "苍穹秘银探矿镐",
+
+  "item-axe-felling-stainlesssteel": "不锈钢斧",
+  "item-axe-felling-titanium": "钛斧",
+  "item-axe-felling-mithril": "秘银斧",
+  "item-axe-felling-adamant": "精金斧",
+  "item-axe-felling-orichalcum": "山铜斧",
+  "item-axe-felling-aithril": "苍穹秘银斧",
+
+  "item-chisel-stainlesssteel": "不锈钢凿子",
+  "item-chisel-titanium": "钛凿子",
+  "item-chisel-mithril": "秘银凿子",
+  "item-chisel-adamant": "精金凿子",
+  "item-chisel-orichalcum": "山铜凿子",
+  "item-chisel-aithril": "苍穹秘银凿子",
+
+  "item-hoe-stainlesssteel": "不锈钢锄头",
+  "item-hoe-titanium": "钛锄头",
+  "item-hoe-mithril": "秘银锄头",
+  "item-hoe-adamant": "精金锄头",
+  "item-hoe-orichalcum": "山铜锄头",
+  "item-hoe-aithril": "苍穹秘银锄头",
+
+  "item-padlock-stainlesssteel": "不锈钢挂锁",
+  "item-padlock-titanium": "钛挂锁",
+  "item-padlock-mithril": "秘银挂锁",
+  "item-padlock-adamant": "精金挂锁",
+  "item-padlock-orichalcum": "山铜挂锁",
+  "item-padlock-aithril": "苍穹秘银挂锁",
+
+  "item-scythe-stainlesssteel": "不锈钢镰刀",
+  "item-scythe-titanium": "钛镰刀",
+  "item-scythe-mithril": "秘银镰刀",
+  "item-scythe-adamant": "精金镰刀",
+  "item-scythe-orichalcum": "山铜镰刀",
+  "item-scythe-aithril": "苍穹秘银镰刀",
+
+  "item-shears-stainlesssteel": "不锈钢剪刀",
+  "item-shears-titanium": "钛剪刀",
+  "item-shears-mithril": "秘银剪刀",
+  "item-shears-adamant": "精金剪刀",
+  "item-shears-orichalcum": "山铜剪刀",
+  "item-shears-aithril": "苍穹秘银剪刀",
+
+  "item-shovel-stainlesssteel": "不锈钢铲",
+  "item-shovel-titanium": "钛铲",
+  "item-shovel-mithril": "秘银铲",
+  "item-shovel-adamant": "精金铲",
+  "item-shovel-orichalcum": "山铜铲",
+  "item-shovel-aithril": "苍穹秘银铲",
+
+  "item-wrench-stainlesssteel": "不锈钢扳手",
+  "item-wrench-titanium": "钛扳手",
+  "item-wrench-mithril": "秘银扳手",
+  "item-wrench-adamant": "精金扳手",
+  "item-wrench-orichalcum": "山铜扳手",
+  "item-wrench-aithril": "苍穹秘银扳手",
+
+  "item-tunneler-iron-*": "铁掘隧器",
+  "item-tunneler-steel-*": "钢掘隧器",
+  "item-tunneler-stainlesssteel-*": "不锈钢掘隧器",
+  "item-tunneler-titanium-*": "钛掘隧器",
+  "item-tunneler-mithril-*": "秘银掘隧器",
+  "item-tunneler-adamant-*": "精金掘隧器",
+  "item-tunneler-orichalcum-*": "山铜掘隧器",
+  "item-tunneler-aithril-*": "苍穹秘银掘隧器",
+  "itemdesc-tunneler-*": "这个方便的工具可以挖掘 1x2 的区域。",
+
+  "item-tunnelerhead-iron": "铁掘隧器头",
+  "item-tunnelerhead-steel": "钢掘隧器头",
+  "item-tunnelerhead-stainlesssteel": "不锈钢掘隧器头",
+  "item-tunnelerhead-titanium": "钛掘隧器头",
+  "item-tunnelerhead-mithril": "秘银掘隧器头",
+  "item-tunnelerhead-adamant": "精金掘隧器头",
+  "item-tunnelerhead-orichalcum": "山铜掘隧器头",
+  "item-tunnelerhead-aithril": "苍穹秘银掘隧器头",
+  "itemdesc-tunnelerhead-*": "这个掘隧器头需要一个金属柄才能完成。",
+  "itemcraftdesc-tunnelerhead-*": "掘隧器头，用于挖掘 1x2 区域的工具。",
+
+  "item-sledgehammer-iron": "铁大锤",
+  "item-sledgehammer-steel": "钢大锤",
+  "item-sledgehammer-stainlesssteel": "不锈钢大锤",
+  "item-sledgehammer-titanium": "钛大锤",
+  "item-sledgehammer-mithril": "秘银大锤",
+  "item-sledgehammer-adamant": "精金大锤",
+  "item-sledgehammer-orichalcum": "山铜大锤",
+  "item-sledgehammer-aithril": "苍穹秘银大锤",
+  "itemdesc-sledgehammer-*": "这个方便的工具可以挖掘 3x3 的区域，但请注意，它只能挖掘石头，并且产出比镐少。",
+
+  "item-sledgehammerhead-iron": "铁大锤头",
+  "item-sledgehammerhead-steel": "钢大锤头",
+  "item-sledgehammerhead-stainlesssteel": "不锈钢大锤头",
+  "item-sledgehammerhead-titanium": "钛大锤头",
+  "item-sledgehammerhead-mithril": "秘银大锤头",
+  "item-sledgehammerhead-adamant": "精金大锤头",
+  "item-sledgehammerhead-orichalcum": "山铜大锤头",
+  "item-sledgehammerhead-aithril": "苍穹秘银大锤头",
+  "itemdesc-sledgehammerhead-*": "这个大锤头需要一个金属柄才能完成。",
+  "itemcraftdesc-sledgehammerhead-*": "大锤头，用于挖掘 3x3 区域的工具。",
+
+  "item-excavator-iron": "铁挖掘器",
+  "item-excavator-steel": "钢挖掘器",
+  "item-excavator-stainlesssteel": "不锈钢挖掘器",
+  "item-excavator-titanium": "钛挖掘器",
+  "item-excavator-mithril": "秘银挖掘器",
+  "item-excavator-adamant": "精金挖掘器",
+  "item-excavator-orichalcum": "山铜挖掘器",
+  "item-excavator-aithril": "苍穹秘银挖掘器",
+  "itemdesc-excavator": "这个方便的工具可以在泥土等软质材料中挖掘 2x3 的区域，但请注意，与铲子相比，会有少量损耗。",
+
+  "item-excavatorhead-iron": "铁挖掘器头",
+  "item-excavatorhead-steel": "钢挖掘器头",
+  "item-excavatorhead-stainlesssteel": "不锈钢挖掘器头",
+  "item-excavatorhead-titanium": "钛挖掘器头",
+  "item-excavatorhead-mithril": "秘银挖掘器头",
+  "item-excavatorhead-adamant": "精金挖掘器头",
+  "item-excavatorhead-orichalcum": "山铜挖掘器头",
+  "item-excavatorhead-aithril": "苍穹秘银挖掘器头",
+  "itemdesc-excavatorhead-*": "这个挖掘器头需要一个金属柄才能完成。",
+  "itemcraftdesc-excavatorhead-*": "挖掘器头，用于挖掘 2x3 区域的工具。",
+
+  "item-armor-head-chain-stainlesssteel": "不锈钢链甲头盔",
+  "item-armor-body-chain-stainlesssteel": "不锈钢链甲胸甲",
+  "item-armor-legs-chain-stainlesssteel": "不锈钢链甲护腿",
+
+  "item-armor-head-brigandine-stainlesssteel": "不锈钢布面铁甲头盔",
+  "item-armor-body-brigandine-stainlesssteel": "不锈钢布面铁甲胸甲",
+  "item-armor-legs-brigandine-stainlesssteel": "不锈钢布面铁甲护腿",
+
+  "item-armor-head-scale-stainlesssteel": "不锈钢鳞甲头盔",
+  "item-armor-body-scale-stainlesssteel": "不锈钢鳞甲胸甲",
+  "item-armor-legs-scale-stainlesssteel": "不锈钢鳞甲护腿",
+
+  "item-armor-head-plate-stainlesssteel": "不锈钢板甲头盔",
+  "item-armor-body-plate-stainlesssteel": "不锈钢板甲胸甲",
+  "item-armor-legs-plate-stainlesssteel": "不锈钢板甲护腿",
+
+  "item-armor-head-chain-titanium": "钛链甲头盔",
+  "item-armor-body-chain-titanium": "钛链甲胸甲",
+  "item-armor-legs-chain-titanium": "钛链甲护腿",
+
+  "item-armor-head-brigandine-titanium": "钛布面铁甲头盔",
+  "item-armor-body-brigandine-titanium": "钛布面铁甲胸甲",
+  "item-armor-legs-brigandine-titanium": "钛布面铁甲护腿",
+
+  "item-armor-head-scale-titanium": "钛鳞甲头盔",
+  "item-armor-body-scale-titanium": "钛鳞甲胸甲",
+  "item-armor-legs-scale-titanium": "钛鳞甲护腿",
+
+  "item-armor-head-plate-titanium": "钛板甲头盔",
+  "item-armor-body-plate-titanium": "钛板甲胸甲",
+  "item-armor-legs-plate-titanium": "钛板甲护腿",
+
+  "item-armor-head-chain-mithril": "秘银链甲头盔",
+  "item-armor-body-chain-mithril": "秘银链甲胸甲",
+  "item-armor-legs-chain-mithril": "秘银链甲护腿",
+
+  "item-armor-head-brigandine-mithril": "秘银布面铁甲头盔",
+  "item-armor-body-brigandine-mithril": "秘银布面铁甲胸甲",
+  "item-armor-legs-brigandine-mithril": "秘银布面铁甲护腿",
+
+  "item-armor-head-scale-mithril": "秘银鳞甲头盔",
+  "item-armor-body-scale-mithril": "秘银鳞甲胸甲",
+  "item-armor-legs-scale-mithril": "秘银鳞甲护腿",
+
+  "item-armor-head-plate-mithril": "秘银板甲头盔",
+  "item-armor-body-plate-mithril": "秘银板甲胸甲",
+  "item-armor-legs-plate-mithril": "秘银板甲护腿",
+  "itemdesc-armor-*-*-mithril": "传说中的金属使得这件盔甲几乎感觉不到重量。",
+
+  "item-armor-head-chain-adamant": "精金链甲头盔",
+  "item-armor-body-chain-adamant": "精金链甲胸甲",
+  "item-armor-legs-chain-adamant": "精金链甲护腿",
+
+  "item-armor-head-brigandine-adamant": "精金布面铁甲头盔",
+  "item-armor-body-brigandine-adamant": "精金布面铁甲胸甲",
+  "item-armor-legs-brigandine-adamant": "精金布面铁甲护腿",
+
+  "item-armor-head-scale-adamant": "精金鳞甲头盔",
+  "item-armor-body-scale-adamant": "精金鳞甲胸甲",
+  "item-armor-legs-scale-adamant": "精金鳞甲护腿",
+
+  "item-armor-head-plate-adamant": "精金板甲头盔",
+  "item-armor-body-plate-adamant": "精金板甲胸甲",
+  "item-armor-legs-plate-adamant": "精金板甲护腿",
+
+  "item-armor-head-chain-orichalcum": "山铜链甲头盔",
+  "item-armor-body-chain-orichalcum": "山铜链甲胸甲",
+  "item-armor-legs-chain-orichalcum": "山铜链甲护腿",
+
+  "item-armor-head-brigandine-orichalcum": "山铜布面铁甲头盔",
+  "item-armor-body-brigandine-orichalcum": "山铜布面铁甲胸甲",
+  "item-armor-legs-brigandine-orichalcum": "山铜布面铁甲护腿",
+
+  "item-armor-head-scale-orichalcum": "山铜鳞甲头盔",
+  "item-armor-body-scale-orichalcum": "山铜鳞甲胸甲",
+  "item-armor-legs-scale-orichalcum": "山铜鳞甲护腿",
+
+  "item-armor-head-plate-orichalcum": "山铜板甲头盔",
+  "item-armor-body-plate-orichalcum": "山铜板甲胸甲",
+  "item-armor-legs-plate-orichalcum": "山铜板甲护腿",
+  "itemdesc-armor-*-*-orichalcum": "由传说中的金属制成，异常笨重。",
+
+  "item-armor-head-chain-aithril": "苍穹秘银链甲头盔",
+  "item-armor-body-chain-aithril": "苍穹秘银链甲胸甲",
+  "item-armor-legs-chain-aithril": "苍穹秘银链甲护腿",
+
+  "item-armor-head-brigandine-aithril": "苍穹秘银布面铁甲头盔",
+  "item-armor-body-brigandine-aithril": "苍穹秘银布面铁甲胸甲",
+  "item-armor-legs-brigandine-aithril": "苍穹秘银布面铁甲护腿",
+
+  "item-armor-head-scale-aithril": "苍穹秘银鳞甲头盔",
+  "item-armor-body-scale-aithril": "苍穹秘银鳞甲胸甲",
+  "item-armor-legs-scale-aithril": "苍穹秘银鳞甲护腿",
+
+  "item-armor-head-plate-aithril": "苍穹秘银板甲头盔",
+  "item-armor-body-plate-aithril": "苍穹秘银板甲胸甲",
+  "item-armor-legs-plate-aithril": "苍穹秘银板甲护腿",
+  "itemdesc-armor-*-*-aithril": "苍穹秘银，据信是秘银的纯化形态，可能仅来自天赐之物。",
+
+  "item-pila-iron": "铁罗马标枪",
+  "item-pila-meteoriciron": "陨铁罗马标枪",
+  "item-pila-steel": "钢罗马标枪",
+  "itemdesc-pila-*": "一种古老但仍然非常有效的武器，擅长刺穿盾牌。",
+
+  "item-pilahead-iron": "铁罗马标枪头",
+  "item-pilahead-meteoriciron": "陨铁罗马标枪头",
+  "item-pilahead-steel": "钢罗马标枪头",
+  "itemdesc-pilahead-*": "用于一次性标枪的罗马标枪头。",
+
+  "block-bigbomb": "大型炸弹",
+  "blockdesc-bigbomb": "爆炸范围更大，对石头有效的炸弹。",
+  "block-largebomb": "巨型炸弹",
+  "blockdesc-largebomb": "爆炸范围更大的炸弹，相当危险，你应该快跑。",
+  "block-giantbomb": "超巨型炸弹",
+  "block-bigbertha": "大贝莎",
+  "blockdesc-bigbertha": "你不该拥有这个。",
+
+  "item-trainingdummy": "训练假人",
+  "itemdesc-trainingdummy": "这个训练假人非常适合练习射击、发泄怒火，或者仅仅作为装饰！",
+  "item-creature-trainingdummy": "训练假人",
+  "game:item-bandage-sterilized": "消毒绷带",
+
+  "game:block-anvilpart-base-steel": "砧座部件（钢）",
+  "game:block-anvilpart-top-steel": "砧顶部件（钢）",
+
+  "game:block-anvilpart-base-stainlesssteel": "砧座部件（不锈钢）",
+  "game:block-anvilpart-top-stainlesssteel": "砧顶部件（不锈钢）",
+  "game:block-anvil-stainlesssteel": "不锈钢砧",
+
+  "game:block-anvilpart-base-titanium": "砧座部件（钛）",
+  "game:block-anvilpart-top-titanium": "砧顶部件（钛）",
+  "game:block-anvil-titanium": "钛砧",
+
+  "game:block-anvilpart-base-mithril": "砧座部件（秘银）",
+  "game:block-anvilpart-top-mithril": "砧顶部件（秘银）",
+  "game:block-anvil-mithril": "秘银砧",
+
+  "game:block-anvilpart-base-adamant": "砧座部件（精金）",
+  "game:block-anvilpart-top-adamant": "砧顶部件（精金）",
+  "game:block-anvil-adamant": "精金砧",
+
+  "game:block-anvilpart-base-orichalcum": "砧座部件（山铜）",
+  "game:block-anvilpart-top-orichalcum": "砧顶部件（山铜）",
+  "game:block-anvil-orichalcum": "山铜砧",
+
+  "game:block-anvilpart-base-aithril": "砧座部件（苍穹秘银）",
+  "game:block-anvilpart-top-aithril": "砧顶部件（苍穹秘银）",
+  "game:block-anvil-aithril": "苍穹秘银砧",
+
+  "game:item-axehead-stainlesssteel": "不锈钢斧头",
+  "game:item-hammerhead-stainlesssteel": "不锈钢锤头",
+  "game:item-hoehead-stainlesssteel": "不锈钢锄头",
+  "game:item-knifeblade-stainlesssteel": "不锈钢刀刃",
+  "game:item-pickaxehead-stainlesssteel": "不锈钢镐头",
+  "game:item-prospectingpickhead-stainlesssteel": "不锈钢探矿镐头",
+  "game:item-sawblade-stainlesssteel": "不锈钢锯片",
+  "game:item-scythehead-stainlesssteel": "不锈钢镰刀刃",
+  "game:item-shovelhead-stainlesssteel": "不锈钢铲头",
+
+  "game:item-axehead-titanium": "钛斧头",
+  "game:item-hammerhead-titanium": "钛锤头",
+  "game:item-hoehead-titanium": "钛锄头",
+  "game:item-knifeblade-titanium": "钛刀刃",
+  "game:item-pickaxehead-titanium": "钛镐头",
+  "game:item-prospectingpickhead-titanium": "钛探矿镐头",
+  "game:item-sawblade-titanium": "钛锯片",
+  "game:item-scythehead-titanium": "钛镰刀刃",
+  "game:item-shovelhead-titanium": "钛铲头",
+
+  "swordz:item-mithrilbloom": "秘银块",
+  "swordz:itemdesc-mithrilbloom": "这种块状物需要进一步加工才能转化为可用材料。",
+
+  "game:ore-mithril": "秘银",
+  "game:block-ore-*-mithril-*": "秘银矿石",
+  "game:item-nugget-mithril": "秘银粒",
+  "game:block-looseores-mithril-*": "秘银矿石碎块",
+  "game:item-metalbit-mithril": "秘银碎块",
+
+  "game:item-ingot-mithril": "秘银锭",
+  "game:itemdesc-ingot-mithril": "秘银，矮人语中称为 Lazh-zirak，是一种极其轻便且坚固的材料，是传说中的物质。",
+  "game:item-workitem-mithril": "加工件（秘银）",
+  "game:item-metalplate-mithril": "秘银板",
+  "game:item-metalchain-mithril": "秘银链",
+  "game:item-metallamellae-mithril": "秘银甲片",
+  "game:item-metalscale-mithril": "秘银鳞片",
+
+  "game:item-axehead-mithril": "秘银斧头",
+  "game:item-hammerhead-mithril": "秘银锤头",
+  "game:item-hoehead-mithril": "秘银锄头",
+  "game:item-knifeblade-mithril": "秘银刀刃",
+  "game:item-pickaxehead-mithril": "秘银镐头",
+  "game:item-prospectingpickhead-mithril": "秘银探矿镐头",
+  "game:item-sawblade-mithril": "秘银锯片",
+  "game:item-scythehead-mithril": "秘银镰刀刃",
+  "game:item-shovelhead-mithril": "秘银铲头",
+
+  "game:item-ingot-unfoldedmithril": "未折叠秘银锭",
+  "game:itemdesc-ingot-unfoldedmithril": "由于秘银块精炼出的金属质量较差，需要通过在砧上折叠进一步加工。",
+  "game:item-workitem-unfoldedmithril": "加工件（未折叠秘银）",
+  "game:item-metalplate-unfoldedmithril": "未折叠秘银板",
+  "game:item-metalbit-unfoldedmithril": "秘银碎块",
+
+  "game:ore-adamant": "精金",
+  "game:block-ore-*-adamant-*": "精金矿石",
+  "game:item-nugget-adamant": "精金粒",
+  "game:block-looseores-adamant-*": "精金矿石碎块",
+
+  "game:item-ingot-adamant": "精金锭",
+  "game:itemdesc-ingot-adamant": "一种极其坚固和稀有的金属，比钢稍轻但强度高得多。",
+  "game:item-workitem-adamant": "加工件（精金）",
+  "game:item-metalplate-adamant": "精金板",
+  "game:item-metalbit-adamant": "精金碎块",
+  "game:item-metalchain-adamant": "精金链",
+  "game:item-metallamellae-adamant": "精金甲片",
+  "game:item-metalscale-adamant": "精金鳞片",
+
+  "game:item-axehead-adamant": "精金斧头",
+  "game:item-hammerhead-adamant": "精金锤头",
+  "game:item-hoehead-adamant": "精金锄头",
+  "game:item-knifeblade-adamant": "精金刀刃",
+  "game:item-pickaxehead-adamant": "精金镐头",
+  "game:item-prospectingpickhead-adamant": "精金探矿镐头",
+  "game:item-sawblade-adamant": "精金锯片",
+  "game:item-scythehead-adamant": "精金镰刀刃",
+  "game:item-shovelhead-adamant": "精金铲头",
+
+  "game:ore-orichalcum": "山铜",
+  "game:block-ore-*-orichalcum-*": "山铜矿石",
+  "game:item-nugget-orichalcum": "山铜粒",
+  "game:block-looseores-orichalcum-*": "山铜矿石碎块",
+
+  "game:item-ingot-orichalcum": "山铜锭",
+  "game:itemdesc-ingot-orichalcum": "这种极其沉重的金属同样坚固，但其重量可能会限制其用途。",
+  "game:item-workitem-orichalcum": "加工件（山铜）",
+  "game:item-metalplate-orichalcum": "山铜板",
+  "game:item-metalbit-orichalcum": "山铜碎块",
+  "game:item-metalchain-orichalcum": "山铜链",
+  "game:item-metallamellae-orichalcum": "山铜甲片",
+  "game:item-metalscale-orichalcum": "山铜鳞片",
+
+  "game:item-axehead-orichalcum": "山铜斧头",
+  "game:item-hammerhead-orichalcum": "山铜锤头",
+  "game:item-hoehead-orichalcum": "山铜锄头",
+  "game:item-knifeblade-orichalcum": "山铜刀刃",
+  "game:item-pickaxehead-orichalcum": "山铜镐头",
+  "game:item-prospectingpickhead-orichalcum": "山铜探矿镐头",
+  "game:item-sawblade-orichalcum": "山铜锯片",
+  "game:item-scythehead-orichalcum": "山铜镰刀刃",
+  "game:item-shovelhead-orichalcum": "山铜铲头",
+
+  "game:item-saw-stainlesssteel": "不锈钢锯",
+  "game:item-saw-titanium": "钛锯",
+  "game:item-saw-mithril": "秘银锯",
+  "game:item-saw-adamant": "精金锯",
+  "game:item-saw-orichalcum": "山铜锯",
+  "game:item-saw-aithril": "苍穹秘银锯",
+
+  "game:ore-aithril": "苍穹秘银",
+  "game:block-ore-*-aithril-*": "苍穹秘银矿石",
+  "game:item-nugget-aithril": "苍穹秘银粒",
+  "game:itemdesc-nugget-aithril": "奇特金属的小碎片。",
+  "game:block-looseores-aithril-*": "苍穹秘银矿石碎块",
+
+  "game:item-ingot-aithril": "苍穹秘银锭",
+  "game:itemdesc-ingot-aithril": "据说这种金属源自天界。",
+  "game:item-workitem-aithril": "加工件（苍穹秘银）",
+  "game:item-metalplate-aithril": "苍穹秘银板",
+  "game:item-metalbit-aithril": "苍穹秘银碎块",
+  "game:item-metalchain-aithril": "苍穹秘银链",
+  "game:item-metallamellae-aithril": "苍穹秘银甲片",
+  "game:item-metalscale-aithril": "苍穹秘银鳞片",
+
+  "game:item-axehead-aithril": "苍穹秘银斧头",
+  "game:item-hammerhead-aithril": "苍穹秘银锤头",
+  "game:item-hoehead-aithril": "苍穹秘银锄头",
+  "game:item-knifeblade-aithril": "苍穹秘银刀刃",
+  "game:item-pickaxehead-aithril": "苍穹秘银镐头",
+  "game:item-prospectingpickhead-aithril": "苍穹秘银探矿镐头",
+  "game:item-sawblade-aithril": "苍穹秘银锯片",
+  "game:item-scythehead-aithril": "苍穹秘银镰刀刃",
+  "game:item-shovelhead-aithril": "苍穹秘银铲头",
+
+  "game:item-hammer-stainlesssteel": "不锈钢锤",
+  "game:item-hammer-titanium": "钛锤",
+  "game:item-hammer-mithril": "秘银锤",
+  "game:item-hammer-adamant": "精金锤",
+  "game:item-hammer-orichalcum": "山铜锤",
+  "game:item-hammer-aithril": "苍穹秘银锤",
+
+  "game:block-metalblock-corroded-riveted-mithril": "锈蚀铆接秘银块",
+  "game:block-metalblock-new-riveted-mithril": "铆接秘银块",
+  "game:block-metalblock-new-plain-mithril": "秘银块",
+  "game:block-metalblock-corroded-plain-mithril": "锈蚀秘银块",
+
+  "game:block-metalblock-corroded-riveted-adamant": "锈蚀铆接精金块",
+  "game:block-metalblock-new-riveted-adamant": "铆接精金块",
+  "game:block-metalblock-new-plain-adamant": "精金块",
+  "game:block-metalblock-corroded-plain-adamant": "锈蚀精金块",
+
+  "game:block-metalblock-corroded-riveted-orichalcum": "锈蚀铆接山铜块",
+  "game:block-metalblock-new-riveted-orichalcum": "铆接山铜块",
+  "game:block-metalblock-new-plain-orichalcum": "山铜块",
+  "game:block-metalblock-corroded-plain-orichalcum": "锈蚀山铜块",
+
+  "game:block-metalblock-corroded-riveted-aithril": "锈蚀铆接苍穹秘银块",
+  "game:block-metalblock-new-riveted-aithril": "铆接苍穹秘银块",
+  "game:block-metalblock-new-plain-aithril": "苍穹秘银块",
+  "game:block-metalblock-corroded-plain-aithril": "锈蚀苍穹秘银块",
+
+  "game:block-metalsheet-mithril-down": "秘银板材",
+  "game:block-metalsheet-adamant-down": "精金板材",
+  "game:block-metalsheet-orichalcum-down": "山铜板材",
+  "game:block-metalsheet-aithril-down": "苍穹秘银板材",
+
+  "block-meteorite-aithril": "苍穹秘银陨石",
+  "item-stone-meteorite-aithril": "苍穹秘银碎片",
+
+  "swordz:block-loosestones-meteorite-aithril-free": "散落的苍穹秘银碎片",
+  "swordz:block-loosestones-meteorite-aithril-water": "散落的苍穹秘银碎片（水中）",
+  "swordz:block-loosestones-meteorite-aithril-ice": "散落的苍穹秘银碎片（冰中）",
+  "swordz:block-loosestones-meteorite-aithril-snow": "散落的苍穹秘银碎片（雪中）"
+}

@@ -73,3 +73,4 @@
 - `Art of Cooking / 烹饪艺术` [0.2.4](https://mods.vintagestory.at/artofcooking)
 - `Dear ImGui / Dear ImGui` [1.1.8](https://mods.vintagestory.at/show/mod/imgui)
 - `Eldritch Monsters / 诡怪` [2.7.0](https://mods.vintagestory.at/eldritchmonsters)
+- `Swordz / 剑刃` [1.1.9](https://mods.vintagestory.at/swordz)
