@@ -36,7 +36,7 @@
 - `A Culinary Artillery / 烹饪艺术` [1.2.3](https://mods.vintagestory.at/aculinaryartillery)
 - `Herbarium / 植物标本库` [1.4.0](https://mods.vintagestory.at/herbarium)
 - `Wildcraft: Fruits and Nuts / 野生工艺：水果与坚果` [1.3.0](https://mods.vintagestory.at/wildcraftfruit)
-- `Expanded Foods / 扩展食物` [1.7.3](https://mods.vintagestory.at/expandedfoods)
+- `Expanded Foods / 扩展食物` [1.7.4](https://mods.vintagestory.at/expandedfoods)
 - `XSkills / X技能` [0.8.17](https://mods.vintagestory.at/show/mod/247)
 - `XLib / X库` [0.8.16](https://mods.vintagestory.at/show/mod/244)
 - `VanillaMoreMolds / 原版更多模具` [1.1.1](https://mods.vintagestory.at/vanillamoremolds)
