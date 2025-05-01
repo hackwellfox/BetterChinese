@@ -1,0 +1,16 @@
+{
+  "config-title": "远视者设置",
+  "toggle-config": "切换远视者设置窗口",
+  "enabled": "启用远景地形",
+  "view-distance": "远景视距",
+  "view-distance-with-max": "远景视距 (最大 {0})",
+  "sky-tint": "天空色调",
+  "color-tint-r": "染色 (R)",
+  "color-tint-g": "染色 (G)",
+  "color-tint-b": "染色 (B)",
+  "color-tint-a": "染色 (A)",
+  "light-level-bias": "光照等级影响",
+  "fade-bias": "淡出强度",
+  "globe-effect": "球体效果",
+  "reset": "恢复默认设置"
+}

@@ -75,3 +75,4 @@
 - `Eldritch Monsters / 诡怪` [2.7.0](https://mods.vintagestory.at/eldritchmonsters)
 - `Swordz / 剑刃` [1.1.9](https://mods.vintagestory.at/swordz)
 - `HealthBar / 血条` [1.0.6](https://mods.vintagestory.at/healthbar)
+- `Farseer / 远视者` [1.3.1](https://mods.vintagestory.at/show/mod/22371)
