@@ -1,0 +1,30 @@
+﻿{
+  "settings.title": "血条 - 设置",
+
+  "section.sizepos": "尺寸与位置",
+  "section.animations": "动画效果",
+  "section.thresholds": "血量阈值",
+  "section.colors": "颜色配置",
+
+  "label.barwidth": "血条宽度",
+  "label.barheight": "血条高度",
+  "label.verticaloffset": "垂直偏移量",
+
+  "label.fadein": "淡入速度（秒）",
+  "label.fadeout": "淡出速度（秒）",
+
+  "label.lowhp": "低血量阈值",
+  "label.midhp": "中血量阈值",
+
+  "label.colorlow": "低血量颜色",
+  "label.colormid": "中血量颜色",
+  "label.colorfull": "满血量颜色",
+  "label.colorframe": "边框颜色",
+
+  "button.save": "保存",
+  "button.reset": "重置",
+  "button.close": "关闭",
+
+  "message.saved": "设置已保存。",
+  "message.reset": "已恢复为默认设置。"
+}
