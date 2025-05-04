@@ -78,3 +78,4 @@
 - `Farseer / 远视者` [1.3.1](https://mods.vintagestory.at/show/mod/22371)
 - `Electrical Progressive: Core / 电气进阶：核心` [0.9.8](https://mods.vintagestory.at/electricalprogressivecore)
 - `Electrical Progressive: Basics / 电气进阶：基础` [0.9.9](https://mods.vintagestory.at/electricalprogressivebasics)
+- `Electrical Progressive: QoL / 电气进阶：生活质量` [0.9.9](https://mods.vintagestory.at/electricalprogressiveqol)
