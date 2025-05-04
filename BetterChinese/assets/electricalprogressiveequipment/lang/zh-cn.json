@@ -1,0 +1,31 @@
+﻿{
+  "item-static-saber-*": "电刀",
+  "item-static-spear": "电矛",
+  "item-static-shield": "电盾",
+  "item-static-helmet": "电头盔",
+  "item-static-armor": "电胸甲",
+  "item-static-boots": "电腿甲",
+
+  "item-handbooktitle-static-saber": "用法",
+  "item-handbooktext-static-saber": "它是高效切割敌人的最佳选择。<br>放电时停止造成伤害。记得充电！",
+
+
+  "item-handbooktitle-static-spear": "用法",
+  "item-handbooktext-static-spear": "是刺穿敌人的理想工具。<br>放电时停止造成伤害。记得充电！",
+
+  "item-handbooktitle-static-shield": "用法",
+  "item-handbooktext-static-shield": "内置手电筒，提供出色的保护。<br>放电时停止吸收伤害。记得充电！",
+
+  "item-handbooktitle-static-helmet": "用法",
+  "item-handbooktext-static-helmet": "卓越的防御性和功能性。<br>放电时停止吸收伤害。记得充电！",
+
+  "item-handbooktitle-static-armor": "用法",
+  "item-handbooktext-static-armor": "卓越的防御性和功能性。允许按 R 键飞行。<br>放电时停止吸收伤害并关闭飞行模式。记得充电！",
+
+  "item-handbooktitle-static-boots": "用法",
+  "item-handbooktext-static-boots": "卓越的防御性和功能性。<br>放电时停止吸收伤害。记得充电！",
+
+  "game:spear_common": "普通长矛",
+  "game:spear_flash": "离子化长矛",
+  "game:saber_right": "加热/冷却刀刃
+}
