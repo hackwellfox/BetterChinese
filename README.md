@@ -76,3 +76,4 @@
 - `Swordz / 剑刃` [1.1.9](https://mods.vintagestory.at/swordz)
 - `HealthBar / 血条` [1.0.6](https://mods.vintagestory.at/healthbar)
 - `Farseer / 远视者` [1.3.1](https://mods.vintagestory.at/show/mod/22371)
+- `Electrical Progressive: Core / 电气进阶：核心` [0.9.8](https://mods.vintagestory.at/electricalprogressivecore) 
