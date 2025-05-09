@@ -80,3 +80,4 @@
 - `Electrical Progressive: Basics / 电气进阶：基础` [0.9.9](https://mods.vintagestory.at/electricalprogressivebasics)
 - `Electrical Progressive: QoL / 电气进阶：生活质量` [0.9.9](https://mods.vintagestory.at/electricalprogressiveqol)
 - `Electrical Progressive: Equipment / 电气进阶：装备` [0.9.9](https://mods.vintagestory.at/electricalprogressiveequipment)
+- `Immersive Wood Sawing / 沉浸式锯木` [0.2.8](https://mods.vintagestory.at/immersivewoodsawing)
