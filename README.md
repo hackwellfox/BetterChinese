@@ -61,7 +61,7 @@
 - `SqueezeHoneyCombIntoBarrel / 将蜂蜜挤入桶中` [1.0.0](https://mods.vintagestory.at/22112)
 - `From Golden Combs / 来自金色蜂巢` [1.8.12](https://mods.vintagestory.at/fromgoldencombs)
 - `Simple Scored Logs / 简单计分原木` [0.0.6](https://mods.vintagestory.at/show/mod/21403)
-- `Custom Flowerpots / 自定义花盆` [1.2.3](https://mods.vintagestory.at/customflowerpots)
+- `Custom Flowerpots / 自定义花盆` [1.2.5](https://mods.vintagestory.at/customflowerpots)
 - `Clayworks / 黏土工坊` [0.4.3](https://mods.vintagestory.at/clayworks)
 - `CAN Market / CAN市场` [0.4.16](https://mods.vintagestory.at/canmarket)
 - `Rust & Railroads Reborn / 铁锈与铁路重生` [2.0.8](https://mods.vintagestory.at/rustandrailroads)
