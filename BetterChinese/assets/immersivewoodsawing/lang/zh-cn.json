@@ -2,7 +2,7 @@
     "heldhelp-saw": "将原木锯成木板",
 	"blockinteract-saw": "锯",
 	"sawablelog" : "可锯原木",
-	"handbook-sawing-craftinfo" : "将原木放在地上，主手拿着锯子，然后按住<hk>鼠标右键</hk>。",
+	"handbook-sawing-craftinfo" : "将原木放在地上，主手拿着锯子，然后按住<hk>rightmouse</hk>。",
 	"ingameerror-notsawable-claimedland" : "我不能锯这个。我没有被授予该权限。",
 	"ingameerror-notsawable-reinforced" : "无法锯切。此原木已被加固。"
 }
