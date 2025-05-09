@@ -83,3 +83,4 @@
 - `Immersive Wood Sawing / 沉浸式锯木` [0.2.8](https://mods.vintagestory.at/immersivewoodsawing)
 - `Millwright / 磨坊机械` [1.2.0](https://mods.vintagestory.at/millwright)
 - `ProspectTogether / 共同勘探` [2.0.3](https://mods.vintagestory.at/prospecttogether)
+- `BrainFreeze / 脑冻` [1.2.1](https://mods.vintagestory.at/brainfreeze)

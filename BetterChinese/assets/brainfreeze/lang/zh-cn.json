@@ -1,0 +1,34 @@
+{
+  //Error
+  "liquid-frozen": "液体已冻结",
+  "consumable-frozen": "太冻了，无法食用",
+
+  //Transition
+  "transition-freeze": "<font color=\"burlywood\">可冻结。</font>",
+  "transition-freeze-progression": "<font color=\"burlywood\">可冻结。</font> 已冻结 {0}%",
+  "transition-freeze-duration-hours": "将在 {p0:不到一小时|# 小时|# 小时} 内<font color=\"burlywood\">冻结</font>",
+  "transition-freeze-duration-days": "将在 {p0:不到一天|# 天|# 天} 内<font color=\"burlywood\">冻结</font>",
+  "transition-freeze-duration-years": "将在 {p0:不到一年|# 年|# 年} 内<font color=\"burlywood\">冻结</font>",
+  "transition-freeze-handbook": "冻结成",
+
+  "transition-melt": "<font color=\"burlywood\">可融化。</font>",
+  "transition-melt-progression": "<font color=\"burlywood\">可融化。</font> 已融化 {0}%",
+  "transition-melt-duration-hours": "将在 {p0:不到一小时|# 小时|# 小时} 内<font color=\"burlywood\">融化</font>",
+  "transition-melt-duration-days": "将在 {p0:不到一天|# 天|# 天} 内<font color=\"burlywood\">融化</font>",
+  "transition-melt-duration-years": "将在 {p0:不到一年|# 年|# 年} 内<font color=\"burlywood\">融化</font>",
+  "transition-melt-handbook": "融化成",
+
+  //Tabnames
+  "game:tabname-brainfreeze": "脑冻",
+
+  //Interaction
+  "break-ice": "敲成冰块",
+
+  "frozen": "已冻结",
+  //Item
+  "item-icecubes": "冰块",
+  "icecubes-dynamicdesc": "通过将 {0} 凿成小块制成",
+
+  //Ice Cube
+  "icecubes-dye-*": "多么五彩斑斓！"
+}
