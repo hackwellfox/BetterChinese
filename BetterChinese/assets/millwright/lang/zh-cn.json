@@ -1,0 +1,28 @@
+{
+  "game:tabname-millwright": "磨坊机械",
+  "block-windmillrotor-three-*": "三帆风车转子（加固）",
+  "block-windmillrotor-single-*": "四帆风车转子（加固）",
+  "block-windmillrotor-six-*": "六帆风车转子（加固）",
+  "block-windmillrotor-double-*": "八帆风车转子（加固）",
+  "item-sailcentered": "帆（居中）",
+  "item-sailangled": "帆（倾斜）",
+  "item-sailwide": "帆（宽）",
+  "itemdesc-sail*": "风车组件。需要一个加固的风车转子。",
+  "block-brake-north": "制动器（加固）",
+  "block-woodenaxlepassthrough*": "木轴（穿透型）",
+  "blockdesc-woodenaxlepassthrough*": "在实体方块的两侧各放置一个，以在保持房间完整性的同时传递动力。",
+  "blockdesc-suitable-block-needed": "你需要一个更合适的方块来支撑这个轴。",
+  
+  "AllowSailDeconstruction": "允许拆解帆",
+  "AllowSailDeconstruction-Comment": "禁用此项以防止在合成网格中从帆回收亚麻布。",
+  "BrakeResistanceModifier": "制动器阻力",
+  "BrakeResistanceModifier-Comment": "加固制动器的制动阻力修正值。",
+  "SailCenteredModifier": "居中帆修正值",
+  "SailCenteredModifier-Comment": "改进型“居中”帆的输出功率修正值。",
+  "SailAngledModifier": "倾斜帆修正值",
+  "SailAngledModifier-Comment": "改进型“倾斜”帆的输出功率修正值。",
+  "SailWideModifier": "宽帆修正值",
+  "SailWideModifier-Comment": "改进型“宽”帆的输出功率修正值。",
+  "SailRotationModifier": "帆旋转修正值",
+  "SailRotationModifier-Comment": "新帆的旋转速度修正值。仅为客户端装饰性设置。"
+}
