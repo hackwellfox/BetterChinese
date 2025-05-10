@@ -1,13 +1,14 @@
 {
   "blockhelp-pickup": "搬运",
-  "drop-notice": "你从{1}中丢下了{0}。",
-  "drop-notice-destroyed": "你从{1}中丢下了{0}，该物品已损毁。",
-  "drop-notice-destroyed-spill-contents": "你从{1}中丢下了{0}，物品损毁并散落出内容物。",
-  "drop-notice-spill-contents": "你从{1}中丢下了{0}，物品破裂后内容物散落。",
-  "slot-hands": "手部",
-  "slot-back": "背部",
-  "slot-shoulder": "肩部",
-  "pickup-hotkey": "CarryOn - 拿起/放下",
-  "swap-back-hotkey": "CarryOn - 切换至背部功能键",
-  "toggle-hotkey": "CarryOn - 启用/禁用互动功能"
+  "drop-notice": "你从{1}上丢下了{0}。",
+  "drop-notice-destroyed": "你从{1}上丢下了{0}，它已被摧毁。",
+  "drop-notice-destroyed-spill-contents": "你从{1}上丢下了{0}，它被摧毁了，内部物品散落一地。",
+  "drop-notice-spill-contents": "你从{1}上丢下了{0}，它破裂了，内部物品散落一地。",
+  "slot-hands": "手",
+  "slot-back": "背",
+  "slot-shoulder": "肩",
+  "pickup-hotkey": "随身携带 - 拾取/放下",
+  "swap-back-hotkey": "随身携带 - 切换到背部修饰键",
+  "toggle-hotkey": "随身携带 - 启用/禁用交互 (+ ALT)",
+  "quickdrop-hotkey": "随身携带 - 快速丢弃 (+ CTRL + ALT)"
 }
