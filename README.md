@@ -87,3 +87,4 @@
 - `[Infinitum] Item Pickup HUD / [无限] 物品拾取HUD` [1.2.0](https://mods.vintagestory.at/infinitumpickuphud)
 - `Containers Bundle / 容器包` [1.1.0](https://mods.vintagestory.at/containersbundle)
 - `SergsMetalTongs / Serg的金属钳` [2.2.0](https://mods.vintagestory.at/show/mod/16743)
+- `Richeezes Fancy Furniture / Richeez的华丽家具` [1.1.0](https://mods.vintagestory.at/richeezesfancyfurniture)
