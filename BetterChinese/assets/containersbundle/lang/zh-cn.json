@@ -1,0 +1,16 @@
+{
+  "containersbundle:block-*-exquisitechest-*": "精致箱子",
+  "containersbundle:block-*-cupboardnolabel-*": "橱柜",
+  "containersbundle:block-*-cupboardwithlabel-*": "带标签的橱柜",
+  "containersbundle:block-*-linencrate-*": "亚麻板条箱",
+  "containersbundle:block-*-longcrate-*": "长条板条箱",
+  "containersbundle:block-*-wickerbasket-*": "枝条篮",
+  "containersbundle:block-*-woodenbox-*": "木箱",
+
+  "containersbundle:exquisitechestcontents": "精致箱子内容物",
+  "containersbundle:woodenboxcontents": "木箱内容物",
+  "containersbundle:longcratecontents": "长条板条箱内容物",
+  "containersbundle:linencratecontents": "亚麻板条箱内容物",
+  "containersbundle:cupboardcontents": "橱柜内容物",
+  "containersbundle:wickerbasketcontents": "枝条篮内容物"
+}

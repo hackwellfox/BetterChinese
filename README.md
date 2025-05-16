@@ -85,3 +85,4 @@
 - `ProspectTogether / 共同勘探` [2.0.3](https://mods.vintagestory.at/prospecttogether)
 - `BrainFreeze / 脑冻` [1.2.1](https://mods.vintagestory.at/brainfreeze)
 - `[Infinitum] Item Pickup HUD / [无限] 物品拾取HUD` [1.2.0](https://mods.vintagestory.at/infinitumpickuphud)
+- `Containers Bundle / 容器包` [1.1.0](https://mods.vintagestory.at/containersbundle)
