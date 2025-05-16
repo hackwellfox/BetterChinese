@@ -36,6 +36,14 @@
   "expandedfoods-meal-desc": "按食谱分类的熟食：肉炖菜、蔬菜炖菜、汤、粥、果酱和炒蛋。\n含扩展食物模组餐品 <a href=\"https://vsaculinaryartillery.miraheze.org/wiki/EF:Expanded_Meals\">[维基]</a>  <a href=\"handbook://expandedfoodsguide3\">[手册]</a>：焗烤、蜜饯、沙拉、冷面、热面、抓饭和酸奶。",
 
   // Only with expandedfoods installed
+  "flatbread-perfect-cat-name": "完美薄饼",
+  "flatbread-perfect-cat-desc": "火候完美的扁平面饼。",
+  "lavash-perfect-cat-name": "完美拉瓦什",
+  "lavash-perfect-cat-desc": "烤制完美的中东薄饼。",
+  "shawarma-perfect-cat-name": "沙威玛卷",
+  "shawarma-perfect-cat-desc": "各类包裹着美味馅料的沙威玛卷饼。",
+
+  // Only with expandedfoods installed
   "hardtack-bake-cat-name": "硬面饼",
   "hardtack-bake-cat-desc": "制作如面包般简单，但保质期更长。<a href=\"https://vsaculinaryartillery.miraheze.org/wiki/EF:Expanded_Foods#Hardtack\">[维基]</a>  <a href=\"handbook://expandedfoodsguide2\">[手册]</a>",
   "sweetsavory-cat-name": "甜咸小食",
@@ -70,8 +78,8 @@
   "granola-bar-cat-name": "谷物棒",
   "granola-bar-cat-desc": "混合坚果、谷物与蜂蜜制成。",
 
-  "climate-spanning-cat-name": "跨气候食材",
-  "climate-spanning-cat-desc": "需同时使用寒带与热带食材制作的珍稀食物。",
+  "climate-spanning-cat-name": "跨气候美食",
+  "climate-spanning-cat-desc": "需要同时使用寒带和热带食材制作的珍馐。",
 
   "mushroom-cat-name": "菌菇类",
   "mushroom-cat-desc": "所有可采集的蘑菇品种。",
@@ -82,31 +90,31 @@
   "cider-cat-name": "果酒",
   "cider-cat-desc": "初级发酵制成的酒精饮品：苹果酒与蜂蜜酒",
 
-  "alcohol-cat-name": "酒类",
-  "alcohol-cat-desc": "苹果酒、白兰地与生命之水。",
-  "expandedfoods-alcohol-desc": "包含所有酒类：优质葡萄酒、烈酒、苹果酒、白兰地、陈年白兰地、典藏白兰地、伏特加和生命之水。",
+  "alcohol-cat-name": "酒类大全",
+  "alcohol-cat-desc": "包含苹果酒、白兰地与生命之水等蒸馏酒。",
+  "expandedfoods-alcohol-desc": "全系列酒精饮品：优质葡萄酒、烈性葡萄酒、苹果酒、白兰地、陈年白兰地、典藏白兰地、伏特加和生命之水。",
 
-  "cookedfish-cat-name": "烤鱼铺",
-  "cookedfish-cat-desc": "原始生存模组中的所有烤鱼种类。",
+  "cookedfish-cat-name": "渔夫烤鱼",
+  "cookedfish-cat-desc": "原始生存方式烤制的各类鲜鱼。",
 
   "poison-cat-name": "毒物类",
   "poison-cat-desc": "食用后会损失生命值的食物。",
 
-  "hint-pie-mixed-grain": "内含坚果",
-  "hint-pie-pitted": "内含核果",
-  "hint-pie-ground-nut": "内含坚果碎",
-  "hint-pie-choppedvegetable": "内含蔬菜丁",
-  "hint-pie-meatnugget-smashed": "内含肉糜",
-  "hint-pie-meatnugget-raw": "内含生肉块",
-  "hint-pie-meatnugget-cured": "内含腌肉块",
-  "hint-pie-meat-dried": "内含干肉",
-  "hint-pie-meat-cured": "内含腌肉",
+  "hint-pie-mixed-grain": "混合谷物馅",
+  "hint-pie-pitted": "去核果馅",
+  "hint-pie-ground-nut": "坚果粉馅",
+  "hint-pie-choppedvegetable": "蔬菜碎馅",
+  "hint-pie-meatnugget-smashed": "肉糜馅",
+  "hint-pie-meatnugget-raw": "生肉块馅",
+  "hint-pie-meatnugget-cured": "腌肉块馅",
+  "hint-pie-meat-dried": "肉干馅",
+  "hint-pie-meat-cured": "腌肉馅",
   "hint-pie-boiled": "水煮馅料",
-  "hint-pie-wildcraft-pickled": "野生腌渍馅料",
-  "hint-pie-wildcraft": "野生馅料",
-  "hint-pie-floralzones-pickled": "花卉区腌渍馅料",
-  "hint-pie-floralzones": "花卉区馅料",
+  "hint-pie-wildcraft-pickled": "野生腌菜馅",
+  "hint-pie-wildcraft": "野生食材馅",
+  "hint-pie-floralzones-pickled": "花卉区腌菜馅",
+  "hint-pie-floralzones": "花卉区食材馅",
 
-  "hint-meal-pastacold": "冷面沙拉",
+  "hint-meal-pastacold": "冷意面沙拉",
   "hint-meal-pastahot": "热煮意面",
 }
