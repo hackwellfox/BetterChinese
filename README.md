@@ -89,3 +89,4 @@
 - `SergsMetalTongs / Serg的金属钳` [2.2.0](https://mods.vintagestory.at/show/mod/16743)
 - `Richeezes Fancy Furniture / Richeez的华丽家具` [1.1.0](https://mods.vintagestory.at/richeezesfancyfurniture)
 - `Firearms / 火器` [0.14.2](https://mods.vintagestory.at/firearms)
+- `Crossbows / 弩` [1.2.0](https://mods.vintagestory.at/crossbows)
