@@ -90,3 +90,4 @@
 - `Richeezes Fancy Furniture / Richeez的华丽家具` [1.1.0](https://mods.vintagestory.at/richeezesfancyfurniture)
 - `Firearms / 火器` [0.14.2](https://mods.vintagestory.at/firearms)
 - `Crossbows / 弩` [1.2.0](https://mods.vintagestory.at/crossbows)
+- `Genelib / 基因库` [1.0.1](https://mods.vintagestory.at/genelib)
