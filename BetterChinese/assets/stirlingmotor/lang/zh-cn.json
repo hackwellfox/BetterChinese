@@ -1,0 +1,11 @@
+{
+    "stirlingmotor:block-stirlingengineburner-*": "斯特林发动机（燃烧式）",
+    "stirlingmotor:block-stirlingenginesucker-*": "斯特林发动机（地热式）", 
+    "stirlingmotor:block-stirlingenginerotor-*": "斯特林发动机",
+    "stirlingmotor:item-engineparts-raw-chamber": "未烧制斯特林发动机流体室",
+    "stirlingmotor:item-engineparts-burned-chamber": "斯特林发动机流体室",
+    "stirlingmotor:item-engineparts-raw-workpiston": "未烧制斯特林发动机工作活塞",
+    "stirlingmotor:item-engineparts-burned-workpiston": "斯特林发动机工作活塞",
+    "stirlingmotor:item-engineparts-raw-displacerpiston": "未烧制斯特林发动机置换活塞", 
+    "stirlingmotor:item-engineparts-burned-displacerpiston": "斯特林发动机置换活塞"
+}

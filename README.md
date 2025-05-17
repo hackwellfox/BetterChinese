@@ -91,3 +91,4 @@
 - `Firearms / 火器` [0.14.2](https://mods.vintagestory.at/firearms)
 - `Crossbows / 弩` [1.2.0](https://mods.vintagestory.at/crossbows)
 - `Genelib / 基因库` [1.0.1](https://mods.vintagestory.at/genelib)
+- `StirlingMotor / 斯特林发动机` [1.0.1](https://mods.vintagestory.at/show/mod/22566)
