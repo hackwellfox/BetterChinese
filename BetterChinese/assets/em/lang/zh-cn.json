@@ -15,9 +15,9 @@
 
 	"game:material-electrum":					"金银合金",
 
-	"em:item-powdered-metal-temporal":				"时态金属粉末",
+	"em:item-powdered-metal-temporal":				"时空金属粉末",
 
-	"em:item-crushed-metal-temporal":				"时态金属碎块",
+	"em:item-crushed-metal-temporal":				"时空金属碎块",
 
 	"em:itemdesc-crushed-metal-temporal":				"微微振动。",
 
@@ -56,19 +56,20 @@
 	"game:Coal black":						"煤炭黑",
 	"game:Iron black":						"铁黑",
 	"game:Lead gray":						"铅灰",
+	"game:massicot":						"铅黄",
 	"game:Lead white":						"铅白",
 	"game:Manganese green":						"锰绿",
-	"game:Magnesia nigra":						"黑镁矿",
+	"game:Magnesia nigra":						"锰黑",
 	"game:Phosphor red":						"磷红",
 	"game:Phosphor white":						"磷白",
 	"game:Pale pink":						"淡粉",
-	"game:Pale rust":						"淡锈",
-	"game:Red ocre":						"红赭石",
+	"game:Pale rust":						"浅锈色",
+	"game:Red ocre":						"赭红",
 	"game:Rusty brown":						"锈棕",
 	"game:Rusty red":						"锈红",
 	"game:Titanium white":						"钛白",
-	"game:Yellowcake":						"黄饼",
-	"game:Yellow ocre":						"黄赭石",
+	"game:Yellowcake":						"铀黄饼色",
+	"game:Yellow ocre":						"赭黄",
 	"game:Zinc white":						"锌白",
 
 	"game:item-crushed-leadoxide":					"粉碎的氧化铅",
@@ -82,7 +83,7 @@
 	"game:handbook-item-usage-crushed-chromite":            	"耐火砖的重要成分。研磨成细粉后可用作颜料。",
 
 	"game:item-handbooktitle-ore-corundum":				"刚玉",
-	"game:item-handbooktext-ore-corundum":				"多种颜色的半透明硬晶体。红宝石和蓝宝石是两种常见变种。",
+	"game:item-handbooktext-ore-corundum":				"多种颜色的半透明硬晶体。<br>红宝石和蓝宝石是两种常见变种。",
 
 	"em:item-crushed-metal-copper":					"粉碎的铜",
 	"em:item-crushed-metal-gold":					"粉碎的金",
@@ -168,7 +169,7 @@
 	"em:item-powdered-ore-cassiterite":				"氧化锡粉",
 	"em:item-powdered-ore-coal":					"煤粉",
 	"em:item-powdered-ore-chromite":				"铬铁矿粉",
-	"em:item-powdered-ore-chromiumoxide":				"翠绿",
+	"em:item-powdered-ore-chromiumoxide":				"氧化铬",
 	"game:item-powder-cinnabar":					"朱砂",
 	"em:item-powdered-ore-corundum":				"刚玉粉",
 	"em:item-powdered-ore-cupronickel":				"铜镍合金粉",
@@ -278,7 +279,7 @@
 	"game:handbook-item-usage-powdered-ore-pentlandite":	"煅烧镍黄铁矿可去除杂质，得到镍，用于染色或着色各种产品。",
 	"game:handbook-item-usage-powdered-ore-phosphorite":	"增强物品在黑暗中的发光效果。",
 	"game:handbook-item-usage-powdered-ore-quartz":		"石英粉几乎呈白色，是所有玻璃和釉料配方的基础。",
-	"game:handbook-item-usage-powdered-ore-rhodochrosite":	"也称为碳酸锰。单独使用会产生粉红或紫色，与铁结合会产生美丽的深绿色。",
+	"game:handbook-item-usage-powdered-ore-rhodochrosite":	"也称为碳酸锰。<br>单独使用会产生粉红或紫色，与铁结合会产生美丽的深绿色。",
 	"game:handbook-item-usage-powdered-ore-redphosphorus":	"可能用于制造发出红光或橙光的物品。",
 	"game:handbook-item-usage-powdered-ore-sphalerite":	"硫化锌。煅烧后可去除硫，得到<a href=\"handbook://item-em:powdered-metal-zinc\">锌粉</a>。",
 	"game:handbook-item-usage-powdered-ore-ultramarine":	"产生深蓝或紫色。",

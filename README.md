@@ -94,3 +94,4 @@
 89. `StirlingMotor / 斯特林发动机` [1.0.1](https://mods.vintagestory.at/show/mod/22566)
 90. `Dr. K's Extra Metal Lights / Dr.K的额外金属灯` [3.0.2](https://mods.vintagestory.at/show/mod/21317)
 91. `Rustbound Magic / 锈蚀魔法` [2.5.7](https://mods.vintagestory.at/rustboundmagic)
+92. `Teleportation Runes / 传送符文` [1.1.1](https://mods.vintagestory.at/tprunes)
