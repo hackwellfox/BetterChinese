@@ -23,24 +23,26 @@
 
   // Shown in the item info
   "available-points": "可用美食家点数：{0}",
+  "available-points-vague": "可用的美食家点数",
+  "gourmand:already-eaten": "美食家点数已授予",
 
   // Food category names and descriptions
   "food-cat-name": "全品类",
   "food-cat-desc": "按物品或方块代码分类的所有食物。",
 
   "pie-category-cat-name": "派类",
-  "pie-category-cat-desc": "按名称分类的各式派品。",
+  "pie-category-cat-desc": "按名称分类的各类完美烤制的派。",
 
   "meal-category-cat-name": "正餐",
   "meal-category-cat-desc": "按食谱分类的熟食：肉炖菜、蔬菜炖菜、汤、粥、果酱和炒蛋",
   "expandedfoods-meal-desc": "按食谱分类的熟食：肉炖菜、蔬菜炖菜、汤、粥、果酱和炒蛋。\n含扩展食物模组餐品 <a href=\"https://vsaculinaryartillery.miraheze.org/wiki/EF:Expanded_Meals\">[维基]</a>  <a href=\"handbook://expandedfoodsguide3\">[手册]</a>：焗烤、蜜饯、沙拉、冷面、热面、抓饭和酸奶。",
 
   // Only with expandedfoods installed
-  "flatbread-perfect-cat-name": "完美薄饼",
+  "flatbread-perfect-cat-name": "薄饼",
   "flatbread-perfect-cat-desc": "火候完美的扁平面饼。",
-  "lavash-perfect-cat-name": "完美拉瓦什",
+  "lavash-perfect-cat-name": "拉瓦什",
   "lavash-perfect-cat-desc": "烤制完美的中东薄饼。",
-  "shawarma-perfect-cat-name": "沙威玛卷",
+  "shawarma-perfect-cat-name": "沙威玛",
   "shawarma-perfect-cat-desc": "各类包裹着美味馅料的沙威玛卷饼。",
 
   // Only with expandedfoods installed
@@ -57,11 +59,15 @@
   "vegetablejuice-cat-name": "蔬菜汁",
   "vegetablejuice-cat-desc": "各类蔬菜汁，可用任意容器饮用。",
 
+  // Only with maketeaforked installed
+  "tea-cat-name": "茶",
+  "tea-cat-desc": "各类茶。可用任意容器饮用。",
+
   "pickled-food-cat-name": "腌渍食品",
   "pickled-food-cat-desc": "经过腌渍的蔬菜。",
 
-  "bread-perfect-cat-name": "完美面包",
-  "bread-perfect-cat-desc": "火候恰到好处的面包。",
+  "bread-perfect-cat-name": "面包",
+  "bread-perfect-cat-desc": "完美烤制的面包。",
 
   "floralzones-fruit-cat-name": "花卉区水果",
   "floralzones-fruit-cat-desc": "采集并食用世界各地的特色水果。",
@@ -87,20 +93,20 @@
   "juice-cat-name": "果汁类",
   "juice-cat-desc": "各类果汁，可用任意容器饮用。",
 
-  "cider-cat-name": "果酒",
-  "cider-cat-desc": "初级发酵制成的酒精饮品：苹果酒与蜂蜜酒",
+  "cider-cat-name": "发酵酒",
+  "cider-cat-desc": "由初级发酵制成的酒精饮品：如苹果酒和蜂蜜酒",
 
-  "alcohol-cat-name": "酒类大全",
-  "alcohol-cat-desc": "包含苹果酒、白兰地与生命之水等蒸馏酒。",
+  "alcohol-cat-name": "酒类",
+  "alcohol-cat-desc": "苹果酒、白兰地以及生命之水。",
   "expandedfoods-alcohol-desc": "全系列酒精饮品：优质葡萄酒、烈性葡萄酒、苹果酒、白兰地、陈年白兰地、典藏白兰地、伏特加和生命之水。",
 
-  "cookedfish-cat-name": "渔夫烤鱼",
-  "cookedfish-cat-desc": "原始生存方式烤制的各类鲜鱼。",
+  "cookedfish-cat-name": "鱼贩",
+  "cookedfish-cat-desc": "来自“原始生存”模组的各类烤鱼。",
 
   "poison-cat-name": "毒物类",
   "poison-cat-desc": "食用后会损失生命值的食物。",
 
-  "hint-pie-mixed-grain": "混合谷物馅",
+  "hint-pie-mixed-grain": "坚果馅",
   "hint-pie-pitted": "去核果馅",
   "hint-pie-ground-nut": "坚果粉馅",
   "hint-pie-choppedvegetable": "蔬菜碎馅",

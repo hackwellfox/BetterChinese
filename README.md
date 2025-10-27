@@ -7,7 +7,7 @@
 2. `Wool 🙵 More / 羊毛与更多` [1.6.2](https://mods.vintagestory.at/wool)
 3. `Foundry- large scale ingot casting / 铸造厂：大规模铸锭` [1.0.0](https://mods.vintagestory.at/show/mod/1197)
 4. `Ancient Armory / 古代军械库` [1.0.0](https://mods.vintagestory.at/ancientarmory)
-5. `Gourmand / 美食家` [1.7.0](https://mods.vintagestory.at/show/mod/14390)
+5. `Gourmand / 美食家` [1.7.9](https://mods.vintagestory.at/show/mod/14390)
 6. `Early Mod Tool Kit / 早期模组工具包` [3.1.0](https://mods.vintagestory.at/emtk)
 7. `Wild Farming - Revival / 野生农业：复兴` [1.3.4](https://mods.vintagestory.at/wildfarmingrevival)
 8. `Balanced Thirst / 口渴平衡` [0.0.43](https://mods.vintagestory.at/balancedthirst)
