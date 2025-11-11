@@ -2,16 +2,19 @@
 	"em:settings_title":						"扩展物质设置",
 
 	"em:setting_dye_seal_hour_factor":				"植物染料密封时间（小时）",
-	"em:dye_seal_hour_factor_comment":				"植物染料的密封时间，单位为小时。默认值为62。",
+	"em:setting_dye_seal_hour_factor_comment":				"植物染料的密封时间，单位为小时。默认值为62。",
 
 	"em:setting_saltpeter_curing":					"硝石盐水腌制",
-	"em:saltpeter_curing_comment":					"是否可以使用稀释的硝石来保存食物？",
+	"em:setting_saltpeter_curing_comment":					"是否可以使用稀释的硝石来保存食物？",
 
 	"em:setting_ore_panning":					"稀有矿石淘选",
-	"em:ore_panning_comment":					"是否将一些稀有或难以获得的矿石（如铀）添加到淘选列表中？",
+	"em:setting_ore_panning_comment":					"是否将一些稀有或难以获得的矿石（如铀）添加到淘选列表中？",
 
 	"em:setting_flint_factor":					"燧石粉碎系数",
 	"em:setting_flint_factor_comment":				"在粉碎机中，一块燧石能粉碎出多少燧石碎屑",
+	
+	"em:setting_flint_crushing":					"可粉碎燧石矛头和箭头",
+	"em:setting_flint_crushing_comment":				"如果启用该功能，燧石矛头和箭头可以在粉碎机中被粉碎",
 
 	"game:material-electrum":					"金银合金",
 
@@ -56,7 +59,7 @@
 	"game:Coal black":						"煤炭黑",
 	"game:Iron black":						"铁黑",
 	"game:Lead gray":						"铅灰",
-	"game:massicot":						"铅黄",
+
 	"game:Lead white":						"铅白",
 	"game:Manganese green":						"锰绿",
 	"game:Magnesia nigra":						"锰黑",
@@ -84,6 +87,11 @@
 
 	"game:item-handbooktitle-ore-corundum":				"刚玉",
 	"game:item-handbooktext-ore-corundum":				"多种颜色的半透明硬晶体。<br>红宝石和蓝宝石是两种常见变种。",
+	
+	"game:handbook-item-craft-rawrefractorybrick-tier1":		"•将<a href=\"handbook://item-brickmold:refractoryclay-tier1\">耐火粘土混合物(1级)</a>压入<a href=\"handbook://block-brickmold:brickmold-ns\">砖块模具中</a>",
+	"game:handbook-item-craft-rawrefractorybrick-tier2":		"•将<a href=\"handbook://item-brickmold:refractoryclay-tier2\">耐火粘土混合物(2级)</a>压入<a href=\"handbook://block-brickmold:brickmold-ns\">砖块模具中</a>",
+	"game:handbook-item-craft-rawrefractorybrick-tier3":		"•将<a href=\"handbook://item-brickmold:refractoryclay-tier3\">耐火粘土混合物(3级)</a>压入<a href=\"handbook://block-brickmold:brickmold-ns\">砖块模具中</a>",
+
 
 	"em:item-crushed-metal-copper":					"粉碎的铜",
 	"em:item-crushed-metal-gold":					"粉碎的金",
