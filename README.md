@@ -97,3 +97,4 @@
 92. `Teleportation Runes / 传送符文` [1.1.1](https://mods.vintagestory.at/tprunes)
 93. `Novelty! / 新奇感` [1.0.17](https://mods.vintagestory.at/novelty)
 94. `Floral Zones: East Asiatic Region/花卉区：东亚地区` [1.0.18](https://mods.vintagestory.at/floralzoneseastasiaticregion)
+95. `Cartwright´s Caravan/Cartwright的商队` [1.8.0](https://mods.vintagestory.at/cartwrightscaravan#tab-description)
